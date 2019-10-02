@@ -1,0 +1,192 @@
+[
+  {
+    "id": "2593109",
+    "label": "Andaluc\u00eda",
+    "value": "2593109",
+    "lat": 37.6,
+    "lon": -4.5,
+    "poi_name": "Andaluc\u00eda",
+    "parent_id": "2510769",
+    "long": -4.5
+  },
+  {
+    "id": "3336899",
+    "label": "Aragon",
+    "value": "3336899",
+    "lat": 41.5,
+    "lon": -0.66667,
+    "poi_name": "Aragon",
+    "parent_id": "2510769",
+    "long": -0.66667
+  },
+  {
+    "id": "2593110",
+    "label": "Canary Islands",
+    "value": "2593110",
+    "lat": 28,
+    "lon": -15.5,
+    "poi_name": "Canary Islands",
+    "parent_id": "2510769",
+    "long": -15.5
+  },
+  {
+    "id": "3336898",
+    "label": "Cantabria",
+    "value": "3336898",
+    "lat": 43.2,
+    "lon": -4.03333,
+    "poi_name": "Cantabria",
+    "parent_id": "2510769",
+    "long": -4.03333
+  },
+  {
+    "id": "3336900",
+    "label": "Castilla y Le\u00f3n",
+    "value": "3336900",
+    "lat": 41.66667,
+    "lon": -4.25,
+    "poi_name": "Castilla y Le\u00f3n",
+    "parent_id": "2510769",
+    "long": -4.25
+  },
+  {
+    "id": "2593111",
+    "label": "Castilla-La Mancha",
+    "value": "2593111",
+    "lat": 39.5,
+    "lon": -3,
+    "poi_name": "Castilla-La Mancha",
+    "parent_id": "2510769",
+    "long": -3
+  },
+  {
+    "id": "3336901",
+    "label": "Catalunya",
+    "value": "3336901",
+    "lat": 41.82046,
+    "lon": 1.86768,
+    "poi_name": "Catalunya",
+    "parent_id": "2510769",
+    "long": 1.86768
+  },
+  {
+    "id": "2519582",
+    "label": "Ceuta",
+    "value": "2519582",
+    "lat": 35.89028,
+    "lon": -5.3075,
+    "poi_name": "Ceuta",
+    "parent_id": "2510769",
+    "long": -5.3075
+  },
+  {
+    "id": "3117732",
+    "label": "Comunidad de Madrid",
+    "value": "3117732",
+    "lat": 40.42526,
+    "lon": -3.69063,
+    "poi_name": "Comunidad de Madrid",
+    "parent_id": "2510769",
+    "long": -3.69063
+  },
+  {
+    "id": "2521383",
+    "label": "Comunitat Aut\u00f2noma de les Illes Balears",
+    "value": "2521383",
+    "lat": 39.58876,
+    "lon": 2.90314,
+    "poi_name": "Comunitat Aut\u00f2noma de les Illes Balears",
+    "parent_id": "2510769",
+    "long": 2.90314
+  },
+  {
+    "id": "2593113",
+    "label": "Comunitat Valenciana",
+    "value": "2593113",
+    "lat": 39.5,
+    "lon": -0.75,
+    "poi_name": "Comunitat Valenciana",
+    "parent_id": "2510769",
+    "long": -0.75
+  },
+  {
+    "id": "3336903",
+    "label": "Euskal Autonomia Erkidegoa",
+    "value": "3336903",
+    "lat": 43,
+    "lon": -2.75,
+    "poi_name": "Euskal Autonomia Erkidegoa",
+    "parent_id": "2510769",
+    "long": -2.75
+  },
+  {
+    "id": "2593112",
+    "label": "Extremadura",
+    "value": "2593112",
+    "lat": 39.16667,
+    "lon": -6.16667,
+    "poi_name": "Extremadura",
+    "parent_id": "2510769",
+    "long": -6.16667
+  },
+  {
+    "id": "3336902",
+    "label": "Galicia",
+    "value": "3336902",
+    "lat": 42.75508,
+    "lon": -7.86621,
+    "poi_name": "Galicia",
+    "parent_id": "2510769",
+    "long": -7.86621
+  },
+  {
+    "id": "3336897",
+    "label": "La Rioja",
+    "value": "3336897",
+    "lat": 42.3,
+    "lon": -2.5,
+    "poi_name": "La Rioja",
+    "parent_id": "2510769",
+    "long": -2.5
+  },
+  {
+    "id": "6362988",
+    "label": "Melilla",
+    "value": "6362988",
+    "lat": 35.29215,
+    "lon": -2.94434,
+    "poi_name": "Melilla",
+    "parent_id": "2510769",
+    "long": -2.94434
+  },
+  {
+    "id": "3115609",
+    "label": "Navarra",
+    "value": "3115609",
+    "lat": 42.75,
+    "lon": -1.66667,
+    "poi_name": "Navarra",
+    "parent_id": "2510769",
+    "long": -1.66667
+  },
+  {
+    "id": "3114710",
+    "label": "Principality of Asturias",
+    "value": "3114710",
+    "lat": 43.33333,
+    "lon": -6,
+    "poi_name": "Principality of Asturias",
+    "parent_id": "2510769",
+    "long": -6
+  },
+  {
+    "id": "2513413",
+    "label": "Regi\u00f3n de Murcia",
+    "value": "2513413",
+    "lat": 38,
+    "lon": -1.5,
+    "poi_name": "Regi\u00f3n de Murcia",
+    "parent_id": "2510769",
+    "long": -1.5
+  }
+]

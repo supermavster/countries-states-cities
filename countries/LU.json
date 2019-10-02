@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2960629",
+    "label": "Canton d'Echternach",
+    "value": "2960629",
+    "lat": 49.78872,
+    "lon": 6.39024,
+    "poi_name": "Canton d'Echternach",
+    "parent_id": "2960313",
+    "long": 6.39024
+  },
+  {
+    "id": "2960599",
+    "label": "Canton d'Esch-sur-Alzette",
+    "value": "2960599",
+    "lat": 49.5,
+    "lon": 6.03333,
+    "poi_name": "Canton d'Esch-sur-Alzette",
+    "parent_id": "2960313",
+    "long": 6.03333
+  },
+  {
+    "id": "2960696",
+    "label": "Capellen",
+    "value": "2960696",
+    "lat": 49.63678,
+    "lon": 5.97031,
+    "poi_name": "Capellen",
+    "parent_id": "2960313",
+    "long": 5.97031
+  },
+  {
+    "id": "2960683",
+    "label": "Clervaux",
+    "value": "2960683",
+    "lat": 50.07852,
+    "lon": 6.02236,
+    "poi_name": "Clervaux",
+    "parent_id": "2960313",
+    "long": 6.02236
+  },
+  {
+    "id": "2960656",
+    "label": "Diekirch",
+    "value": "2960656",
+    "lat": 49.86155,
+    "lon": 6.1475,
+    "poi_name": "Diekirch",
+    "parent_id": "2960313",
+    "long": 6.1475
+  },
+  {
+    "id": "2960514",
+    "label": "Grevenmacher",
+    "value": "2960514",
+    "lat": 49.68341,
+    "lon": 6.34307,
+    "poi_name": "Grevenmacher",
+    "parent_id": "2960313",
+    "long": 6.34307
+  },
+  {
+    "id": "2960315",
+    "label": "Luxembourg",
+    "value": "2960315",
+    "lat": 49.61427,
+    "lon": 6.17289,
+    "poi_name": "Luxembourg",
+    "parent_id": "2960313",
+    "long": 6.17289
+  },
+  {
+    "id": "2960275",
+    "label": "Mersch",
+    "value": "2960275",
+    "lat": 49.75636,
+    "lon": 6.12717,
+    "poi_name": "Mersch",
+    "parent_id": "2960313",
+    "long": 6.12717
+  },
+  {
+    "id": "2960161",
+    "label": "Redange",
+    "value": "2960161",
+    "lat": 49.79716,
+    "lon": 5.88731,
+    "poi_name": "Redange",
+    "parent_id": "2960313",
+    "long": 5.88731
+  },
+  {
+    "id": "2960152",
+    "label": "Remich",
+    "value": "2960152",
+    "lat": 49.54323,
+    "lon": 6.31779,
+    "poi_name": "Remich",
+    "parent_id": "2960313",
+    "long": 6.31779
+  },
+  {
+    "id": "2960020",
+    "label": "Vianden",
+    "value": "2960020",
+    "lat": 49.93256,
+    "lon": 6.16618,
+    "poi_name": "Vianden",
+    "parent_id": "2960313",
+    "long": 6.16618
+  },
+  {
+    "id": "2959975",
+    "label": "Wiltz",
+    "value": "2959975",
+    "lat": 49.94698,
+    "lon": 5.907,
+    "poi_name": "Wiltz",
+    "parent_id": "2960313",
+    "long": 5.907
+  }
+]

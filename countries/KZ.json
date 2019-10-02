@@ -1,0 +1,172 @@
+[
+  {
+    "id": "610688",
+    "label": "Aktyubinskaya Oblast\u2019",
+    "value": "610688",
+    "lat": 48.58333,
+    "lon": 58.58333,
+    "poi_name": "Aktyubinskaya Oblast\u2019",
+    "parent_id": "1522867",
+    "long": 58.58333
+  },
+  {
+    "id": "1537162",
+    "label": "Almaty Oblysy",
+    "value": "1537162",
+    "lat": 45,
+    "lon": 77.91667,
+    "poi_name": "Almaty Oblysy",
+    "parent_id": "1522867",
+    "long": 77.91667
+  },
+  {
+    "id": "1526395",
+    "label": "Almaty Qalasy",
+    "value": "1526395",
+    "lat": 43.26667,
+    "lon": 76.9,
+    "poi_name": "Almaty Qalasy",
+    "parent_id": "1522867",
+    "long": 76.9
+  },
+  {
+    "id": "1518003",
+    "label": "Aqmola Oblysy",
+    "value": "1518003",
+    "lat": 51.83333,
+    "lon": 69.91667,
+    "poi_name": "Aqmola Oblysy",
+    "parent_id": "1522867",
+    "long": 69.91667
+  },
+  {
+    "id": "1538317",
+    "label": "Astana Qalasy",
+    "value": "1538317",
+    "lat": 51.13333,
+    "lon": 71.43333,
+    "poi_name": "Astana Qalasy",
+    "parent_id": "1522867",
+    "long": 71.43333
+  },
+  {
+    "id": "609862",
+    "label": "Atyra\u016b Oblysy",
+    "value": "609862",
+    "lat": 47.58333,
+    "lon": 52.16667,
+    "poi_name": "Atyra\u016b Oblysy",
+    "parent_id": "1522867",
+    "long": 52.16667
+  },
+  {
+    "id": "1538316",
+    "label": "Baikonur",
+    "value": "1538316",
+    "lat": 45.65,
+    "lon": 63.28333,
+    "poi_name": "Baikonur",
+    "parent_id": "1522867",
+    "long": 63.28333
+  },
+  {
+    "id": "1517381",
+    "label": "East Kazakhstan",
+    "value": "1517381",
+    "lat": 48.83333,
+    "lon": 81.5,
+    "poi_name": "East Kazakhstan",
+    "parent_id": "1522867",
+    "long": 81.5
+  },
+  {
+    "id": "608879",
+    "label": "Mangistauskaya Oblast\u2019",
+    "value": "608879",
+    "lat": 44,
+    "lon": 54,
+    "poi_name": "Mangistauskaya Oblast\u2019",
+    "parent_id": "1522867",
+    "long": 54
+  },
+  {
+    "id": "1519367",
+    "label": "North Kazakhstan",
+    "value": "1519367",
+    "lat": 54.33333,
+    "lon": 69.5,
+    "poi_name": "North Kazakhstan",
+    "parent_id": "1522867",
+    "long": 69.5
+  },
+  {
+    "id": "1520239",
+    "label": "Pavlodar Oblysy",
+    "value": "1520239",
+    "lat": 52.08333,
+    "lon": 76.25,
+    "poi_name": "Pavlodar Oblysy",
+    "parent_id": "1522867",
+    "long": 76.25
+  },
+  {
+    "id": "1523401",
+    "label": "Qaraghandy Oblysy",
+    "value": "1523401",
+    "lat": 48.25,
+    "lon": 71,
+    "poi_name": "Qaraghandy Oblysy",
+    "parent_id": "1522867",
+    "long": 71
+  },
+  {
+    "id": "1521671",
+    "label": "Qostanay Oblysy",
+    "value": "1521671",
+    "lat": 51.5,
+    "lon": 64,
+    "poi_name": "Qostanay Oblysy",
+    "parent_id": "1522867",
+    "long": 64
+  },
+  {
+    "id": "1521406",
+    "label": "Qyzylorda Oblysy",
+    "value": "1521406",
+    "lat": 45.25,
+    "lon": 64.25,
+    "poi_name": "Qyzylorda Oblysy",
+    "parent_id": "1522867",
+    "long": 64.25
+  },
+  {
+    "id": "1524787",
+    "label": "South Kazakhstan",
+    "value": "1524787",
+    "lat": 43.25,
+    "lon": 68.66667,
+    "poi_name": "South Kazakhstan",
+    "parent_id": "1522867",
+    "long": 68.66667
+  },
+  {
+    "id": "607847",
+    "label": "West Kazakhstan",
+    "value": "607847",
+    "lat": 49.83333,
+    "lon": 50.66667,
+    "poi_name": "West Kazakhstan",
+    "parent_id": "1522867",
+    "long": 50.66667
+  },
+  {
+    "id": "1524444",
+    "label": "Zhambyl Oblysy",
+    "value": "1524444",
+    "lat": 44.33333,
+    "lon": 72.08333,
+    "poi_name": "Zhambyl Oblysy",
+    "parent_id": "1522867",
+    "long": 72.08333
+  }
+]

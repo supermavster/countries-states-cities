@@ -1,0 +1,252 @@
+[
+  {
+    "id": "3644541",
+    "label": "Delta Amacuro",
+    "value": "3644541",
+    "lat": 8.75,
+    "lon": -61.33333,
+    "poi_name": "Delta Amacuro",
+    "parent_id": "3625428",
+    "long": -61.33333
+  },
+  {
+    "id": "3640846",
+    "label": "Dependencias Federales",
+    "value": "3640846",
+    "lat": 10.92346,
+    "lon": -65.30889,
+    "poi_name": "Dependencias Federales",
+    "parent_id": "3625428",
+    "long": -65.30889
+  },
+  {
+    "id": "3640847",
+    "label": "Distrito Capital",
+    "value": "3640847",
+    "lat": 10.47639,
+    "lon": -66.98333,
+    "poi_name": "Distrito Capital",
+    "parent_id": "3625428",
+    "long": -66.98333
+  },
+  {
+    "id": "3649302",
+    "label": "Estado Amazonas",
+    "value": "3649302",
+    "lat": 3.5,
+    "lon": -66,
+    "poi_name": "Estado Amazonas",
+    "parent_id": "3625428",
+    "long": -66
+  },
+  {
+    "id": "3649198",
+    "label": "Estado Anzo\u00e1tegui",
+    "value": "3649198",
+    "lat": 9,
+    "lon": -64.33333,
+    "poi_name": "Estado Anzo\u00e1tegui",
+    "parent_id": "3625428",
+    "long": -64.33333
+  },
+  {
+    "id": "3649151",
+    "label": "Estado Apure",
+    "value": "3649151",
+    "lat": 7.16667,
+    "lon": -68.83333,
+    "poi_name": "Estado Apure",
+    "parent_id": "3625428",
+    "long": -68.83333
+  },
+  {
+    "id": "3649110",
+    "label": "Estado Aragua",
+    "value": "3649110",
+    "lat": 10,
+    "lon": -67.16667,
+    "poi_name": "Estado Aragua",
+    "parent_id": "3625428",
+    "long": -67.16667
+  },
+  {
+    "id": "3648544",
+    "label": "Estado Barinas",
+    "value": "3648544",
+    "lat": 8.16667,
+    "lon": -69.83333,
+    "poi_name": "Estado Barinas",
+    "parent_id": "3625428",
+    "long": -69.83333
+  },
+  {
+    "id": "3648106",
+    "label": "Estado Bol\u00edvar",
+    "value": "3648106",
+    "lat": 6.33333,
+    "lon": -63.5,
+    "poi_name": "Estado Bol\u00edvar",
+    "parent_id": "3625428",
+    "long": -63.5
+  },
+  {
+    "id": "3646751",
+    "label": "Estado Carabobo",
+    "value": "3646751",
+    "lat": 10.16667,
+    "lon": -68.08333,
+    "poi_name": "Estado Carabobo",
+    "parent_id": "3625428",
+    "long": -68.08333
+  },
+  {
+    "id": "3645386",
+    "label": "Estado Cojedes",
+    "value": "3645386",
+    "lat": 9.33333,
+    "lon": -68.33333,
+    "poi_name": "Estado Cojedes",
+    "parent_id": "3625428",
+    "long": -68.33333
+  },
+  {
+    "id": "3640873",
+    "label": "Estado Falc\u00f3n",
+    "value": "3640873",
+    "lat": 11,
+    "lon": -69.83333,
+    "poi_name": "Estado Falc\u00f3n",
+    "parent_id": "3625428",
+    "long": -69.83333
+  },
+  {
+    "id": "3640017",
+    "label": "Estado Gu\u00e1rico",
+    "value": "3640017",
+    "lat": 8.66667,
+    "lon": -66.58333,
+    "poi_name": "Estado Gu\u00e1rico",
+    "parent_id": "3625428",
+    "long": -66.58333
+  },
+  {
+    "id": "3636539",
+    "label": "Estado Lara",
+    "value": "3636539",
+    "lat": 10.16667,
+    "lon": -69.83333,
+    "poi_name": "Estado Lara",
+    "parent_id": "3625428",
+    "long": -69.83333
+  },
+  {
+    "id": "3632100",
+    "label": "Estado Monagas",
+    "value": "3632100",
+    "lat": 9.33333,
+    "lon": -63,
+    "poi_name": "Estado Monagas",
+    "parent_id": "3625428",
+    "long": -63
+  },
+  {
+    "id": "3632306",
+    "label": "Estado M\u00e9rida",
+    "value": "3632306",
+    "lat": 8.5,
+    "lon": -71.16667,
+    "poi_name": "Estado M\u00e9rida",
+    "parent_id": "3625428",
+    "long": -71.16667
+  },
+  {
+    "id": "3631462",
+    "label": "Estado Nueva Esparta",
+    "value": "3631462",
+    "lat": 11,
+    "lon": -64,
+    "poi_name": "Estado Nueva Esparta",
+    "parent_id": "3625428",
+    "long": -64
+  },
+  {
+    "id": "3629941",
+    "label": "Estado Portuguesa",
+    "value": "3629941",
+    "lat": 9.16667,
+    "lon": -69.25,
+    "poi_name": "Estado Portuguesa",
+    "parent_id": "3625428",
+    "long": -69.25
+  },
+  {
+    "id": "3626655",
+    "label": "Estado Sucre",
+    "value": "3626655",
+    "lat": 10.41667,
+    "lon": -63.5,
+    "poi_name": "Estado Sucre",
+    "parent_id": "3625428",
+    "long": -63.5
+  },
+  {
+    "id": "3625974",
+    "label": "Estado Trujillo",
+    "value": "3625974",
+    "lat": 9.43856,
+    "lon": -70.50888,
+    "poi_name": "Estado Trujillo",
+    "parent_id": "3625428",
+    "long": -70.50888
+  },
+  {
+    "id": "3626553",
+    "label": "Estado T\u00e1chira",
+    "value": "3626553",
+    "lat": 7.83333,
+    "lon": -72.08333,
+    "poi_name": "Estado T\u00e1chira",
+    "parent_id": "3625428",
+    "long": -72.08333
+  },
+  {
+    "id": "3830309",
+    "label": "Estado Vargas",
+    "value": "3830309",
+    "lat": 10.56667,
+    "lon": -66.9,
+    "poi_name": "Estado Vargas",
+    "parent_id": "3625428",
+    "long": -66.9
+  },
+  {
+    "id": "3625210",
+    "label": "Estado Yaracuy",
+    "value": "3625210",
+    "lat": 10.33974,
+    "lon": -68.73734,
+    "poi_name": "Estado Yaracuy",
+    "parent_id": "3625428",
+    "long": -68.73734
+  },
+  {
+    "id": "3625035",
+    "label": "Estado Zulia",
+    "value": "3625035",
+    "lat": 10,
+    "lon": -72.16667,
+    "poi_name": "Estado Zulia",
+    "parent_id": "3625428",
+    "long": -72.16667
+  },
+  {
+    "id": "3632191",
+    "label": "Miranda",
+    "value": "3632191",
+    "lat": 10.25,
+    "lon": -66.41667,
+    "poi_name": "Miranda",
+    "parent_id": "3625428",
+    "long": -66.41667
+  }
+]

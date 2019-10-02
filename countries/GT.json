@@ -1,0 +1,222 @@
+[
+  {
+    "id": "3599773",
+    "label": "Departamento de Alta Verapaz",
+    "value": "3599773",
+    "lat": 15.66667,
+    "lon": -90,
+    "poi_name": "Departamento de Alta Verapaz",
+    "parent_id": "3595528",
+    "long": -90
+  },
+  {
+    "id": "3599602",
+    "label": "Departamento de Baja Verapaz",
+    "value": "3599602",
+    "lat": 15.08333,
+    "lon": -90.33333,
+    "poi_name": "Departamento de Baja Verapaz",
+    "parent_id": "3595528",
+    "long": -90.33333
+  },
+  {
+    "id": "3598571",
+    "label": "Departamento de Chimaltenango",
+    "value": "3598571",
+    "lat": 14.66667,
+    "lon": -90.91667,
+    "poi_name": "Departamento de Chimaltenango",
+    "parent_id": "3595528",
+    "long": -90.91667
+  },
+  {
+    "id": "3598464",
+    "label": "Departamento de Chiquimula",
+    "value": "3598464",
+    "lat": 14.66667,
+    "lon": -89.41667,
+    "poi_name": "Departamento de Chiquimula",
+    "parent_id": "3595528",
+    "long": -89.41667
+  },
+  {
+    "id": "3596416",
+    "label": "Departamento de El Progreso",
+    "value": "3596416",
+    "lat": 14.83333,
+    "lon": -90,
+    "poi_name": "Departamento de El Progreso",
+    "parent_id": "3595528",
+    "long": -90
+  },
+  {
+    "id": "3595802",
+    "label": "Departamento de Escuintla",
+    "value": "3595802",
+    "lat": 14.16667,
+    "lon": -91,
+    "poi_name": "Departamento de Escuintla",
+    "parent_id": "3595528",
+    "long": -91
+  },
+  {
+    "id": "3595530",
+    "label": "Departamento de Guatemala",
+    "value": "3595530",
+    "lat": 14.66667,
+    "lon": -90.5,
+    "poi_name": "Departamento de Guatemala",
+    "parent_id": "3595528",
+    "long": -90.5
+  },
+  {
+    "id": "3595415",
+    "label": "Departamento de Huehuetenango",
+    "value": "3595415",
+    "lat": 15.66667,
+    "lon": -91.58333,
+    "poi_name": "Departamento de Huehuetenango",
+    "parent_id": "3595528",
+    "long": -91.58333
+  },
+  {
+    "id": "3595259",
+    "label": "Departamento de Izabal",
+    "value": "3595259",
+    "lat": 15.5,
+    "lon": -89,
+    "poi_name": "Departamento de Izabal",
+    "parent_id": "3595528",
+    "long": -89
+  },
+  {
+    "id": "3595236",
+    "label": "Departamento de Jalapa",
+    "value": "3595236",
+    "lat": 14.58333,
+    "lon": -89.91667,
+    "poi_name": "Departamento de Jalapa",
+    "parent_id": "3595528",
+    "long": -89.91667
+  },
+  {
+    "id": "3595067",
+    "label": "Departamento de Jutiapa",
+    "value": "3595067",
+    "lat": 14.16667,
+    "lon": -89.83333,
+    "poi_name": "Departamento de Jutiapa",
+    "parent_id": "3595528",
+    "long": -89.83333
+  },
+  {
+    "id": "3590978",
+    "label": "Departamento de Quetzaltenango",
+    "value": "3590978",
+    "lat": 14.75,
+    "lon": -91.66667,
+    "poi_name": "Departamento de Quetzaltenango",
+    "parent_id": "3595528",
+    "long": -91.66667
+  },
+  {
+    "id": "3590857",
+    "label": "Departamento de Retalhuleu",
+    "value": "3590857",
+    "lat": 14.33333,
+    "lon": -91.83333,
+    "poi_name": "Departamento de Retalhuleu",
+    "parent_id": "3595528",
+    "long": -91.83333
+  },
+  {
+    "id": "3590686",
+    "label": "Departamento de Sacatep\u00e9quez",
+    "value": "3590686",
+    "lat": 14.58333,
+    "lon": -90.75,
+    "poi_name": "Departamento de Sacatep\u00e9quez",
+    "parent_id": "3595528",
+    "long": -90.75
+  },
+  {
+    "id": "3589801",
+    "label": "Departamento de San Marcos",
+    "value": "3589801",
+    "lat": 15,
+    "lon": -91.91667,
+    "poi_name": "Departamento de San Marcos",
+    "parent_id": "3595528",
+    "long": -91.91667
+  },
+  {
+    "id": "3589172",
+    "label": "Departamento de Santa Rosa",
+    "value": "3589172",
+    "lat": 14.16667,
+    "lon": -90.3,
+    "poi_name": "Departamento de Santa Rosa",
+    "parent_id": "3595528",
+    "long": -90.3
+  },
+  {
+    "id": "3588697",
+    "label": "Departamento de Solol\u00e1",
+    "value": "3588697",
+    "lat": 14.66667,
+    "lon": -91.25,
+    "poi_name": "Departamento de Solol\u00e1",
+    "parent_id": "3595528",
+    "long": -91.25
+  },
+  {
+    "id": "3588668",
+    "label": "Departamento de Suchitep\u00e9quez",
+    "value": "3588668",
+    "lat": 14.38084,
+    "lon": -91.43046,
+    "poi_name": "Departamento de Suchitep\u00e9quez",
+    "parent_id": "3595528",
+    "long": -91.43046
+  },
+  {
+    "id": "3588257",
+    "label": "Departamento de Totonicap\u00e1n",
+    "value": "3588257",
+    "lat": 15,
+    "lon": -91.33333,
+    "poi_name": "Departamento de Totonicap\u00e1n",
+    "parent_id": "3595528",
+    "long": -91.33333
+  },
+  {
+    "id": "3587586",
+    "label": "Departamento de Zacapa",
+    "value": "3587586",
+    "lat": 15,
+    "lon": -89.5,
+    "poi_name": "Departamento de Zacapa",
+    "parent_id": "3595528",
+    "long": -89.5
+  },
+  {
+    "id": "3591410",
+    "label": "Departamento del Pet\u00e9n",
+    "value": "3591410",
+    "lat": 16.83333,
+    "lon": -90,
+    "poi_name": "Departamento del Pet\u00e9n",
+    "parent_id": "3595528",
+    "long": -90
+  },
+  {
+    "id": "3590964",
+    "label": "Departamento del Quich\u00e9",
+    "value": "3590964",
+    "lat": 15.5,
+    "lon": -90.91667,
+    "poi_name": "Departamento del Quich\u00e9",
+    "parent_id": "3595528",
+    "long": -90.91667
+  }
+]

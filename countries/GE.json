@@ -1,0 +1,122 @@
+[
+  {
+    "id": "6643410",
+    "label": "Abkhazia",
+    "value": "6643410",
+    "lat": 43.0005,
+    "lon": 41.00501,
+    "poi_name": "Abkhazia",
+    "parent_id": "614540",
+    "long": 41.00501
+  },
+  {
+    "id": "615929",
+    "label": "Ajaria",
+    "value": "615929",
+    "lat": 41.66667,
+    "lon": 42,
+    "poi_name": "Ajaria",
+    "parent_id": "614540",
+    "long": 42
+  },
+  {
+    "id": "865538",
+    "label": "Guria",
+    "value": "865538",
+    "lat": 41.96667,
+    "lon": 42.2,
+    "poi_name": "Guria",
+    "parent_id": "614540",
+    "long": 42.2
+  },
+  {
+    "id": "865539",
+    "label": "Imereti",
+    "value": "865539",
+    "lat": 42.16667,
+    "lon": 42.98333,
+    "poi_name": "Imereti",
+    "parent_id": "614540",
+    "long": 42.98333
+  },
+  {
+    "id": "611716",
+    "label": "K'alak'i T'bilisi",
+    "value": "611716",
+    "lat": 41.71667,
+    "lon": 44.83333,
+    "poi_name": "K'alak'i T'bilisi",
+    "parent_id": "614540",
+    "long": 44.83333
+  },
+  {
+    "id": "865537",
+    "label": "Kakheti",
+    "value": "865537",
+    "lat": 41.75,
+    "lon": 45.71667,
+    "poi_name": "Kakheti",
+    "parent_id": "614540",
+    "long": 45.71667
+  },
+  {
+    "id": "865536",
+    "label": "Kvemo Kartli",
+    "value": "865536",
+    "lat": 41.51667,
+    "lon": 44.51667,
+    "poi_name": "Kvemo Kartli",
+    "parent_id": "614540",
+    "long": 44.51667
+  },
+  {
+    "id": "865541",
+    "label": "Mtskheta-Mtianeti",
+    "value": "865541",
+    "lat": 42.28333,
+    "lon": 44.75,
+    "poi_name": "Mtskheta-Mtianeti",
+    "parent_id": "614540",
+    "long": 44.75
+  },
+  {
+    "id": "865542",
+    "label": "Racha-Lechkhumi and Kvemo Svaneti",
+    "value": "865542",
+    "lat": 42.63333,
+    "lon": 43.13333,
+    "poi_name": "Racha-Lechkhumi and Kvemo Svaneti",
+    "parent_id": "614540",
+    "long": 43.13333
+  },
+  {
+    "id": "865543",
+    "label": "Samegrelo-Zemo Svanetis Mkhare",
+    "value": "865543",
+    "lat": 42.70076,
+    "lon": 42.21496,
+    "poi_name": "Samegrelo-Zemo Svanetis Mkhare",
+    "parent_id": "614540",
+    "long": 42.21496
+  },
+  {
+    "id": "865544",
+    "label": "Samtskhe-Javakheti",
+    "value": "865544",
+    "lat": 41.58333,
+    "lon": 43.26667,
+    "poi_name": "Samtskhe-Javakheti",
+    "parent_id": "614540",
+    "long": 43.26667
+  },
+  {
+    "id": "865540",
+    "label": "Shida Kartli",
+    "value": "865540",
+    "lat": 42.32,
+    "lon": 44.14,
+    "poi_name": "Shida Kartli",
+    "parent_id": "614540",
+    "long": 44.14
+  }
+]

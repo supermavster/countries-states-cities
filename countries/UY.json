@@ -1,0 +1,192 @@
+[
+  {
+    "id": "3443756",
+    "label": "Departamento de Artigas",
+    "value": "3443756",
+    "lat": -30.58333,
+    "lon": -57,
+    "poi_name": "Departamento de Artigas",
+    "parent_id": "3439705",
+    "long": -57
+  },
+  {
+    "id": "3443411",
+    "label": "Departamento de Canelones",
+    "value": "3443411",
+    "lat": -34.53333,
+    "lon": -55.91667,
+    "poi_name": "Departamento de Canelones",
+    "parent_id": "3439705",
+    "long": -55.91667
+  },
+  {
+    "id": "3443173",
+    "label": "Departamento de Cerro Largo",
+    "value": "3443173",
+    "lat": -32.33333,
+    "lon": -54.33333,
+    "poi_name": "Departamento de Cerro Largo",
+    "parent_id": "3439705",
+    "long": -54.33333
+  },
+  {
+    "id": "3443025",
+    "label": "Departamento de Colonia",
+    "value": "3443025",
+    "lat": -34.16667,
+    "lon": -57.66667,
+    "poi_name": "Departamento de Colonia",
+    "parent_id": "3439705",
+    "long": -57.66667
+  },
+  {
+    "id": "3442720",
+    "label": "Departamento de Durazno",
+    "value": "3442720",
+    "lat": -33.08333,
+    "lon": -56.08333,
+    "poi_name": "Departamento de Durazno",
+    "parent_id": "3439705",
+    "long": -56.08333
+  },
+  {
+    "id": "3442587",
+    "label": "Departamento de Flores",
+    "value": "3442587",
+    "lat": -33.58333,
+    "lon": -56.83333,
+    "poi_name": "Departamento de Flores",
+    "parent_id": "3439705",
+    "long": -56.83333
+  },
+  {
+    "id": "3442584",
+    "label": "Departamento de Florida",
+    "value": "3442584",
+    "lat": -33.83333,
+    "lon": -55.91667,
+    "poi_name": "Departamento de Florida",
+    "parent_id": "3439705",
+    "long": -55.91667
+  },
+  {
+    "id": "3442007",
+    "label": "Departamento de Lavalleja",
+    "value": "3442007",
+    "lat": -34,
+    "lon": -55,
+    "poi_name": "Departamento de Lavalleja",
+    "parent_id": "3439705",
+    "long": -55
+  },
+  {
+    "id": "3441890",
+    "label": "Departamento de Maldonado",
+    "value": "3441890",
+    "lat": -34.58333,
+    "lon": -54.83333,
+    "poi_name": "Departamento de Maldonado",
+    "parent_id": "3439705",
+    "long": -54.83333
+  },
+  {
+    "id": "3441572",
+    "label": "Departamento de Montevideo",
+    "value": "3441572",
+    "lat": -34.825,
+    "lon": -56.2,
+    "poi_name": "Departamento de Montevideo",
+    "parent_id": "3439705",
+    "long": -56.2
+  },
+  {
+    "id": "3441242",
+    "label": "Departamento de Paysand\u00fa",
+    "value": "3441242",
+    "lat": -32.08333,
+    "lon": -57.25,
+    "poi_name": "Departamento de Paysand\u00fa",
+    "parent_id": "3439705",
+    "long": -57.25
+  },
+  {
+    "id": "3440780",
+    "label": "Departamento de Rivera",
+    "value": "3440780",
+    "lat": -31.5,
+    "lon": -55.25,
+    "poi_name": "Departamento de Rivera",
+    "parent_id": "3439705",
+    "long": -55.25
+  },
+  {
+    "id": "3440771",
+    "label": "Departamento de Rocha",
+    "value": "3440771",
+    "lat": -34,
+    "lon": -54,
+    "poi_name": "Departamento de Rocha",
+    "parent_id": "3439705",
+    "long": -54
+  },
+  {
+    "id": "3440789",
+    "label": "Departamento de R\u00edo Negro",
+    "value": "3440789",
+    "lat": -32.75,
+    "lon": -57.33333,
+    "poi_name": "Departamento de R\u00edo Negro",
+    "parent_id": "3439705",
+    "long": -57.33333
+  },
+  {
+    "id": "3440711",
+    "label": "Departamento de Salto",
+    "value": "3440711",
+    "lat": -31.41667,
+    "lon": -57,
+    "poi_name": "Departamento de Salto",
+    "parent_id": "3439705",
+    "long": -57
+  },
+  {
+    "id": "3440645",
+    "label": "Departamento de San Jos\u00e9",
+    "value": "3440645",
+    "lat": -34.25,
+    "lon": -56.75,
+    "poi_name": "Departamento de San Jos\u00e9",
+    "parent_id": "3439705",
+    "long": -56.75
+  },
+  {
+    "id": "3440054",
+    "label": "Departamento de Soriano",
+    "value": "3440054",
+    "lat": -33.5,
+    "lon": -57.75,
+    "poi_name": "Departamento de Soriano",
+    "parent_id": "3439705",
+    "long": -57.75
+  },
+  {
+    "id": "3440033",
+    "label": "Departamento de Tacuaremb\u00f3",
+    "value": "3440033",
+    "lat": -32.08333,
+    "lon": -55.75,
+    "poi_name": "Departamento de Tacuaremb\u00f3",
+    "parent_id": "3439705",
+    "long": -55.75
+  },
+  {
+    "id": "3439780",
+    "label": "Departamento de Treinta y Tres",
+    "value": "3439780",
+    "lat": -33,
+    "lon": -54.25,
+    "poi_name": "Departamento de Treinta y Tres",
+    "parent_id": "3439705",
+    "long": -54.25
+  }
+]

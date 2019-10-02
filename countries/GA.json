@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2400682",
+    "label": "Estuaire",
+    "value": "2400682",
+    "lat": 0.3,
+    "lon": 10.03333,
+    "poi_name": "Estuaire",
+    "parent_id": "2400553",
+    "long": 10.03333
+  },
+  {
+    "id": "2397466",
+    "label": "Province de la Ngouni\u00e9",
+    "value": "2397466",
+    "lat": -1.63333,
+    "lon": 11.16667,
+    "poi_name": "Province de la Ngouni\u00e9",
+    "parent_id": "2400553",
+    "long": 11.16667
+  },
+  {
+    "id": "2397141",
+    "label": "Province de la Nyanga",
+    "value": "2397141",
+    "lat": -3,
+    "lon": 11,
+    "poi_name": "Province de la Nyanga",
+    "parent_id": "2400553",
+    "long": 11
+  },
+  {
+    "id": "2396926",
+    "label": "Province de l\u2019Ogoou\u00e9-Ivindo",
+    "value": "2396926",
+    "lat": 0.66667,
+    "lon": 12.83333,
+    "poi_name": "Province de l\u2019Ogoou\u00e9-Ivindo",
+    "parent_id": "2400553",
+    "long": 12.83333
+  },
+  {
+    "id": "2396925",
+    "label": "Province de l\u2019Ogoou\u00e9-Lolo",
+    "value": "2396925",
+    "lat": -0.83333,
+    "lon": 12.66667,
+    "poi_name": "Province de l\u2019Ogoou\u00e9-Lolo",
+    "parent_id": "2400553",
+    "long": 12.66667
+  },
+  {
+    "id": "2396924",
+    "label": "Province de l\u2019Ogoou\u00e9-Maritime",
+    "value": "2396924",
+    "lat": -1.58333,
+    "lon": 9.58333,
+    "poi_name": "Province de l\u2019Ogoou\u00e9-Maritime",
+    "parent_id": "2400553",
+    "long": 9.58333
+  },
+  {
+    "id": "2400454",
+    "label": "Province du Haut-Ogoou\u00e9",
+    "value": "2400454",
+    "lat": -1.3,
+    "lon": 13.9,
+    "poi_name": "Province du Haut-Ogoou\u00e9",
+    "parent_id": "2400553",
+    "long": 13.9
+  },
+  {
+    "id": "2397842",
+    "label": "Province du Moyen-Ogoou\u00e9",
+    "value": "2397842",
+    "lat": -0.41667,
+    "lon": 10.58333,
+    "poi_name": "Province du Moyen-Ogoou\u00e9",
+    "parent_id": "2400553",
+    "long": 10.58333
+  },
+  {
+    "id": "2396076",
+    "label": "Province du Woleu-Ntem",
+    "value": "2396076",
+    "lat": 1.5,
+    "lon": 12,
+    "poi_name": "Province du Woleu-Ntem",
+    "parent_id": "2400553",
+    "long": 12
+  }
+]

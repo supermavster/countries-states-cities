@@ -1,0 +1,82 @@
+[
+  {
+    "id": "2177478",
+    "label": "Australian Capital Territory",
+    "value": "2177478",
+    "lat": -35.5,
+    "lon": 149,
+    "poi_name": "Australian Capital Territory",
+    "parent_id": "2077456",
+    "long": 149
+  },
+  {
+    "id": "2064513",
+    "label": "Northern Territory",
+    "value": "2064513",
+    "lat": -20,
+    "lon": 134,
+    "poi_name": "Northern Territory",
+    "parent_id": "2077456",
+    "long": 134
+  },
+  {
+    "id": "2155400",
+    "label": "State of New South Wales",
+    "value": "2155400",
+    "lat": -33,
+    "lon": 146,
+    "poi_name": "State of New South Wales",
+    "parent_id": "2077456",
+    "long": 146
+  },
+  {
+    "id": "2152274",
+    "label": "State of Queensland",
+    "value": "2152274",
+    "lat": -20,
+    "lon": 145,
+    "poi_name": "State of Queensland",
+    "parent_id": "2077456",
+    "long": 145
+  },
+  {
+    "id": "2061327",
+    "label": "State of South Australia",
+    "value": "2061327",
+    "lat": -30,
+    "lon": 135,
+    "poi_name": "State of South Australia",
+    "parent_id": "2077456",
+    "long": 135
+  },
+  {
+    "id": "2147291",
+    "label": "State of Tasmania",
+    "value": "2147291",
+    "lat": -42,
+    "lon": 147,
+    "poi_name": "State of Tasmania",
+    "parent_id": "2077456",
+    "long": 147
+  },
+  {
+    "id": "2145234",
+    "label": "State of Victoria",
+    "value": "2145234",
+    "lat": -37,
+    "lon": 145,
+    "poi_name": "State of Victoria",
+    "parent_id": "2077456",
+    "long": 145
+  },
+  {
+    "id": "2058645",
+    "label": "State of Western Australia",
+    "value": "2058645",
+    "lat": -25,
+    "lon": 122,
+    "poi_name": "State of Western Australia",
+    "parent_id": "2077456",
+    "long": 122
+  }
+]

@@ -1,0 +1,102 @@
+[
+  {
+    "id": "3379515",
+    "label": "Barima-Waini Region",
+    "value": "3379515",
+    "lat": 7.66667,
+    "lon": -59.75,
+    "poi_name": "Barima-Waini Region",
+    "parent_id": "3378535",
+    "long": -59.75
+  },
+  {
+    "id": "3379023",
+    "label": "Cuyuni-Mazaruni Region",
+    "value": "3379023",
+    "lat": 6,
+    "lon": -60,
+    "poi_name": "Cuyuni-Mazaruni Region",
+    "parent_id": "3378535",
+    "long": -60
+  },
+  {
+    "id": "3378950",
+    "label": "Demerara-Mahaica Region",
+    "value": "3378950",
+    "lat": 6.5,
+    "lon": -58.08333,
+    "poi_name": "Demerara-Mahaica Region",
+    "parent_id": "3378535",
+    "long": -58.08333
+  },
+  {
+    "id": "3378840",
+    "label": "East Berbice-Corentyne Region",
+    "value": "3378840",
+    "lat": 4,
+    "lon": -58.16667,
+    "poi_name": "East Berbice-Corentyne Region",
+    "parent_id": "3378535",
+    "long": -58.16667
+  },
+  {
+    "id": "3378741",
+    "label": "Essequibo Islands-West Demerara Region",
+    "value": "3378741",
+    "lat": 6.66667,
+    "lon": -58.5,
+    "poi_name": "Essequibo Islands-West Demerara Region",
+    "parent_id": "3378535",
+    "long": -58.5
+  },
+  {
+    "id": "3377274",
+    "label": "Mahaica-Berbice Region",
+    "value": "3377274",
+    "lat": 6.25,
+    "lon": -57.83333,
+    "poi_name": "Mahaica-Berbice Region",
+    "parent_id": "3378535",
+    "long": -57.83333
+  },
+  {
+    "id": "3376407",
+    "label": "Pomeroon-Supenaam Region",
+    "value": "3376407",
+    "lat": 7.08333,
+    "lon": -58.83333,
+    "poi_name": "Pomeroon-Supenaam Region",
+    "parent_id": "3378535",
+    "long": -58.83333
+  },
+  {
+    "id": "3376386",
+    "label": "Potaro-Siparuni Region",
+    "value": "3376386",
+    "lat": 4.9,
+    "lon": -59.3,
+    "poi_name": "Potaro-Siparuni Region",
+    "parent_id": "3378535",
+    "long": -59.3
+  },
+  {
+    "id": "3375469",
+    "label": "Upper Demerara-Berbice Region",
+    "value": "3375469",
+    "lat": 5.5,
+    "lon": -58.33333,
+    "poi_name": "Upper Demerara-Berbice Region",
+    "parent_id": "3378535",
+    "long": -58.33333
+  },
+  {
+    "id": "3375463",
+    "label": "Upper Takutu-Upper Essequibo Region",
+    "value": "3375463",
+    "lat": 2.91667,
+    "lon": -59,
+    "poi_name": "Upper Takutu-Upper Essequibo Region",
+    "parent_id": "3378535",
+    "long": -59
+  }
+]

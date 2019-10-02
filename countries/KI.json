@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2110215",
+    "label": "Gilbert Islands",
+    "value": "2110215",
+    "lat": 1.42,
+    "lon": 172.984,
+    "poi_name": "Gilbert Islands",
+    "parent_id": "4030945",
+    "long": 172.984
+  },
+  {
+    "id": "4030940",
+    "label": "Line Islands",
+    "value": "4030940",
+    "lat": 1.942,
+    "lon": -157.475,
+    "poi_name": "Line Islands",
+    "parent_id": "4030945",
+    "long": -157.475
+  },
+  {
+    "id": "7521379",
+    "label": "Phoenix Islands",
+    "value": "7521379",
+    "lat": -2.808,
+    "lon": -171.678,
+    "poi_name": "Phoenix Islands",
+    "parent_id": "4030945",
+    "long": -171.678
+  }
+]

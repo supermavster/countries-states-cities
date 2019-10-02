@@ -1,0 +1,112 @@
+[
+  {
+    "id": "8394434",
+    "label": "Al Batinah North Governorate",
+    "value": "8394434",
+    "lat": 24,
+    "lon": 56.75,
+    "poi_name": "Al Batinah North Governorate",
+    "parent_id": "286963",
+    "long": 56.75
+  },
+  {
+    "id": "411736",
+    "label": "Al Batinah South Governorate",
+    "value": "411736",
+    "lat": 23.45,
+    "lon": 57.7,
+    "poi_name": "Al Batinah South Governorate",
+    "parent_id": "286963",
+    "long": 57.7
+  },
+  {
+    "id": "411738",
+    "label": "Ash Sharqiyah South",
+    "value": "411738",
+    "lat": 21.65,
+    "lon": 59.1,
+    "poi_name": "Ash Sharqiyah South",
+    "parent_id": "286963",
+    "long": 59.1
+  },
+  {
+    "id": "411739",
+    "label": "Az\u0327 Z\u0327\u0101hirah",
+    "value": "411739",
+    "lat": 22.9,
+    "lon": 55.95,
+    "poi_name": "Az\u0327 Z\u0327\u0101hirah",
+    "parent_id": "286963",
+    "long": 55.95
+  },
+  {
+    "id": "411741",
+    "label": "Musandam",
+    "value": "411741",
+    "lat": 26.03333,
+    "lon": 56.3,
+    "poi_name": "Musandam",
+    "parent_id": "286963",
+    "long": 56.3
+  },
+  {
+    "id": "411740",
+    "label": "Mu\u1e29\u0101faz\u0327at Masqa\u0163",
+    "value": "411740",
+    "lat": 23.5835,
+    "lon": 58.40366,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Masqa\u0163",
+    "parent_id": "286963",
+    "long": 58.40366
+  },
+  {
+    "id": "8394433",
+    "label": "Mu\u1e29\u0101faz\u0327at Sham\u0101l ash Sharq\u012byah",
+    "value": "8394433",
+    "lat": 22.1,
+    "lon": 58.43333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Sham\u0101l ash Sharq\u012byah",
+    "parent_id": "286963",
+    "long": 58.43333
+  },
+  {
+    "id": "411742",
+    "label": "Mu\u1e29\u0101faz\u0327at Z\u0327uf\u0101r",
+    "value": "411742",
+    "lat": 18.48333,
+    "lon": 54.18333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Z\u0327uf\u0101r",
+    "parent_id": "286963",
+    "long": 54.18333
+  },
+  {
+    "id": "411735",
+    "label": "Mu\u1e29\u0101faz\u0327at ad D\u0101khil\u012byah",
+    "value": "411735",
+    "lat": 22.5,
+    "lon": 57.33333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at ad D\u0101khil\u012byah",
+    "parent_id": "286963",
+    "long": 57.33333
+  },
+  {
+    "id": "7110710",
+    "label": "Mu\u1e29\u0101faz\u0327at al Buraym\u012b",
+    "value": "7110710",
+    "lat": 24.21667,
+    "lon": 56.11667,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at al Buraym\u012b",
+    "parent_id": "286963",
+    "long": 56.11667
+  },
+  {
+    "id": "411737",
+    "label": "Mu\u1e29\u0101faz\u0327at al Wus\u0163\u00e1",
+    "value": "411737",
+    "lat": 20.16667,
+    "lon": 56.61667,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at al Wus\u0163\u00e1",
+    "parent_id": "286963",
+    "long": 56.61667
+  }
+]

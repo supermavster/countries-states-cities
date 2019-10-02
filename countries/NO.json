@@ -1,0 +1,192 @@
+[
+  {
+    "id": "3163480",
+    "label": "Akershus fylke",
+    "value": "3163480",
+    "lat": 60,
+    "lon": 11.16667,
+    "poi_name": "Akershus fylke",
+    "parent_id": "3144096",
+    "long": 11.16667
+  },
+  {
+    "id": "3162354",
+    "label": "Aust-Agder fylke",
+    "value": "3162354",
+    "lat": 58.4643,
+    "lon": 8.768,
+    "poi_name": "Aust-Agder fylke",
+    "parent_id": "3144096",
+    "long": 8.768
+  },
+  {
+    "id": "3159665",
+    "label": "Buskerud fylke",
+    "value": "3159665",
+    "lat": 59.7484,
+    "lon": 10.1891,
+    "poi_name": "Buskerud fylke",
+    "parent_id": "3144096",
+    "long": 10.1891
+  },
+  {
+    "id": "780166",
+    "label": "Finnmark Fylke",
+    "value": "780166",
+    "lat": 70.0815,
+    "lon": 29.7358,
+    "poi_name": "Finnmark Fylke",
+    "parent_id": "3144096",
+    "long": 29.7358
+  },
+  {
+    "id": "3153403",
+    "label": "Hedmark fylke",
+    "value": "3153403",
+    "lat": 60.7953,
+    "lon": 11.0827,
+    "poi_name": "Hedmark fylke",
+    "parent_id": "3144096",
+    "long": 11.0827
+  },
+  {
+    "id": "3151864",
+    "label": "Hordaland Fylke",
+    "value": "3151864",
+    "lat": 60.3867,
+    "lon": 5.3325,
+    "poi_name": "Hordaland Fylke",
+    "parent_id": "3144096",
+    "long": 5.3325
+  },
+  {
+    "id": "3145495",
+    "label": "M\u00f8re og Romsdal fylke",
+    "value": "3145495",
+    "lat": 62.7345,
+    "lon": 7.1506,
+    "poi_name": "M\u00f8re og Romsdal fylke",
+    "parent_id": "3144096",
+    "long": 7.1506
+  },
+  {
+    "id": "3144148",
+    "label": "Nord-Tr\u00f8ndelag Fylke",
+    "value": "3144148",
+    "lat": 64.28042,
+    "lon": 12.26667,
+    "poi_name": "Nord-Tr\u00f8ndelag Fylke",
+    "parent_id": "3144096",
+    "long": 12.26667
+  },
+  {
+    "id": "3144301",
+    "label": "Nordland Fylke",
+    "value": "3144301",
+    "lat": 66.914,
+    "lon": 14.76254,
+    "poi_name": "Nordland Fylke",
+    "parent_id": "3144096",
+    "long": 14.76254
+  },
+  {
+    "id": "3143487",
+    "label": "Oppland fylke",
+    "value": "3143487",
+    "lat": 61.1163,
+    "lon": 10.4622,
+    "poi_name": "Oppland fylke",
+    "parent_id": "3144096",
+    "long": 10.4622
+  },
+  {
+    "id": "3143242",
+    "label": "Oslo County",
+    "value": "3143242",
+    "lat": 59.9119,
+    "lon": 10.7336,
+    "poi_name": "Oslo County",
+    "parent_id": "3144096",
+    "long": 10.7336
+  },
+  {
+    "id": "3141558",
+    "label": "Rogaland Fylke",
+    "value": "3141558",
+    "lat": 59.09608,
+    "lon": 6.20442,
+    "poi_name": "Rogaland Fylke",
+    "parent_id": "3144096",
+    "long": 6.20442
+  },
+  {
+    "id": "3137966",
+    "label": "Sogn og Fjordane Fylke",
+    "value": "3137966",
+    "lat": 61.1826,
+    "lon": 6.8526,
+    "poi_name": "Sogn og Fjordane Fylke",
+    "parent_id": "3144096",
+    "long": 6.8526
+  },
+  {
+    "id": "3137400",
+    "label": "S\u00f8r-Tr\u00f8ndelag Fylke",
+    "value": "3137400",
+    "lat": 63.4292,
+    "lon": 10.3945,
+    "poi_name": "S\u00f8r-Tr\u00f8ndelag Fylke",
+    "parent_id": "3144096",
+    "long": 10.3945
+  },
+  {
+    "id": "3134723",
+    "label": "Telemark fylke",
+    "value": "3134723",
+    "lat": 59.2161,
+    "lon": 9.6112,
+    "poi_name": "Telemark fylke",
+    "parent_id": "3144096",
+    "long": 9.6112
+  },
+  {
+    "id": "3133897",
+    "label": "Troms Fylke",
+    "value": "3133897",
+    "lat": 69.26591,
+    "lon": 19.51504,
+    "poi_name": "Troms Fylke",
+    "parent_id": "3144096",
+    "long": 19.51504
+  },
+  {
+    "id": "3132064",
+    "label": "Vest-Agder Fylke",
+    "value": "3132064",
+    "lat": 58.1513,
+    "lon": 7.9947,
+    "poi_name": "Vest-Agder Fylke",
+    "parent_id": "3144096",
+    "long": 7.9947
+  },
+  {
+    "id": "3132015",
+    "label": "Vestfold fylke",
+    "value": "3132015",
+    "lat": 59.2654,
+    "lon": 10.4159,
+    "poi_name": "Vestfold fylke",
+    "parent_id": "3144096",
+    "long": 10.4159
+  },
+  {
+    "id": "3143188",
+    "label": "\u00d8stfold fylke",
+    "value": "3143188",
+    "lat": 59.2752,
+    "lon": 11.1058,
+    "poi_name": "\u00d8stfold fylke",
+    "parent_id": "3144096",
+    "long": 11.1058
+  }
+]

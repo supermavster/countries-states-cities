@@ -1,0 +1,62 @@
+[
+  {
+    "id": "448497",
+    "label": "Anseba Region",
+    "value": "448497",
+    "lat": 16.5,
+    "lon": 37.5,
+    "poi_name": "Anseba Region",
+    "parent_id": "338010",
+    "long": 37.5
+  },
+  {
+    "id": "448498",
+    "label": "Debub Region",
+    "value": "448498",
+    "lat": 14.83333,
+    "lon": 38.83333,
+    "poi_name": "Debub Region",
+    "parent_id": "338010",
+    "long": 38.83333
+  },
+  {
+    "id": "448500",
+    "label": "Gash-Barka Region",
+    "value": "448500",
+    "lat": 15.25,
+    "lon": 37.5,
+    "poi_name": "Gash-Barka Region",
+    "parent_id": "338010",
+    "long": 37.5
+  },
+  {
+    "id": "448501",
+    "label": "Maekel Region",
+    "value": "448501",
+    "lat": 15.33333,
+    "lon": 38.91667,
+    "poi_name": "Maekel Region",
+    "parent_id": "338010",
+    "long": 38.91667
+  },
+  {
+    "id": "448502",
+    "label": "Northern Red Sea Region",
+    "value": "448502",
+    "lat": 16,
+    "lon": 39,
+    "poi_name": "Northern Red Sea Region",
+    "parent_id": "338010",
+    "long": 39
+  },
+  {
+    "id": "448499",
+    "label": "Southern Red Sea Region",
+    "value": "448499",
+    "lat": 13.75,
+    "lon": 41.5,
+    "poi_name": "Southern Red Sea Region",
+    "parent_id": "338010",
+    "long": 41.5
+  }
+]

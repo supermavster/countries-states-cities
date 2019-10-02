@@ -1,0 +1,32 @@
+[
+  {
+    "id": "2411430",
+    "label": "Ascension",
+    "value": "2411430",
+    "lat": -7.94167,
+    "lon": -14.3625,
+    "poi_name": "Ascension",
+    "parent_id": "3370751",
+    "long": -14.3625
+  },
+  {
+    "id": "6930057",
+    "label": "Saint Helena",
+    "value": "6930057",
+    "lat": -15.93183,
+    "lon": -5.71817,
+    "poi_name": "Saint Helena",
+    "parent_id": "3370751",
+    "long": -5.71817
+  },
+  {
+    "id": "3370684",
+    "label": "Tristan da Cunha",
+    "value": "3370684",
+    "lat": -37.11284,
+    "lon": -12.28343,
+    "poi_name": "Tristan da Cunha",
+    "parent_id": "3370751",
+    "long": -12.28343
+  }
+]

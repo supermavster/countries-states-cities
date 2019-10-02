@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1733049",
+    "label": "Johor",
+    "value": "1733049",
+    "lat": 2,
+    "lon": 103.5,
+    "poi_name": "Johor",
+    "parent_id": "1733045",
+    "long": 103.5
+  },
+  {
+    "id": "1733048",
+    "label": "Kedah",
+    "value": "1733048",
+    "lat": 6,
+    "lon": 100.66667,
+    "poi_name": "Kedah",
+    "parent_id": "1733045",
+    "long": 100.66667
+  },
+  {
+    "id": "1733044",
+    "label": "Kelantan",
+    "value": "1733044",
+    "lat": 5.33333,
+    "lon": 102,
+    "poi_name": "Kelantan",
+    "parent_id": "1733045",
+    "long": 102
+  },
+  {
+    "id": "1733046",
+    "label": "Kuala Lumpur",
+    "value": "1733046",
+    "lat": 3.14309,
+    "lon": 101.68653,
+    "poi_name": "Kuala Lumpur",
+    "parent_id": "1733045",
+    "long": 101.68653
+  },
+  {
+    "id": "1734240",
+    "label": "Labuan",
+    "value": "1734240",
+    "lat": 5.33333,
+    "lon": 115.2,
+    "poi_name": "Labuan",
+    "parent_id": "1733045",
+    "long": 115.2
+  },
+  {
+    "id": "1733035",
+    "label": "Melaka",
+    "value": "1733035",
+    "lat": 2.25,
+    "lon": 102.25,
+    "poi_name": "Melaka",
+    "parent_id": "1733045",
+    "long": 102.25
+  },
+  {
+    "id": "1733043",
+    "label": "Negeri Sembilan",
+    "value": "1733043",
+    "lat": 2.75,
+    "lon": 102.16667,
+    "poi_name": "Negeri Sembilan",
+    "parent_id": "1733045",
+    "long": 102.16667
+  },
+  {
+    "id": "1733042",
+    "label": "Pahang",
+    "value": "1733042",
+    "lat": 3.5,
+    "lon": 102.75,
+    "poi_name": "Pahang",
+    "parent_id": "1733045",
+    "long": 102.75
+  },
+  {
+    "id": "1733041",
+    "label": "Perak",
+    "value": "1733041",
+    "lat": 5,
+    "lon": 101,
+    "poi_name": "Perak",
+    "parent_id": "1733045",
+    "long": 101
+  },
+  {
+    "id": "1733040",
+    "label": "Perlis",
+    "value": "1733040",
+    "lat": 6.5,
+    "lon": 100.25,
+    "poi_name": "Perlis",
+    "parent_id": "1733045",
+    "long": 100.25
+  },
+  {
+    "id": "1733047",
+    "label": "Pulau Pinang",
+    "value": "1733047",
+    "lat": 5.37677,
+    "lon": 100.25848,
+    "poi_name": "Pulau Pinang",
+    "parent_id": "1733045",
+    "long": 100.25848
+  },
+  {
+    "id": "1996552",
+    "label": "Putrajaya",
+    "value": "1996552",
+    "lat": 2.91667,
+    "lon": 101.7,
+    "poi_name": "Putrajaya",
+    "parent_id": "1733045",
+    "long": 101.7
+  },
+  {
+    "id": "1733039",
+    "label": "Sabah",
+    "value": "1733039",
+    "lat": 5.5,
+    "lon": 117,
+    "poi_name": "Sabah",
+    "parent_id": "1733045",
+    "long": 117
+  },
+  {
+    "id": "1733038",
+    "label": "Sarawak",
+    "value": "1733038",
+    "lat": 2.5,
+    "lon": 113.5,
+    "poi_name": "Sarawak",
+    "parent_id": "1733045",
+    "long": 113.5
+  },
+  {
+    "id": "1733037",
+    "label": "Selangor",
+    "value": "1733037",
+    "lat": 3.16667,
+    "lon": 101.5,
+    "poi_name": "Selangor",
+    "parent_id": "1733045",
+    "long": 101.5
+  },
+  {
+    "id": "1733036",
+    "label": "Terengganu",
+    "value": "1733036",
+    "lat": 5,
+    "lon": 103,
+    "poi_name": "Terengganu",
+    "parent_id": "1733045",
+    "long": 103
+  }
+]

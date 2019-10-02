@@ -1,0 +1,52 @@
+[
+  {
+    "id": "6418540",
+    "label": "North Denmark Region",
+    "value": "6418540",
+    "lat": 57,
+    "lon": 9.66667,
+    "poi_name": "North Denmark Region",
+    "parent_id": "2623032",
+    "long": 9.66667
+  },
+  {
+    "id": "6418538",
+    "label": "Region Hovedstaden",
+    "value": "6418538",
+    "lat": 55.83333,
+    "lon": 12.33333,
+    "poi_name": "Region Hovedstaden",
+    "parent_id": "2623032",
+    "long": 12.33333
+  },
+  {
+    "id": "6418539",
+    "label": "Region Midtjylland",
+    "value": "6418539",
+    "lat": 56.16667,
+    "lon": 9.5,
+    "poi_name": "Region Midtjylland",
+    "parent_id": "2623032",
+    "long": 9.5
+  },
+  {
+    "id": "6418541",
+    "label": "Region Sj\u00e6lland",
+    "value": "6418541",
+    "lat": 55.41667,
+    "lon": 11.83333,
+    "poi_name": "Region Sj\u00e6lland",
+    "parent_id": "2623032",
+    "long": 11.83333
+  },
+  {
+    "id": "6418542",
+    "label": "Region Syddanmark",
+    "value": "6418542",
+    "lat": 55.37911,
+    "lon": 10.345,
+    "poi_name": "Region Syddanmark",
+    "parent_id": "2623032",
+    "long": 10.345
+  }
+]

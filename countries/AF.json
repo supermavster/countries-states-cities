@@ -1,0 +1,342 @@
+[
+  {
+    "id": "1147745",
+    "label": "Badakhsh\u0101n",
+    "value": "1147745",
+    "lat": 36.75,
+    "lon": 72,
+    "poi_name": "Badakhsh\u0101n",
+    "parent_id": "1149361",
+    "long": 72
+  },
+  {
+    "id": "1147288",
+    "label": "Balkh",
+    "value": "1147288",
+    "lat": 36.75,
+    "lon": 67,
+    "poi_name": "Balkh",
+    "parent_id": "1149361",
+    "long": 67
+  },
+  {
+    "id": "1147707",
+    "label": "B\u0101dgh\u012bs",
+    "value": "1147707",
+    "lat": 35,
+    "lon": 63.75,
+    "poi_name": "B\u0101dgh\u012bs",
+    "parent_id": "1149361",
+    "long": 63.75
+  },
+  {
+    "id": "6957553",
+    "label": "Daykundi Province",
+    "value": "6957553",
+    "lat": 33.75,
+    "lon": 66.25,
+    "poi_name": "Daykundi Province",
+    "parent_id": "1149361",
+    "long": 66.25
+  },
+  {
+    "id": "1142226",
+    "label": "Faryab Province",
+    "value": "1142226",
+    "lat": 36.25,
+    "lon": 64.83333,
+    "poi_name": "Faryab Province",
+    "parent_id": "1149361",
+    "long": 64.83333
+  },
+  {
+    "id": "1142263",
+    "label": "Far\u0101h",
+    "value": "1142263",
+    "lat": 32.5,
+    "lon": 62.5,
+    "poi_name": "Far\u0101h",
+    "parent_id": "1149361",
+    "long": 62.5
+  },
+  {
+    "id": "1140043",
+    "label": "Helmand",
+    "value": "1140043",
+    "lat": 31,
+    "lon": 64,
+    "poi_name": "Helmand",
+    "parent_id": "1149361",
+    "long": 64
+  },
+  {
+    "id": "1140025",
+    "label": "Her\u0101t",
+    "value": "1140025",
+    "lat": 34.5,
+    "lon": 62,
+    "poi_name": "Her\u0101t",
+    "parent_id": "1149361",
+    "long": 62
+  },
+  {
+    "id": "1138335",
+    "label": "Kandah\u0101r",
+    "value": "1138335",
+    "lat": 31,
+    "lon": 65.75,
+    "poi_name": "Kandah\u0101r",
+    "parent_id": "1149361",
+    "long": 65.75
+  },
+  {
+    "id": "1135690",
+    "label": "Kunduz",
+    "value": "1135690",
+    "lat": 36.75,
+    "lon": 68.75,
+    "poi_name": "Kunduz",
+    "parent_id": "1149361",
+    "long": 68.75
+  },
+  {
+    "id": "1132366",
+    "label": "Nangarh\u0101r",
+    "value": "1132366",
+    "lat": 34.33333,
+    "lon": 70.41667,
+    "poi_name": "Nangarh\u0101r",
+    "parent_id": "1149361",
+    "long": 70.41667
+  },
+  {
+    "id": "6957555",
+    "label": "Panjshir",
+    "value": "6957555",
+    "lat": 35.40248,
+    "lon": 69.98291,
+    "poi_name": "Panjshir",
+    "parent_id": "1149361",
+    "long": 69.98291
+  },
+  {
+    "id": "1131054",
+    "label": "Parw\u0101n",
+    "value": "1131054",
+    "lat": 35,
+    "lon": 68.91667,
+    "poi_name": "Parw\u0101n",
+    "parent_id": "1149361",
+    "long": 68.91667
+  },
+  {
+    "id": "1127766",
+    "label": "Samang\u0101n",
+    "value": "1127766",
+    "lat": 36,
+    "lon": 67.66667,
+    "poi_name": "Samang\u0101n",
+    "parent_id": "1149361",
+    "long": 67.66667
+  },
+  {
+    "id": "1127106",
+    "label": "Sar-e Pul",
+    "value": "1127106",
+    "lat": 35.83333,
+    "lon": 66.16667,
+    "poi_name": "Sar-e Pul",
+    "parent_id": "1149361",
+    "long": 66.16667
+  },
+  {
+    "id": "1131461",
+    "label": "Uruzg\u0101n",
+    "value": "1131461",
+    "lat": 32.83333,
+    "lon": 66,
+    "poi_name": "Uruzg\u0101n",
+    "parent_id": "1149361",
+    "long": 66
+  },
+  {
+    "id": "1444362",
+    "label": "Vel\u0101yat-e Khowst",
+    "value": "1444362",
+    "lat": 33.38333,
+    "lon": 69.88333,
+    "poi_name": "Vel\u0101yat-e Khowst",
+    "parent_id": "1149361",
+    "long": 69.88333
+  },
+  {
+    "id": "1444363",
+    "label": "Vel\u0101yat-e N\u016brest\u0101n",
+    "value": "1444363",
+    "lat": 35.3,
+    "lon": 70.83333,
+    "poi_name": "Vel\u0101yat-e N\u016brest\u0101n",
+    "parent_id": "1149361",
+    "long": 70.83333
+  },
+  {
+    "id": "1121863",
+    "label": "Wardak",
+    "value": "1121863",
+    "lat": 34.25,
+    "lon": 68,
+    "poi_name": "Wardak",
+    "parent_id": "1149361",
+    "long": 68
+  },
+  {
+    "id": "1147537",
+    "label": "Wil\u0101yat-e Baghl\u0101n",
+    "value": "1147537",
+    "lat": 35.75,
+    "lon": 69,
+    "poi_name": "Wil\u0101yat-e Baghl\u0101n",
+    "parent_id": "1149361",
+    "long": 69
+  },
+  {
+    "id": "1147239",
+    "label": "Wil\u0101yat-e B\u0101my\u0101n",
+    "value": "1147239",
+    "lat": 34.75,
+    "lon": 67.25,
+    "poi_name": "Wil\u0101yat-e B\u0101my\u0101n",
+    "parent_id": "1149361",
+    "long": 67.25
+  },
+  {
+    "id": "1141268",
+    "label": "Wil\u0101yat-e Ghazn\u012b",
+    "value": "1141268",
+    "lat": 33.33333,
+    "lon": 67.75,
+    "poi_name": "Wil\u0101yat-e Ghazn\u012b",
+    "parent_id": "1149361",
+    "long": 67.75
+  },
+  {
+    "id": "1141103",
+    "label": "Wil\u0101yat-e Gh\u014dr",
+    "value": "1141103",
+    "lat": 34,
+    "lon": 65,
+    "poi_name": "Wil\u0101yat-e Gh\u014dr",
+    "parent_id": "1149361",
+    "long": 65
+  },
+  {
+    "id": "1139049",
+    "label": "Wil\u0101yat-e Jowzj\u0101n",
+    "value": "1139049",
+    "lat": 36.83333,
+    "lon": 65.83333,
+    "poi_name": "Wil\u0101yat-e Jowzj\u0101n",
+    "parent_id": "1149361",
+    "long": 65.83333
+  },
+  {
+    "id": "1135702",
+    "label": "Wil\u0101yat-e Kuna\u1e5f",
+    "value": "1135702",
+    "lat": 34.95,
+    "lon": 71.13333,
+    "poi_name": "Wil\u0101yat-e Kuna\u1e5f",
+    "parent_id": "1149361",
+    "long": 71.13333
+  },
+  {
+    "id": "1138957",
+    "label": "Wil\u0101yat-e K\u0101bul",
+    "value": "1138957",
+    "lat": 34.5,
+    "lon": 69.41667,
+    "poi_name": "Wil\u0101yat-e K\u0101bul",
+    "parent_id": "1149361",
+    "long": 69.41667
+  },
+  {
+    "id": "1138255",
+    "label": "Wil\u0101yat-e K\u0101p\u012bs\u0101",
+    "value": "1138255",
+    "lat": 35,
+    "lon": 69.58333,
+    "poi_name": "Wil\u0101yat-e K\u0101p\u012bs\u0101",
+    "parent_id": "1149361",
+    "long": 69.58333
+  },
+  {
+    "id": "1135022",
+    "label": "Wil\u0101yat-e Laghm\u0101n",
+    "value": "1135022",
+    "lat": 34.78333,
+    "lon": 70.18333,
+    "poi_name": "Wil\u0101yat-e Laghm\u0101n",
+    "parent_id": "1149361",
+    "long": 70.18333
+  },
+  {
+    "id": "1134561",
+    "label": "Wil\u0101yat-e L\u014dgar",
+    "value": "1134561",
+    "lat": 34,
+    "lon": 69.25,
+    "poi_name": "Wil\u0101yat-e L\u014dgar",
+    "parent_id": "1149361",
+    "long": 69.25
+  },
+  {
+    "id": "1131821",
+    "label": "Wil\u0101yat-e N\u012bmr\u014dz",
+    "value": "1131821",
+    "lat": 31,
+    "lon": 62.5,
+    "poi_name": "Wil\u0101yat-e N\u012bmr\u014dz",
+    "parent_id": "1149361",
+    "long": 62.5
+  },
+  {
+    "id": "1131257",
+    "label": "Wil\u0101yat-e Paktiy\u0101",
+    "value": "1131257",
+    "lat": 33.66667,
+    "lon": 69.33333,
+    "poi_name": "Wil\u0101yat-e Paktiy\u0101",
+    "parent_id": "1149361",
+    "long": 69.33333
+  },
+  {
+    "id": "1131256",
+    "label": "Wil\u0101yat-e Pakt\u012bk\u0101",
+    "value": "1131256",
+    "lat": 32.41667,
+    "lon": 68.75,
+    "poi_name": "Wil\u0101yat-e Pakt\u012bk\u0101",
+    "parent_id": "1149361",
+    "long": 68.75
+  },
+  {
+    "id": "1123230",
+    "label": "Wil\u0101yat-e Takh\u0101r",
+    "value": "1123230",
+    "lat": 36.66667,
+    "lon": 69.75,
+    "poi_name": "Wil\u0101yat-e Takh\u0101r",
+    "parent_id": "1149361",
+    "long": 69.75
+  },
+  {
+    "id": "1121143",
+    "label": "Wil\u0101yat-e Z\u0101bul",
+    "value": "1121143",
+    "lat": 32.25,
+    "lon": 67.25,
+    "poi_name": "Wil\u0101yat-e Z\u0101bul",
+    "parent_id": "1149361",
+    "long": 67.25
+  }
+]

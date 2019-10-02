@@ -1,0 +1,182 @@
+[
+  {
+    "id": "2243598",
+    "label": "Bengo Province",
+    "value": "2243598",
+    "lat": -8.97504,
+    "lon": 13.82743,
+    "poi_name": "Bengo Province",
+    "parent_id": "3351879",
+    "long": 13.82743
+  },
+  {
+    "id": "3351660",
+    "label": "Benguela",
+    "value": "3351660",
+    "lat": -12.85399,
+    "lon": 13.92825,
+    "poi_name": "Benguela",
+    "parent_id": "3351879",
+    "long": 13.92825
+  },
+  {
+    "id": "2243266",
+    "label": "Cabinda",
+    "value": "2243266",
+    "lat": -4.93423,
+    "lon": 12.40532,
+    "poi_name": "Cabinda",
+    "parent_id": "3351879",
+    "long": 12.40532
+  },
+  {
+    "id": "2241660",
+    "label": "Cuanza Norte Province",
+    "value": "2241660",
+    "lat": -8.91136,
+    "lon": 14.8887,
+    "poi_name": "Cuanza Norte Province",
+    "parent_id": "3351879",
+    "long": 14.8887
+  },
+  {
+    "id": "3349096",
+    "label": "Cunene Province",
+    "value": "3349096",
+    "lat": -16.51009,
+    "lon": 15.43526,
+    "poi_name": "Cunene Province",
+    "parent_id": "3351879",
+    "long": 15.43526
+  },
+  {
+    "id": "3348310",
+    "label": "Huambo",
+    "value": "3348310",
+    "lat": -12.5,
+    "lon": 15.66667,
+    "poi_name": "Huambo",
+    "parent_id": "3351879",
+    "long": 15.66667
+  },
+  {
+    "id": "3348303",
+    "label": "Huila Province",
+    "value": "3348303",
+    "lat": -14.69531,
+    "lon": 15.00014,
+    "poi_name": "Huila Province",
+    "parent_id": "3351879",
+    "long": 15.00014
+  },
+  {
+    "id": "876337",
+    "label": "Kuando Kubango",
+    "value": "876337",
+    "lat": -15.94761,
+    "lon": 19.3832,
+    "poi_name": "Kuando Kubango",
+    "parent_id": "3351879",
+    "long": 19.3832
+  },
+  {
+    "id": "3349234",
+    "label": "Kwanza Sul",
+    "value": "3349234",
+    "lat": -10.82696,
+    "lon": 15.03197,
+    "poi_name": "Kwanza Sul",
+    "parent_id": "3351879",
+    "long": 15.03197
+  },
+  {
+    "id": "2240444",
+    "label": "Luanda Province",
+    "value": "2240444",
+    "lat": -8.91667,
+    "lon": 13.33924,
+    "poi_name": "Luanda Province",
+    "parent_id": "3351879",
+    "long": 13.33924
+  },
+  {
+    "id": "145702",
+    "label": "Lunda Norte Province",
+    "value": "145702",
+    "lat": -8.63543,
+    "lon": 19.64852,
+    "poi_name": "Lunda Norte Province",
+    "parent_id": "3351879",
+    "long": 19.64852
+  },
+  {
+    "id": "145701",
+    "label": "Lunda Sul",
+    "value": "145701",
+    "lat": -10.25918,
+    "lon": 20.62489,
+    "poi_name": "Lunda Sul",
+    "parent_id": "3351879",
+    "long": 20.62489
+  },
+  {
+    "id": "2239858",
+    "label": "Malanje Province",
+    "value": "2239858",
+    "lat": -9.67548,
+    "lon": 16.82553,
+    "poi_name": "Malanje Province",
+    "parent_id": "3351879",
+    "long": 16.82553
+  },
+  {
+    "id": "875996",
+    "label": "Moxico",
+    "value": "875996",
+    "lat": -12.84869,
+    "lon": 20.93266,
+    "poi_name": "Moxico",
+    "parent_id": "3351879",
+    "long": 20.93266
+  },
+  {
+    "id": "3347016",
+    "label": "Namibe Province",
+    "value": "3347016",
+    "lat": -15.33207,
+    "lon": 12.66002,
+    "poi_name": "Namibe Province",
+    "parent_id": "3351879",
+    "long": 12.66002
+  },
+  {
+    "id": "3351640",
+    "label": "Prov\u00edncia do Bi\u00e9",
+    "value": "3351640",
+    "lat": -12.34989,
+    "lon": 17.3031,
+    "poi_name": "Prov\u00edncia do Bi\u00e9",
+    "parent_id": "3351879",
+    "long": 17.3031
+  },
+  {
+    "id": "2236566",
+    "label": "Prov\u00edncia do U\u00edge",
+    "value": "2236566",
+    "lat": -7.10719,
+    "lon": 15.44056,
+    "poi_name": "Prov\u00edncia do U\u00edge",
+    "parent_id": "3351879",
+    "long": 15.44056
+  },
+  {
+    "id": "2236355",
+    "label": "Zaire",
+    "value": "2236355",
+    "lat": -6.58717,
+    "lon": 13.51966,
+    "poi_name": "Zaire",
+    "parent_id": "3351879",
+    "long": 13.51966
+  }
+]

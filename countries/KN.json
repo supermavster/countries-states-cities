@@ -1,0 +1,142 @@
+[
+  {
+    "id": "3575476",
+    "label": "Christ Church Nichola Town",
+    "value": "3575476",
+    "lat": 17.35,
+    "lon": -62.76667,
+    "poi_name": "Christ Church Nichola Town",
+    "parent_id": "3575174",
+    "long": -62.76667
+  },
+  {
+    "id": "3575183",
+    "label": "Saint Anne Sandy Point",
+    "value": "3575183",
+    "lat": 17.36667,
+    "lon": -62.83333,
+    "poi_name": "Saint Anne Sandy Point",
+    "parent_id": "3575174",
+    "long": -62.83333
+  },
+  {
+    "id": "3575180",
+    "label": "Saint George Basseterre",
+    "value": "3575180",
+    "lat": 17.26667,
+    "lon": -62.68333,
+    "poi_name": "Saint George Basseterre",
+    "parent_id": "3575174",
+    "long": -62.68333
+  },
+  {
+    "id": "3575179",
+    "label": "Saint George Gingerland",
+    "value": "3575179",
+    "lat": 17.13333,
+    "lon": -62.56667,
+    "poi_name": "Saint George Gingerland",
+    "parent_id": "3575174",
+    "long": -62.56667
+  },
+  {
+    "id": "3575177",
+    "label": "Saint James Windward",
+    "value": "3575177",
+    "lat": 17.16667,
+    "lon": -62.56667,
+    "poi_name": "Saint James Windward",
+    "parent_id": "3575174",
+    "long": -62.56667
+  },
+  {
+    "id": "3575176",
+    "label": "Saint John Capesterre",
+    "value": "3575176",
+    "lat": 17.38333,
+    "lon": -62.8,
+    "poi_name": "Saint John Capesterre",
+    "parent_id": "3575174",
+    "long": -62.8
+  },
+  {
+    "id": "3575175",
+    "label": "Saint John Figtree",
+    "value": "3575175",
+    "lat": 17.11667,
+    "lon": -62.6,
+    "poi_name": "Saint John Figtree",
+    "parent_id": "3575174",
+    "long": -62.6
+  },
+  {
+    "id": "3575173",
+    "label": "Saint Mary Cayon",
+    "value": "3575173",
+    "lat": 17.35,
+    "lon": -62.73333,
+    "poi_name": "Saint Mary Cayon",
+    "parent_id": "3575174",
+    "long": -62.73333
+  },
+  {
+    "id": "3575172",
+    "label": "Saint Paul Capesterre",
+    "value": "3575172",
+    "lat": 17.4,
+    "lon": -62.83333,
+    "poi_name": "Saint Paul Capesterre",
+    "parent_id": "3575174",
+    "long": -62.83333
+  },
+  {
+    "id": "3575171",
+    "label": "Saint Paul Charlestown",
+    "value": "3575171",
+    "lat": 17.13333,
+    "lon": -62.6,
+    "poi_name": "Saint Paul Charlestown",
+    "parent_id": "3575174",
+    "long": -62.6
+  },
+  {
+    "id": "3575168",
+    "label": "Saint Peter Basseterre",
+    "value": "3575168",
+    "lat": 17.31667,
+    "lon": -62.71667,
+    "poi_name": "Saint Peter Basseterre",
+    "parent_id": "3575174",
+    "long": -62.71667
+  },
+  {
+    "id": "3575165",
+    "label": "Saint Thomas Lowland",
+    "value": "3575165",
+    "lat": 17.16667,
+    "lon": -62.6,
+    "poi_name": "Saint Thomas Lowland",
+    "parent_id": "3575174",
+    "long": -62.6
+  },
+  {
+    "id": "3575164",
+    "label": "Saint Thomas Middle Island",
+    "value": "3575164",
+    "lat": 17.35,
+    "lon": -62.8,
+    "poi_name": "Saint Thomas Middle Island",
+    "parent_id": "3575174",
+    "long": -62.8
+  },
+  {
+    "id": "3575114",
+    "label": "Trinity Palmetto Point",
+    "value": "3575114",
+    "lat": 17.31667,
+    "lon": -62.76667,
+    "poi_name": "Trinity Palmetto Point",
+    "parent_id": "3575174",
+    "long": -62.76667
+  }
+]

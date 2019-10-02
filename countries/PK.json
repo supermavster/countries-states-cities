@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1184196",
+    "label": "Azad Kashmir",
+    "value": "1184196",
+    "lat": 33.94718,
+    "lon": 73.9104,
+    "poi_name": "Azad Kashmir",
+    "parent_id": "1168579",
+    "long": 73.9104
+  },
+  {
+    "id": "1183606",
+    "label": "Balochistan",
+    "value": "1183606",
+    "lat": 28.47849,
+    "lon": 65.64355,
+    "poi_name": "Balochistan",
+    "parent_id": "1168579",
+    "long": 65.64355
+  },
+  {
+    "id": "1179245",
+    "label": "Federally Administered Tribal Areas",
+    "value": "1179245",
+    "lat": 33.01455,
+    "lon": 69.99925,
+    "poi_name": "Federally Administered Tribal Areas",
+    "parent_id": "1168579",
+    "long": 69.99925
+  },
+  {
+    "id": "1168878",
+    "label": "Gilgit-Baltistan",
+    "value": "1168878",
+    "lat": 36,
+    "lon": 75,
+    "poi_name": "Gilgit-Baltistan",
+    "parent_id": "1168579",
+    "long": 75
+  },
+  {
+    "id": "1162015",
+    "label": "Islamabad",
+    "value": "1162015",
+    "lat": 33.71039,
+    "lon": 73.13382,
+    "poi_name": "Islamabad",
+    "parent_id": "1168579",
+    "long": 73.13382
+  },
+  {
+    "id": "1168873",
+    "label": "Khyber Pakhtunkhwa Province",
+    "value": "1168873",
+    "lat": 34.45993,
+    "lon": 72.50237,
+    "poi_name": "Khyber Pakhtunkhwa Province",
+    "parent_id": "1168579",
+    "long": 72.50237
+  },
+  {
+    "id": "1167710",
+    "label": "Punjab Province",
+    "value": "1167710",
+    "lat": 30.85,
+    "lon": 72.31667,
+    "poi_name": "Punjab Province",
+    "parent_id": "1168579",
+    "long": 72.31667
+  },
+  {
+    "id": "1164807",
+    "label": "Sindh",
+    "value": "1164807",
+    "lat": 26.13333,
+    "lon": 68.76667,
+    "poi_name": "Sindh",
+    "parent_id": "1168579",
+    "long": 68.76667
+  }
+]

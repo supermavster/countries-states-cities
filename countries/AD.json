@@ -1,0 +1,72 @@
+[
+  {
+    "id": "3041566",
+    "label": "Andorra la Vella",
+    "value": "3041566",
+    "lat": 42.5045,
+    "lon": 1.49414,
+    "poi_name": "Andorra la Vella",
+    "parent_id": "3041565",
+    "long": 1.49414
+  },
+  {
+    "id": "3041203",
+    "label": "Canillo",
+    "value": "3041203",
+    "lat": 42.58333,
+    "lon": 1.65833,
+    "poi_name": "Canillo",
+    "parent_id": "3041565",
+    "long": 1.65833
+  },
+  {
+    "id": "3040684",
+    "label": "Encamp",
+    "value": "3040684",
+    "lat": 42.53333,
+    "lon": 1.63333,
+    "poi_name": "Encamp",
+    "parent_id": "3041565",
+    "long": 1.63333
+  },
+  {
+    "id": "3338529",
+    "label": "Escaldes-Engordany",
+    "value": "3338529",
+    "lat": 42.5,
+    "lon": 1.56667,
+    "poi_name": "Escaldes-Engordany",
+    "parent_id": "3041565",
+    "long": 1.56667
+  },
+  {
+    "id": "3040131",
+    "label": "La Massana",
+    "value": "3040131",
+    "lat": 42.55417,
+    "lon": 1.48333,
+    "poi_name": "La Massana",
+    "parent_id": "3041565",
+    "long": 1.48333
+  },
+  {
+    "id": "3039676",
+    "label": "Ordino",
+    "value": "3039676",
+    "lat": 42.59758,
+    "lon": 1.52573,
+    "poi_name": "Ordino",
+    "parent_id": "3041565",
+    "long": 1.52573
+  },
+  {
+    "id": "3039162",
+    "label": "Sant Juli\u00e0 de L\u00f2ria",
+    "value": "3039162",
+    "lat": 42.46247,
+    "lon": 1.48247,
+    "poi_name": "Sant Juli\u00e0 de L\u00f2ria",
+    "parent_id": "3041565",
+    "long": 1.48247
+  }
+]

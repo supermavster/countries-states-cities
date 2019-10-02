@@ -1,0 +1,112 @@
+[
+  {
+    "id": "2045265",
+    "label": "Chagang-do",
+    "value": "2045265",
+    "lat": 40.75,
+    "lon": 126.5,
+    "poi_name": "Chagang-do",
+    "parent_id": "1873107",
+    "long": 126.5
+  },
+  {
+    "id": "2044245",
+    "label": "Hambuk",
+    "value": "2044245",
+    "lat": 41.83333,
+    "lon": 129.41667,
+    "poi_name": "Hambuk",
+    "parent_id": "1873107",
+    "long": 129.41667
+  },
+  {
+    "id": "1877450",
+    "label": "Hamnam",
+    "value": "1877450",
+    "lat": 40.23333,
+    "lon": 127.75,
+    "poi_name": "Hamnam",
+    "parent_id": "1873107",
+    "long": 127.75
+  },
+  {
+    "id": "1876888",
+    "label": "Hwanghae-bukto",
+    "value": "1876888",
+    "lat": 38.56667,
+    "lon": 126.3,
+    "poi_name": "Hwanghae-bukto",
+    "parent_id": "1873107",
+    "long": 126.3
+  },
+  {
+    "id": "1876884",
+    "label": "Hwanghae-namdo",
+    "value": "1876884",
+    "lat": 38.2,
+    "lon": 125.53333,
+    "poi_name": "Hwanghae-namdo",
+    "parent_id": "1873107",
+    "long": 125.53333
+  },
+  {
+    "id": "1876101",
+    "label": "Kangw\u014fn-do",
+    "value": "1876101",
+    "lat": 38.73333,
+    "lon": 127.45,
+    "poi_name": "Kangw\u014fn-do",
+    "parent_id": "1873107",
+    "long": 127.45
+  },
+  {
+    "id": "1871856",
+    "label": "Pyongyang",
+    "value": "1871856",
+    "lat": 38.98528,
+    "lon": 125.92778,
+    "poi_name": "Pyongyang",
+    "parent_id": "1873107",
+    "long": 125.92778
+  },
+  {
+    "id": "1871954",
+    "label": "P\u2019y\u014fngan-bukto",
+    "value": "1871954",
+    "lat": 40.05,
+    "lon": 125.26667,
+    "poi_name": "P\u2019y\u014fngan-bukto",
+    "parent_id": "1873107",
+    "long": 125.26667
+  },
+  {
+    "id": "1871952",
+    "label": "P\u2019y\u014fngan-namdo",
+    "value": "1871952",
+    "lat": 39.5,
+    "lon": 126.16667,
+    "poi_name": "P\u2019y\u014fngan-namdo",
+    "parent_id": "1873107",
+    "long": 126.16667
+  },
+  {
+    "id": "2054927",
+    "label": "Rason",
+    "value": "2054927",
+    "lat": 42.33611,
+    "lon": 130.36639,
+    "poi_name": "Rason",
+    "parent_id": "1873107",
+    "long": 130.36639
+  },
+  {
+    "id": "2039332",
+    "label": "Ryanggang",
+    "value": "2039332",
+    "lat": 41.2,
+    "lon": 128.2,
+    "poi_name": "Ryanggang",
+    "parent_id": "1873107",
+    "long": 128.2
+  }
+]

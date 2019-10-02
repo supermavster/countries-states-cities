@@ -1,0 +1,512 @@
+[
+  {
+    "id": "4829764",
+    "label": "Alabama",
+    "value": "4829764",
+    "lat": 32.75041,
+    "lon": -86.75026,
+    "poi_name": "Alabama",
+    "parent_id": "6252001",
+    "long": -86.75026
+  },
+  {
+    "id": "5879092",
+    "label": "Alaska",
+    "value": "5879092",
+    "lat": 64.00028,
+    "lon": -150.00028,
+    "poi_name": "Alaska",
+    "parent_id": "6252001",
+    "long": -150.00028
+  },
+  {
+    "id": "5551752",
+    "label": "Arizona",
+    "value": "5551752",
+    "lat": 34.5003,
+    "lon": -111.50098,
+    "poi_name": "Arizona",
+    "parent_id": "6252001",
+    "long": -111.50098
+  },
+  {
+    "id": "4099753",
+    "label": "Arkansas",
+    "value": "4099753",
+    "lat": 34.75037,
+    "lon": -92.50044,
+    "poi_name": "Arkansas",
+    "parent_id": "6252001",
+    "long": -92.50044
+  },
+  {
+    "id": "5332921",
+    "label": "California",
+    "value": "5332921",
+    "lat": 37.25022,
+    "lon": -119.75126,
+    "poi_name": "California",
+    "parent_id": "6252001",
+    "long": -119.75126
+  },
+  {
+    "id": "5417618",
+    "label": "Colorado",
+    "value": "5417618",
+    "lat": 39.00027,
+    "lon": -105.50083,
+    "poi_name": "Colorado",
+    "parent_id": "6252001",
+    "long": -105.50083
+  },
+  {
+    "id": "4831725",
+    "label": "Connecticut",
+    "value": "4831725",
+    "lat": 41.66704,
+    "lon": -72.66648,
+    "poi_name": "Connecticut",
+    "parent_id": "6252001",
+    "long": -72.66648
+  },
+  {
+    "id": "4142224",
+    "label": "Delaware",
+    "value": "4142224",
+    "lat": 39.00039,
+    "lon": -75.49992,
+    "poi_name": "Delaware",
+    "parent_id": "6252001",
+    "long": -75.49992
+  },
+  {
+    "id": "4138106",
+    "label": "District of Columbia",
+    "value": "4138106",
+    "lat": 38.91706,
+    "lon": -77.00025,
+    "poi_name": "District of Columbia",
+    "parent_id": "6252001",
+    "long": -77.00025
+  },
+  {
+    "id": "4155751",
+    "label": "Florida",
+    "value": "4155751",
+    "lat": 28.75054,
+    "lon": -82.5001,
+    "poi_name": "Florida",
+    "parent_id": "6252001",
+    "long": -82.5001
+  },
+  {
+    "id": "4197000",
+    "label": "Georgia",
+    "value": "4197000",
+    "lat": 32.75042,
+    "lon": -83.50018,
+    "poi_name": "Georgia",
+    "parent_id": "6252001",
+    "long": -83.50018
+  },
+  {
+    "id": "5855797",
+    "label": "Hawaii",
+    "value": "5855797",
+    "lat": 20.75028,
+    "lon": -156.50028,
+    "poi_name": "Hawaii",
+    "parent_id": "6252001",
+    "long": -156.50028
+  },
+  {
+    "id": "5596512",
+    "label": "Idaho",
+    "value": "5596512",
+    "lat": 44.5002,
+    "lon": -114.25118,
+    "poi_name": "Idaho",
+    "parent_id": "6252001",
+    "long": -114.25118
+  },
+  {
+    "id": "4896861",
+    "label": "Illinois",
+    "value": "4896861",
+    "lat": 40.00032,
+    "lon": -89.25037,
+    "poi_name": "Illinois",
+    "parent_id": "6252001",
+    "long": -89.25037
+  },
+  {
+    "id": "4921868",
+    "label": "Indiana",
+    "value": "4921868",
+    "lat": 40.00032,
+    "lon": -86.25027,
+    "poi_name": "Indiana",
+    "parent_id": "6252001",
+    "long": -86.25027
+  },
+  {
+    "id": "4862182",
+    "label": "Iowa",
+    "value": "4862182",
+    "lat": 42.00027,
+    "lon": -93.50049,
+    "poi_name": "Iowa",
+    "parent_id": "6252001",
+    "long": -93.50049
+  },
+  {
+    "id": "4273857",
+    "label": "Kansas",
+    "value": "4273857",
+    "lat": 38.50029,
+    "lon": -98.50063,
+    "poi_name": "Kansas",
+    "parent_id": "6252001",
+    "long": -98.50063
+  },
+  {
+    "id": "6254925",
+    "label": "Kentucky",
+    "value": "6254925",
+    "lat": 38.20042,
+    "lon": -84.87762,
+    "poi_name": "Kentucky",
+    "parent_id": "6252001",
+    "long": -84.87762
+  },
+  {
+    "id": "4331987",
+    "label": "Louisiana",
+    "value": "4331987",
+    "lat": 31.00047,
+    "lon": -92.0004,
+    "poi_name": "Louisiana",
+    "parent_id": "6252001",
+    "long": -92.0004
+  },
+  {
+    "id": "4971068",
+    "label": "Maine",
+    "value": "4971068",
+    "lat": 45.50032,
+    "lon": -69.24977,
+    "poi_name": "Maine",
+    "parent_id": "6252001",
+    "long": -69.24977
+  },
+  {
+    "id": "4361885",
+    "label": "Maryland",
+    "value": "4361885",
+    "lat": 39.00039,
+    "lon": -76.74997,
+    "poi_name": "Maryland",
+    "parent_id": "6252001",
+    "long": -76.74997
+  },
+  {
+    "id": "6254926",
+    "label": "Massachusetts",
+    "value": "6254926",
+    "lat": 42.36565,
+    "lon": -71.10832,
+    "poi_name": "Massachusetts",
+    "parent_id": "6252001",
+    "long": -71.10832
+  },
+  {
+    "id": "5001836",
+    "label": "Michigan",
+    "value": "5001836",
+    "lat": 44.25029,
+    "lon": -85.50033,
+    "poi_name": "Michigan",
+    "parent_id": "6252001",
+    "long": -85.50033
+  },
+  {
+    "id": "5037779",
+    "label": "Minnesota",
+    "value": "5037779",
+    "lat": 46.25024,
+    "lon": -94.25055,
+    "poi_name": "Minnesota",
+    "parent_id": "6252001",
+    "long": -94.25055
+  },
+  {
+    "id": "4436296",
+    "label": "Mississippi",
+    "value": "4436296",
+    "lat": 32.75041,
+    "lon": -89.75036,
+    "poi_name": "Mississippi",
+    "parent_id": "6252001",
+    "long": -89.75036
+  },
+  {
+    "id": "4398678",
+    "label": "Missouri",
+    "value": "4398678",
+    "lat": 38.25031,
+    "lon": -92.50046,
+    "poi_name": "Missouri",
+    "parent_id": "6252001",
+    "long": -92.50046
+  },
+  {
+    "id": "5667009",
+    "label": "Montana",
+    "value": "5667009",
+    "lat": 47.00025,
+    "lon": -109.75102,
+    "poi_name": "Montana",
+    "parent_id": "6252001",
+    "long": -109.75102
+  },
+  {
+    "id": "5073708",
+    "label": "Nebraska",
+    "value": "5073708",
+    "lat": 41.50028,
+    "lon": -99.75067,
+    "poi_name": "Nebraska",
+    "parent_id": "6252001",
+    "long": -99.75067
+  },
+  {
+    "id": "5509151",
+    "label": "Nevada",
+    "value": "5509151",
+    "lat": 39.25021,
+    "lon": -116.75119,
+    "poi_name": "Nevada",
+    "parent_id": "6252001",
+    "long": -116.75119
+  },
+  {
+    "id": "5090174",
+    "label": "New Hampshire",
+    "value": "5090174",
+    "lat": 43.66702,
+    "lon": -71.4998,
+    "poi_name": "New Hampshire",
+    "parent_id": "6252001",
+    "long": -71.4998
+  },
+  {
+    "id": "5101760",
+    "label": "New Jersey",
+    "value": "5101760",
+    "lat": 40.16706,
+    "lon": -74.49987,
+    "poi_name": "New Jersey",
+    "parent_id": "6252001",
+    "long": -74.49987
+  },
+  {
+    "id": "5481136",
+    "label": "New Mexico",
+    "value": "5481136",
+    "lat": 34.50034,
+    "lon": -106.00085,
+    "poi_name": "New Mexico",
+    "parent_id": "6252001",
+    "long": -106.00085
+  },
+  {
+    "id": "5128638",
+    "label": "New York",
+    "value": "5128638",
+    "lat": 43.00035,
+    "lon": -75.4999,
+    "poi_name": "New York",
+    "parent_id": "6252001",
+    "long": -75.4999
+  },
+  {
+    "id": "4482348",
+    "label": "North Carolina",
+    "value": "4482348",
+    "lat": 35.50069,
+    "lon": -80.00032,
+    "poi_name": "North Carolina",
+    "parent_id": "6252001",
+    "long": -80.00032
+  },
+  {
+    "id": "5690763",
+    "label": "North Dakota",
+    "value": "5690763",
+    "lat": 47.50027,
+    "lon": -100.00068,
+    "poi_name": "North Dakota",
+    "parent_id": "6252001",
+    "long": -100.00068
+  },
+  {
+    "id": "5165418",
+    "label": "Ohio",
+    "value": "5165418",
+    "lat": 40.25034,
+    "lon": -83.00018,
+    "poi_name": "Ohio",
+    "parent_id": "6252001",
+    "long": -83.00018
+  },
+  {
+    "id": "4544379",
+    "label": "Oklahoma",
+    "value": "4544379",
+    "lat": 35.49209,
+    "lon": -97.50328,
+    "poi_name": "Oklahoma",
+    "parent_id": "6252001",
+    "long": -97.50328
+  },
+  {
+    "id": "5744337",
+    "label": "Oregon",
+    "value": "5744337",
+    "lat": 44.00013,
+    "lon": -120.50139,
+    "poi_name": "Oregon",
+    "parent_id": "6252001",
+    "long": -120.50139
+  },
+  {
+    "id": "6254927",
+    "label": "Pennsylvania",
+    "value": "6254927",
+    "lat": 40.27245,
+    "lon": -76.90567,
+    "poi_name": "Pennsylvania",
+    "parent_id": "6252001",
+    "long": -76.90567
+  },
+  {
+    "id": "5224323",
+    "label": "Rhode Island",
+    "value": "5224323",
+    "lat": 41.75038,
+    "lon": -71.49978,
+    "poi_name": "Rhode Island",
+    "parent_id": "6252001",
+    "long": -71.49978
+  },
+  {
+    "id": "4597040",
+    "label": "South Carolina",
+    "value": "4597040",
+    "lat": 34.00043,
+    "lon": -81.00009,
+    "poi_name": "South Carolina",
+    "parent_id": "6252001",
+    "long": -81.00009
+  },
+  {
+    "id": "5769223",
+    "label": "South Dakota",
+    "value": "5769223",
+    "lat": 44.50026,
+    "lon": -100.25069,
+    "poi_name": "South Dakota",
+    "parent_id": "6252001",
+    "long": -100.25069
+  },
+  {
+    "id": "4662168",
+    "label": "Tennessee",
+    "value": "4662168",
+    "lat": 35.75035,
+    "lon": -86.25027,
+    "poi_name": "Tennessee",
+    "parent_id": "6252001",
+    "long": -86.25027
+  },
+  {
+    "id": "4736286",
+    "label": "Texas",
+    "value": "4736286",
+    "lat": 31.25044,
+    "lon": -99.25061,
+    "poi_name": "Texas",
+    "parent_id": "6252001",
+    "long": -99.25061
+  },
+  {
+    "id": "5549030",
+    "label": "Utah",
+    "value": "5549030",
+    "lat": 39.25024,
+    "lon": -111.75103,
+    "poi_name": "Utah",
+    "parent_id": "6252001",
+    "long": -111.75103
+  },
+  {
+    "id": "5242283",
+    "label": "Vermont",
+    "value": "5242283",
+    "lat": 44.00034,
+    "lon": -72.74983,
+    "poi_name": "Vermont",
+    "parent_id": "6252001",
+    "long": -72.74983
+  },
+  {
+    "id": "6254928",
+    "label": "Virginia",
+    "value": "6254928",
+    "lat": 37.54812,
+    "lon": -77.44675,
+    "poi_name": "Virginia",
+    "parent_id": "6252001",
+    "long": -77.44675
+  },
+  {
+    "id": "5815135",
+    "label": "Washington",
+    "value": "5815135",
+    "lat": 47.50012,
+    "lon": -120.50147,
+    "poi_name": "Washington",
+    "parent_id": "6252001",
+    "long": -120.50147
+  },
+  {
+    "id": "4826850",
+    "label": "West Virginia",
+    "value": "4826850",
+    "lat": 38.50038,
+    "lon": -80.50009,
+    "poi_name": "West Virginia",
+    "parent_id": "6252001",
+    "long": -80.50009
+  },
+  {
+    "id": "5279468",
+    "label": "Wisconsin",
+    "value": "5279468",
+    "lat": 44.50024,
+    "lon": -90.00041,
+    "poi_name": "Wisconsin",
+    "parent_id": "6252001",
+    "long": -90.00041
+  },
+  {
+    "id": "5843591",
+    "label": "Wyoming",
+    "value": "5843591",
+    "lat": 43.00024,
+    "lon": -107.5009,
+    "poi_name": "Wyoming",
+    "parent_id": "6252001",
+    "long": -107.5009
+  }
+]

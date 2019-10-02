@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7521313",
+    "label": "Connaught",
+    "value": "7521313",
+    "lat": 53.87,
+    "lon": -8.63333,
+    "poi_name": "Connaught",
+    "parent_id": "2963597",
+    "long": -8.63333
+  },
+  {
+    "id": "7521314",
+    "label": "Leinster",
+    "value": "7521314",
+    "lat": 53.16667,
+    "lon": -7.02121,
+    "poi_name": "Leinster",
+    "parent_id": "2963597",
+    "long": -7.02121
+  },
+  {
+    "id": "7521315",
+    "label": "Munster",
+    "value": "7521315",
+    "lat": 52.34333,
+    "lon": -8.71667,
+    "poi_name": "Munster",
+    "parent_id": "2963597",
+    "long": -8.71667
+  },
+  {
+    "id": "7521316",
+    "label": "Ulster",
+    "value": "7521316",
+    "lat": 54.92732,
+    "lon": -7.9395,
+    "poi_name": "Ulster",
+    "parent_id": "2963597",
+    "long": -7.9395
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "id": "292969",
+    "label": "Ab\u016b Z\u0327aby",
+    "value": "292969",
+    "lat": 23.66667,
+    "lon": 54,
+    "poi_name": "Ab\u016b Z\u0327aby",
+    "parent_id": "290557",
+    "long": 54
+  },
+  {
+    "id": "292879",
+    "label": "Al Fujayrah",
+    "value": "292879",
+    "lat": 25.13333,
+    "lon": 56.25,
+    "poi_name": "Al Fujayrah",
+    "parent_id": "290557",
+    "long": 56.25
+  },
+  {
+    "id": "292673",
+    "label": "Ash Sh\u0101riqah",
+    "value": "292673",
+    "lat": 25,
+    "lon": 55.75,
+    "poi_name": "Ash Sh\u0101riqah",
+    "parent_id": "290557",
+    "long": 55.75
+  },
+  {
+    "id": "292224",
+    "label": "Dubai",
+    "value": "292224",
+    "lat": 25,
+    "lon": 55.33333,
+    "poi_name": "Dubai",
+    "parent_id": "290557",
+    "long": 55.33333
+  },
+  {
+    "id": "291075",
+    "label": "Ra\u2019s al Khaymah",
+    "value": "291075",
+    "lat": 25.66667,
+    "lon": 56,
+    "poi_name": "Ra\u2019s al Khaymah",
+    "parent_id": "290557",
+    "long": 56
+  },
+  {
+    "id": "290595",
+    "label": "Umm al Qaywayn",
+    "value": "290595",
+    "lat": 25.5,
+    "lon": 55.75,
+    "poi_name": "Umm al Qaywayn",
+    "parent_id": "290557",
+    "long": 55.75
+  },
+  {
+    "id": "292933",
+    "label": "\u2018Ajm\u0101n",
+    "value": "292933",
+    "lat": 25.38333,
+    "lon": 55.51667,
+    "poi_name": "\u2018Ajm\u0101n",
+    "parent_id": "290557",
+    "long": 55.51667
+  }
+]

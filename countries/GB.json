@@ -1,0 +1,42 @@
+[
+  {
+    "id": "6269131",
+    "label": "England",
+    "value": "6269131",
+    "lat": 52.16045,
+    "lon": -0.70312,
+    "poi_name": "England",
+    "parent_id": "2635167",
+    "long": -0.70312
+  },
+  {
+    "id": "2641364",
+    "label": "Northern Ireland",
+    "value": "2641364",
+    "lat": 54.5,
+    "lon": -6.5,
+    "poi_name": "Northern Ireland",
+    "parent_id": "2635167",
+    "long": -6.5
+  },
+  {
+    "id": "2638360",
+    "label": "Scotland",
+    "value": "2638360",
+    "lat": 56,
+    "lon": -4,
+    "poi_name": "Scotland",
+    "parent_id": "2635167",
+    "long": -4
+  },
+  {
+    "id": "2634895",
+    "label": "Wales",
+    "value": "2634895",
+    "lat": 52.5,
+    "lon": -3.5,
+    "poi_name": "Wales",
+    "parent_id": "2635167",
+    "long": -3.5
+  }
+]

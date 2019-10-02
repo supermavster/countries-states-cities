@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1651815",
+    "label": "Aileu",
+    "value": "1651815",
+    "lat": -8.69167,
+    "lon": 125.6375,
+    "poi_name": "Aileu",
+    "parent_id": "1966436",
+    "long": 125.6375
+  },
+  {
+    "id": "1651809",
+    "label": "Ainaro",
+    "value": "1651809",
+    "lat": -9.025,
+    "lon": 125.525,
+    "poi_name": "Ainaro",
+    "parent_id": "1966436",
+    "long": 125.525
+  },
+  {
+    "id": "1649538",
+    "label": "Baucau",
+    "value": "1649538",
+    "lat": -8.54167,
+    "lon": 126.475,
+    "poi_name": "Baucau",
+    "parent_id": "1966436",
+    "long": 126.475
+  },
+  {
+    "id": "1648513",
+    "label": "Bobonaro",
+    "value": "1648513",
+    "lat": -8.95,
+    "lon": 125.21667,
+    "poi_name": "Bobonaro",
+    "parent_id": "1966436",
+    "long": 125.21667
+  },
+  {
+    "id": "1639462",
+    "label": "Cova Lima",
+    "value": "1639462",
+    "lat": -9.26667,
+    "lon": 125.25,
+    "poi_name": "Cova Lima",
+    "parent_id": "1966436",
+    "long": 125.25
+  },
+  {
+    "id": "1645456",
+    "label": "D\u00edli",
+    "value": "1645456",
+    "lat": -8.55,
+    "lon": 125.66667,
+    "poi_name": "D\u00edli",
+    "parent_id": "1966436",
+    "long": 125.66667
+  },
+  {
+    "id": "1644865",
+    "label": "Ermera",
+    "value": "1644865",
+    "lat": -8.83028,
+    "lon": 125.38778,
+    "poi_name": "Ermera",
+    "parent_id": "1966436",
+    "long": 125.38778
+  },
+  {
+    "id": "1638294",
+    "label": "Laut\u00e9m",
+    "value": "1638294",
+    "lat": -8.51472,
+    "lon": 126.97,
+    "poi_name": "Laut\u00e9m",
+    "parent_id": "1966436",
+    "long": 126.97
+  },
+  {
+    "id": "1637729",
+    "label": "Liqui\u00e7\u00e1",
+    "value": "1637729",
+    "lat": -8.65,
+    "lon": 125.31667,
+    "poi_name": "Liqui\u00e7\u00e1",
+    "parent_id": "1966436",
+    "long": 125.31667
+  },
+  {
+    "id": "1636525",
+    "label": "Manatuto",
+    "value": "1636525",
+    "lat": -8.71667,
+    "lon": 125.95,
+    "poi_name": "Manatuto",
+    "parent_id": "1966436",
+    "long": 125.95
+  },
+  {
+    "id": "1636309",
+    "label": "Manufahi",
+    "value": "1636309",
+    "lat": -8.99861,
+    "lon": 125.77778,
+    "poi_name": "Manufahi",
+    "parent_id": "1966436",
+    "long": 125.77778
+  },
+  {
+    "id": "1651539",
+    "label": "Oecusse",
+    "value": "1651539",
+    "lat": -9.31361,
+    "lon": 124.29306,
+    "poi_name": "Oecusse",
+    "parent_id": "1966436",
+    "long": 124.29306
+  },
+  {
+    "id": "1622470",
+    "label": "Viqueque",
+    "value": "1622470",
+    "lat": -8.78722,
+    "lon": 126.36,
+    "poi_name": "Viqueque",
+    "parent_id": "1966436",
+    "long": 126.36
+  }
+]

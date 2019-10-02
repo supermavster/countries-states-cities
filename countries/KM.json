@@ -1,0 +1,32 @@
+[
+  {
+    "id": "921882",
+    "label": "Grande Comore",
+    "value": "921882",
+    "lat": -11.58333,
+    "lon": 43.33333,
+    "poi_name": "Grande Comore",
+    "parent_id": "921929",
+    "long": 43.33333
+  },
+  {
+    "id": "921780",
+    "label": "Moh\u00e9li",
+    "value": "921780",
+    "lat": -12.34268,
+    "lon": 43.73623,
+    "poi_name": "Moh\u00e9li",
+    "parent_id": "921929",
+    "long": 43.73623
+  },
+  {
+    "id": "922001",
+    "label": "Ndzuwani",
+    "value": "922001",
+    "lat": -12.25,
+    "lon": 44.41667,
+    "poi_name": "Ndzuwani",
+    "parent_id": "921929",
+    "long": 44.41667
+  }
+]

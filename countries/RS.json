@@ -1,0 +1,22 @@
+[
+  {
+    "id": "784272",
+    "label": "Autonomna Pokrajina Vojvodina",
+    "value": "784272",
+    "lat": 45,
+    "lon": 20,
+    "poi_name": "Autonomna Pokrajina Vojvodina",
+    "parent_id": "6290252",
+    "long": 20
+  },
+  {
+    "id": "785958",
+    "label": "Central Serbia",
+    "value": "785958",
+    "lat": 44,
+    "lon": 21,
+    "poi_name": "Central Serbia",
+    "parent_id": "6290252",
+    "long": 21
+  }
+]

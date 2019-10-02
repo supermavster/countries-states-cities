@@ -1,0 +1,162 @@
+[
+  {
+    "id": "2953481",
+    "label": "Baden-W\u00fcrttemberg Region",
+    "value": "2953481",
+    "lat": 48.5,
+    "lon": 9,
+    "poi_name": "Baden-W\u00fcrttemberg Region",
+    "parent_id": "2921044",
+    "long": 9
+  },
+  {
+    "id": "2951839",
+    "label": "Bavaria",
+    "value": "2951839",
+    "lat": 49,
+    "lon": 11.5,
+    "poi_name": "Bavaria",
+    "parent_id": "2921044",
+    "long": 11.5
+  },
+  {
+    "id": "2945356",
+    "label": "Brandenburg",
+    "value": "2945356",
+    "lat": 52.45905,
+    "lon": 13.01582,
+    "poi_name": "Brandenburg",
+    "parent_id": "2921044",
+    "long": 13.01582
+  },
+  {
+    "id": "2944387",
+    "label": "Bremen",
+    "value": "2944387",
+    "lat": 53.08333,
+    "lon": 8.83333,
+    "poi_name": "Bremen",
+    "parent_id": "2921044",
+    "long": 8.83333
+  },
+  {
+    "id": "2911297",
+    "label": "Free and Hanseatic City of Hamburg",
+    "value": "2911297",
+    "lat": 53.58333,
+    "lon": 10,
+    "poi_name": "Free and Hanseatic City of Hamburg",
+    "parent_id": "2921044",
+    "long": 10
+  },
+  {
+    "id": "2905330",
+    "label": "Hessen",
+    "value": "2905330",
+    "lat": 50.55,
+    "lon": 9,
+    "poi_name": "Hessen",
+    "parent_id": "2921044",
+    "long": 9
+  },
+  {
+    "id": "2950157",
+    "label": "Land Berlin",
+    "value": "2950157",
+    "lat": 52.5,
+    "lon": 13.41667,
+    "poi_name": "Land Berlin",
+    "parent_id": "2921044",
+    "long": 13.41667
+  },
+  {
+    "id": "2862926",
+    "label": "Lower Saxony",
+    "value": "2862926",
+    "lat": 52.83333,
+    "lon": 9.16667,
+    "poi_name": "Lower Saxony",
+    "parent_id": "2921044",
+    "long": 9.16667
+  },
+  {
+    "id": "2872567",
+    "label": "Mecklenburg-Western Pomerania",
+    "value": "2872567",
+    "lat": 53.83333,
+    "lon": 12.5,
+    "poi_name": "Mecklenburg-Western Pomerania",
+    "parent_id": "2921044",
+    "long": 12.5
+  },
+  {
+    "id": "2861876",
+    "label": "Nordrhein-Westfalen",
+    "value": "2861876",
+    "lat": 51.21895,
+    "lon": 6.76339,
+    "poi_name": "Nordrhein-Westfalen",
+    "parent_id": "2921044",
+    "long": 6.76339
+  },
+  {
+    "id": "2847618",
+    "label": "Rheinland-Pfalz",
+    "value": "2847618",
+    "lat": 49.66667,
+    "lon": 7.5,
+    "poi_name": "Rheinland-Pfalz",
+    "parent_id": "2921044",
+    "long": 7.5
+  },
+  {
+    "id": "2842635",
+    "label": "Saarland",
+    "value": "2842635",
+    "lat": 49.40472,
+    "lon": 6.96083,
+    "poi_name": "Saarland",
+    "parent_id": "2921044",
+    "long": 6.96083
+  },
+  {
+    "id": "2842566",
+    "label": "Saxony",
+    "value": "2842566",
+    "lat": 51,
+    "lon": 13.25,
+    "poi_name": "Saxony",
+    "parent_id": "2921044",
+    "long": 13.25
+  },
+  {
+    "id": "2842565",
+    "label": "Saxony-Anhalt",
+    "value": "2842565",
+    "lat": 52,
+    "lon": 11.7333,
+    "poi_name": "Saxony-Anhalt",
+    "parent_id": "2921044",
+    "long": 11.7333
+  },
+  {
+    "id": "2838632",
+    "label": "Schleswig-Holstein",
+    "value": "2838632",
+    "lat": 54.2,
+    "lon": 9.75,
+    "poi_name": "Schleswig-Holstein",
+    "parent_id": "2921044",
+    "long": 9.75
+  },
+  {
+    "id": "2822542",
+    "label": "Thuringia",
+    "value": "2822542",
+    "lat": 50.91667,
+    "lon": 11,
+    "poi_name": "Thuringia",
+    "parent_id": "2921044",
+    "long": 11
+  }
+]

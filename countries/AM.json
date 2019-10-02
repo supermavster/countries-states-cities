@@ -1,0 +1,112 @@
+[
+  {
+    "id": "828259",
+    "label": "Aragatsotni Marz",
+    "value": "828259",
+    "lat": 40.41667,
+    "lon": 44.16667,
+    "poi_name": "Aragatsotni Marz",
+    "parent_id": "174982",
+    "long": 44.16667
+  },
+  {
+    "id": "409313",
+    "label": "Ararati Marz",
+    "value": "409313",
+    "lat": 39.91667,
+    "lon": 44.83333,
+    "poi_name": "Ararati Marz",
+    "parent_id": "174982",
+    "long": 44.83333
+  },
+  {
+    "id": "828260",
+    "label": "Armaviri Marz",
+    "value": "828260",
+    "lat": 40.11667,
+    "lon": 44,
+    "poi_name": "Armaviri Marz",
+    "parent_id": "174982",
+    "long": 44
+  },
+  {
+    "id": "828261",
+    "label": "Geghark\u2019unik\u2019i Marz",
+    "value": "828261",
+    "lat": 40.25,
+    "lon": 45.41667,
+    "poi_name": "Geghark\u2019unik\u2019i Marz",
+    "parent_id": "174982",
+    "long": 45.41667
+  },
+  {
+    "id": "828262",
+    "label": "Kotayk\u2019i Marz",
+    "value": "828262",
+    "lat": 40.41667,
+    "lon": 44.75,
+    "poi_name": "Kotayk\u2019i Marz",
+    "parent_id": "174982",
+    "long": 44.75
+  },
+  {
+    "id": "828263",
+    "label": "Lorru Marz",
+    "value": "828263",
+    "lat": 41,
+    "lon": 44.5,
+    "poi_name": "Lorru Marz",
+    "parent_id": "174982",
+    "long": 44.5
+  },
+  {
+    "id": "828264",
+    "label": "Shiraki Marz",
+    "value": "828264",
+    "lat": 40.75,
+    "lon": 43.83333,
+    "poi_name": "Shiraki Marz",
+    "parent_id": "174982",
+    "long": 43.83333
+  },
+  {
+    "id": "409314",
+    "label": "Syunik\u2019i Marz",
+    "value": "409314",
+    "lat": 39.33333,
+    "lon": 46.25,
+    "poi_name": "Syunik\u2019i Marz",
+    "parent_id": "174982",
+    "long": 46.25
+  },
+  {
+    "id": "828265",
+    "label": "Tavushi Marz",
+    "value": "828265",
+    "lat": 40.91667,
+    "lon": 45.16667,
+    "poi_name": "Tavushi Marz",
+    "parent_id": "174982",
+    "long": 45.16667
+  },
+  {
+    "id": "409315",
+    "label": "Vayots\u2019 Dzor",
+    "value": "409315",
+    "lat": 39.75,
+    "lon": 45.41667,
+    "poi_name": "Vayots\u2019 Dzor",
+    "parent_id": "174982",
+    "long": 45.41667
+  },
+  {
+    "id": "616051",
+    "label": "Yerevan",
+    "value": "616051",
+    "lat": 40.18333,
+    "lon": 44.5,
+    "poi_name": "Yerevan",
+    "parent_id": "174982",
+    "long": 44.5
+  }
+]

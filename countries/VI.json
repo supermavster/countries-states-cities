@@ -1,0 +1,32 @@
+[
+  {
+    "id": "7267902",
+    "label": "Saint Croix Island",
+    "value": "7267902",
+    "lat": 17.73563,
+    "lon": -64.74795,
+    "poi_name": "Saint Croix Island",
+    "parent_id": "4796775",
+    "long": -64.74795
+  },
+  {
+    "id": "7267903",
+    "label": "Saint John Island",
+    "value": "7267903",
+    "lat": 18.32758,
+    "lon": -64.73771,
+    "poi_name": "Saint John Island",
+    "parent_id": "4796775",
+    "long": -64.73771
+  },
+  {
+    "id": "7267904",
+    "label": "Saint Thomas Island",
+    "value": "7267904",
+    "lat": 18.34537,
+    "lon": -64.92755,
+    "poi_name": "Saint Thomas Island",
+    "parent_id": "4796775",
+    "long": -64.92755
+  }
+]

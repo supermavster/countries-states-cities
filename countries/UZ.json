@@ -1,0 +1,142 @@
+[
+  {
+    "id": "1484846",
+    "label": "Andijan",
+    "value": "1484846",
+    "lat": 40.75,
+    "lon": 72.33333,
+    "poi_name": "Andijan",
+    "parent_id": "1512440",
+    "long": 72.33333
+  },
+  {
+    "id": "1114929",
+    "label": "Bukhara Province",
+    "value": "1114929",
+    "lat": 40,
+    "lon": 64,
+    "poi_name": "Bukhara Province",
+    "parent_id": "1512440",
+    "long": 64
+  },
+  {
+    "id": "1484845",
+    "label": "Fergana",
+    "value": "1484845",
+    "lat": 40.5,
+    "lon": 71.25,
+    "poi_name": "Fergana",
+    "parent_id": "1512440",
+    "long": 71.25
+  },
+  {
+    "id": "1484844",
+    "label": "Jizzakh Province",
+    "value": "1484844",
+    "lat": 40.33333,
+    "lon": 67.66667,
+    "poi_name": "Jizzakh Province",
+    "parent_id": "1512440",
+    "long": 67.66667
+  },
+  {
+    "id": "453752",
+    "label": "Karakalpakstan",
+    "value": "453752",
+    "lat": 44.21636,
+    "lon": 58.82986,
+    "poi_name": "Karakalpakstan",
+    "parent_id": "1512440",
+    "long": 58.82986
+  },
+  {
+    "id": "1484842",
+    "label": "Namangan Province",
+    "value": "1484842",
+    "lat": 40.99747,
+    "lon": 71.24784,
+    "poi_name": "Namangan Province",
+    "parent_id": "1512440",
+    "long": 71.24784
+  },
+  {
+    "id": "1484841",
+    "label": "Navoiy Province",
+    "value": "1484841",
+    "lat": 42,
+    "lon": 64,
+    "poi_name": "Navoiy Province",
+    "parent_id": "1512440",
+    "long": 64
+  },
+  {
+    "id": "1114928",
+    "label": "Qashqadaryo Province",
+    "value": "1114928",
+    "lat": 38.58333,
+    "lon": 66,
+    "poi_name": "Qashqadaryo Province",
+    "parent_id": "1512440",
+    "long": 66
+  },
+  {
+    "id": "1114927",
+    "label": "Samarqand Viloyati",
+    "value": "1114927",
+    "lat": 39.8,
+    "lon": 66.43333,
+    "poi_name": "Samarqand Viloyati",
+    "parent_id": "1512440",
+    "long": 66.43333
+  },
+  {
+    "id": "1484840",
+    "label": "Sirdaryo",
+    "value": "1484840",
+    "lat": 40.43333,
+    "lon": 68.66667,
+    "poi_name": "Sirdaryo",
+    "parent_id": "1512440",
+    "long": 68.66667
+  },
+  {
+    "id": "1114926",
+    "label": "Surxondaryo Viloyati",
+    "value": "1114926",
+    "lat": 38,
+    "lon": 67.5,
+    "poi_name": "Surxondaryo Viloyati",
+    "parent_id": "1512440",
+    "long": 67.5
+  },
+  {
+    "id": "1484839",
+    "label": "Toshkent Shahri",
+    "value": "1484839",
+    "lat": 41.33333,
+    "lon": 69.25,
+    "poi_name": "Toshkent Shahri",
+    "parent_id": "1512440",
+    "long": 69.25
+  },
+  {
+    "id": "1484838",
+    "label": "Toshkent Viloyati",
+    "value": "1484838",
+    "lat": 41.23333,
+    "lon": 69.8,
+    "poi_name": "Toshkent Viloyati",
+    "parent_id": "1512440",
+    "long": 69.8
+  },
+  {
+    "id": "1484843",
+    "label": "Xorazm Viloyati",
+    "value": "1484843",
+    "lat": 41.5,
+    "lon": 60.5,
+    "poi_name": "Xorazm Viloyati",
+    "parent_id": "1512440",
+    "long": 60.5
+  }
+]

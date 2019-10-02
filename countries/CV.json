@@ -1,0 +1,222 @@
+[
+  {
+    "id": "3374855",
+    "label": "Concelho da Boa Vista",
+    "value": "3374855",
+    "lat": 16.08333,
+    "lon": -22.83333,
+    "poi_name": "Concelho da Boa Vista",
+    "parent_id": "3374766",
+    "long": -22.83333
+  },
+  {
+    "id": "3374832",
+    "label": "Concelho da Brava",
+    "value": "3374832",
+    "lat": 14.86667,
+    "lon": -24.7,
+    "poi_name": "Concelho da Brava",
+    "parent_id": "3374766",
+    "long": -24.7
+  },
+  {
+    "id": "3374332",
+    "label": "Concelho da Praia",
+    "value": "3374332",
+    "lat": 14.95,
+    "lon": -23.51667,
+    "poi_name": "Concelho da Praia",
+    "parent_id": "3374766",
+    "long": -23.51667
+  },
+  {
+    "id": "7602869",
+    "label": "Concelho da Ribeira Brava",
+    "value": "7602869",
+    "lat": 16.61667,
+    "lon": -24.2,
+    "poi_name": "Concelho da Ribeira Brava",
+    "parent_id": "3374766",
+    "long": -24.2
+  },
+  {
+    "id": "3374274",
+    "label": "Concelho da Ribeira Grande",
+    "value": "3374274",
+    "lat": 17.13333,
+    "lon": -25.11667,
+    "poi_name": "Concelho da Ribeira Grande",
+    "parent_id": "3374766",
+    "long": -25.11667
+  },
+  {
+    "id": "7603281",
+    "label": "Concelho de Ribeira Grande de Santiago",
+    "value": "7603281",
+    "lat": 14.98333,
+    "lon": -23.65,
+    "poi_name": "Concelho de Ribeira Grande de Santiago",
+    "parent_id": "3374766",
+    "long": -23.65
+  },
+  {
+    "id": "3374226",
+    "label": "Concelho de Santa Catarina",
+    "value": "3374226",
+    "lat": 15.1,
+    "lon": -23.7,
+    "poi_name": "Concelho de Santa Catarina",
+    "parent_id": "3374766",
+    "long": -23.7
+  },
+  {
+    "id": "7602870",
+    "label": "Concelho de Santa Catarina do Fogo",
+    "value": "7602870",
+    "lat": 14.9,
+    "lon": -24.33333,
+    "poi_name": "Concelho de Santa Catarina do Fogo",
+    "parent_id": "3374766",
+    "long": -24.33333
+  },
+  {
+    "id": "3411925",
+    "label": "Concelho de Santa Cruz",
+    "value": "3411925",
+    "lat": 15.1,
+    "lon": -23.56667,
+    "poi_name": "Concelho de Santa Cruz",
+    "parent_id": "3374766",
+    "long": -23.56667
+  },
+  {
+    "id": "3411926",
+    "label": "Concelho de S\u00e3o Domingos",
+    "value": "3411926",
+    "lat": 15.01667,
+    "lon": -23.53333,
+    "poi_name": "Concelho de S\u00e3o Domingos",
+    "parent_id": "3374766",
+    "long": -23.53333
+  },
+  {
+    "id": "3411928",
+    "label": "Concelho de S\u00e3o Miguel",
+    "value": "3411928",
+    "lat": 15.2,
+    "lon": -23.65,
+    "poi_name": "Concelho de S\u00e3o Miguel",
+    "parent_id": "3374766",
+    "long": -23.65
+  },
+  {
+    "id": "7602871",
+    "label": "Concelho de S\u00e3o Salvador do Mundo",
+    "value": "7602871",
+    "lat": 15.08333,
+    "lon": -23.63333,
+    "poi_name": "Concelho de S\u00e3o Salvador do Mundo",
+    "parent_id": "3374766",
+    "long": -23.63333
+  },
+  {
+    "id": "3374198",
+    "label": "Concelho de S\u00e3o Vicente",
+    "value": "3374198",
+    "lat": 16.83333,
+    "lon": -25,
+    "poi_name": "Concelho de S\u00e3o Vicente",
+    "parent_id": "3374766",
+    "long": -25
+  },
+  {
+    "id": "3374487",
+    "label": "Concelho do Maio",
+    "value": "3374487",
+    "lat": 15.21667,
+    "lon": -23.16667,
+    "poi_name": "Concelho do Maio",
+    "parent_id": "3374766",
+    "long": -23.16667
+  },
+  {
+    "id": "3374391",
+    "label": "Concelho do Paul",
+    "value": "3374391",
+    "lat": 17.11667,
+    "lon": -25.01667,
+    "poi_name": "Concelho do Paul",
+    "parent_id": "3374766",
+    "long": -25.01667
+  },
+  {
+    "id": "7602868",
+    "label": "Concelho do Porto Novo",
+    "value": "7602868",
+    "lat": 17.01667,
+    "lon": -25.2,
+    "poi_name": "Concelho do Porto Novo",
+    "parent_id": "3374766",
+    "long": -25.2
+  },
+  {
+    "id": "3411927",
+    "label": "Concelho do S\u00e3o Filipe",
+    "value": "3411927",
+    "lat": 14.93333,
+    "lon": -24.43333,
+    "poi_name": "Concelho do S\u00e3o Filipe",
+    "parent_id": "3374766",
+    "long": -24.43333
+  },
+  {
+    "id": "3374161",
+    "label": "Concelho do Tarrafal",
+    "value": "3374161",
+    "lat": 15.26667,
+    "lon": -23.71667,
+    "poi_name": "Concelho do Tarrafal",
+    "parent_id": "3374766",
+    "long": -23.71667
+  },
+  {
+    "id": "7602872",
+    "label": "Concelho do Tarrafal de S\u00e3o Nicolau",
+    "value": "7602872",
+    "lat": 16.6,
+    "lon": -24.35,
+    "poi_name": "Concelho do Tarrafal de S\u00e3o Nicolau",
+    "parent_id": "3374766",
+    "long": -24.35
+  },
+  {
+    "id": "3411924",
+    "label": "Concelho dos Mosteiros",
+    "value": "3411924",
+    "lat": 15,
+    "lon": -24.35,
+    "poi_name": "Concelho dos Mosteiros",
+    "parent_id": "3374766",
+    "long": -24.35
+  },
+  {
+    "id": "3374249",
+    "label": "Sal Municipality",
+    "value": "3374249",
+    "lat": 16.75,
+    "lon": -22.91667,
+    "poi_name": "Sal Municipality",
+    "parent_id": "3374766",
+    "long": -22.91667
+  },
+  {
+    "id": "7602873",
+    "label": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+    "value": "7602873",
+    "lat": 15.06667,
+    "lon": -23.6,
+    "poi_name": "S\u00e3o Louren\u00e7o dos \u00d3rg\u00e3os",
+    "parent_id": "3374766",
+    "long": -23.6
+  }
+]

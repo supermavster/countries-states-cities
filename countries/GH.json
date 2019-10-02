@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2304116",
+    "label": "Ashanti Region",
+    "value": "2304116",
+    "lat": 6.75,
+    "lon": -1.5,
+    "poi_name": "Ashanti Region",
+    "parent_id": "2300660",
+    "long": -1.5
+  },
+  {
+    "id": "2302547",
+    "label": "Brong-Ahafo Region",
+    "value": "2302547",
+    "lat": 7.75,
+    "lon": -1.5,
+    "poi_name": "Brong-Ahafo Region",
+    "parent_id": "2300660",
+    "long": -1.5
+  },
+  {
+    "id": "2302353",
+    "label": "Central Region",
+    "value": "2302353",
+    "lat": 5.5,
+    "lon": -1,
+    "poi_name": "Central Region",
+    "parent_id": "2300660",
+    "long": -1
+  },
+  {
+    "id": "2301360",
+    "label": "Eastern Region",
+    "value": "2301360",
+    "lat": 6.5,
+    "lon": -0.5,
+    "poi_name": "Eastern Region",
+    "parent_id": "2300660",
+    "long": -0.5
+  },
+  {
+    "id": "2297169",
+    "label": "Northern Region",
+    "value": "2297169",
+    "lat": 9.5,
+    "lon": -1,
+    "poi_name": "Northern Region",
+    "parent_id": "2300660",
+    "long": -1
+  },
+  {
+    "id": "2294291",
+    "label": "Upper East Region",
+    "value": "2294291",
+    "lat": 10.75,
+    "lon": -0.75,
+    "poi_name": "Upper East Region",
+    "parent_id": "2300660",
+    "long": -0.75
+  },
+  {
+    "id": "2294286",
+    "label": "Upper West Region",
+    "value": "2294286",
+    "lat": 10.33333,
+    "lon": -2.25,
+    "poi_name": "Upper West Region",
+    "parent_id": "2300660",
+    "long": -2.25
+  },
+  {
+    "id": "2294234",
+    "label": "Volta Region",
+    "value": "2294234",
+    "lat": 7,
+    "lon": 0.5,
+    "poi_name": "Volta Region",
+    "parent_id": "2300660",
+    "long": 0.5
+  },
+  {
+    "id": "2294076",
+    "label": "Western Region",
+    "value": "2294076",
+    "lat": 5.5,
+    "lon": -2.5,
+    "poi_name": "Western Region",
+    "parent_id": "2300660",
+    "long": -2.5
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "2110451",
+    "label": "Aiwo District",
+    "value": "2110451",
+    "lat": -0.53422,
+    "lon": 166.90994,
+    "poi_name": "Aiwo District",
+    "parent_id": "2110425",
+    "long": 166.90994
+  },
+  {
+    "id": "2110449",
+    "label": "Anabar District",
+    "value": "2110449",
+    "lat": -0.50742,
+    "lon": 166.9524,
+    "poi_name": "Anabar District",
+    "parent_id": "2110425",
+    "long": 166.9524
+  },
+  {
+    "id": "2110448",
+    "label": "Anetan District",
+    "value": "2110448",
+    "lat": -0.5035,
+    "lon": 166.94348,
+    "poi_name": "Anetan District",
+    "parent_id": "2110425",
+    "long": 166.94348
+  },
+  {
+    "id": "2110445",
+    "label": "Anibare District",
+    "value": "2110445",
+    "lat": -0.53459,
+    "lon": 166.95032,
+    "poi_name": "Anibare District",
+    "parent_id": "2110425",
+    "long": 166.95032
+  },
+  {
+    "id": "2110442",
+    "label": "Baiti District",
+    "value": "2110442",
+    "lat": -0.50754,
+    "lon": 166.92969,
+    "poi_name": "Baiti District",
+    "parent_id": "2110425",
+    "long": 166.92969
+  },
+  {
+    "id": "2110441",
+    "label": "Boe District",
+    "value": "2110441",
+    "lat": -0.54158,
+    "lon": 166.91421,
+    "poi_name": "Boe District",
+    "parent_id": "2110425",
+    "long": 166.91421
+  },
+  {
+    "id": "2110440",
+    "label": "Buada District",
+    "value": "2110440",
+    "lat": -0.53532,
+    "lon": 166.92086,
+    "poi_name": "Buada District",
+    "parent_id": "2110425",
+    "long": 166.92086
+  },
+  {
+    "id": "2110437",
+    "label": "Denigomodu District",
+    "value": "2110437",
+    "lat": -0.52264,
+    "lon": 166.91358,
+    "poi_name": "Denigomodu District",
+    "parent_id": "2110425",
+    "long": 166.91358
+  },
+  {
+    "id": "2110435",
+    "label": "Ewa District",
+    "value": "2110435",
+    "lat": -0.5033,
+    "lon": 166.93453,
+    "poi_name": "Ewa District",
+    "parent_id": "2110425",
+    "long": 166.93453
+  },
+  {
+    "id": "2110432",
+    "label": "Ijuw District",
+    "value": "2110432",
+    "lat": -0.52141,
+    "lon": 166.95798,
+    "poi_name": "Ijuw District",
+    "parent_id": "2110425",
+    "long": 166.95798
+  },
+  {
+    "id": "2110431",
+    "label": "Meneng District",
+    "value": "2110431",
+    "lat": -0.55242,
+    "lon": 166.93788,
+    "poi_name": "Meneng District",
+    "parent_id": "2110425",
+    "long": 166.93788
+  },
+  {
+    "id": "2110423",
+    "label": "Nibok District",
+    "value": "2110423",
+    "lat": -0.51725,
+    "lon": 166.9223,
+    "poi_name": "Nibok District",
+    "parent_id": "2110425",
+    "long": 166.9223
+  },
+  {
+    "id": "2110420",
+    "label": "Uaboe District",
+    "value": "2110420",
+    "lat": -0.51399,
+    "lon": 166.9258,
+    "poi_name": "Uaboe District",
+    "parent_id": "2110425",
+    "long": 166.9258
+  },
+  {
+    "id": "2110418",
+    "label": "Yaren",
+    "value": "2110418",
+    "lat": -0.54724,
+    "lon": 166.91599,
+    "poi_name": "Yaren",
+    "parent_id": "2110425",
+    "long": 166.91599
+  }
+]

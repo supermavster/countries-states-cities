@@ -1,0 +1,92 @@
+[
+  {
+    "id": "2375255",
+    "label": "Bafat\u00e1",
+    "value": "2375255",
+    "lat": 12.16667,
+    "lon": -14.71667,
+    "poi_name": "Bafat\u00e1",
+    "parent_id": "2372248",
+    "long": -14.71667
+  },
+  {
+    "id": "2374820",
+    "label": "Biombo",
+    "value": "2374820",
+    "lat": 11.88281,
+    "lon": -15.84332,
+    "poi_name": "Biombo",
+    "parent_id": "2372248",
+    "long": -15.84332
+  },
+  {
+    "id": "2374776",
+    "label": "Bissau Region",
+    "value": "2374776",
+    "lat": 11.85391,
+    "lon": -15.59097,
+    "poi_name": "Bissau Region",
+    "parent_id": "2372248",
+    "long": -15.59097
+  },
+  {
+    "id": "2374689",
+    "label": "Bolama",
+    "value": "2374689",
+    "lat": 11.15484,
+    "lon": -16.00926,
+    "poi_name": "Bolama",
+    "parent_id": "2372248",
+    "long": -16.00926
+  },
+  {
+    "id": "2374312",
+    "label": "Cacheu Region",
+    "value": "2374312",
+    "lat": 12,
+    "lon": -16.16667,
+    "poi_name": "Cacheu Region",
+    "parent_id": "2372248",
+    "long": -16.16667
+  },
+  {
+    "id": "2372533",
+    "label": "Gab\u00fa",
+    "value": "2372533",
+    "lat": 12.16667,
+    "lon": -14.16667,
+    "poi_name": "Gab\u00fa",
+    "parent_id": "2372248",
+    "long": -14.16667
+  },
+  {
+    "id": "2371071",
+    "label": "Oio Region",
+    "value": "2371071",
+    "lat": 12.25,
+    "lon": -15.25,
+    "poi_name": "Oio Region",
+    "parent_id": "2372248",
+    "long": -15.25
+  },
+  {
+    "id": "2370360",
+    "label": "Quinara",
+    "value": "2370360",
+    "lat": 11.66667,
+    "lon": -15.08333,
+    "poi_name": "Quinara",
+    "parent_id": "2372248",
+    "long": -15.08333
+  },
+  {
+    "id": "2368955",
+    "label": "Tombali",
+    "value": "2368955",
+    "lat": 11.3,
+    "lon": -15,
+    "poi_name": "Tombali",
+    "parent_id": "2372248",
+    "long": -15
+  }
+]

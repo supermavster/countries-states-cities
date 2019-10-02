@@ -1,0 +1,202 @@
+[
+  {
+    "id": "3183560",
+    "label": "Abruzzo",
+    "value": "3183560",
+    "lat": 42.25,
+    "lon": 13.75,
+    "poi_name": "Abruzzo",
+    "parent_id": "3175395",
+    "long": 13.75
+  },
+  {
+    "id": "3182306",
+    "label": "Basilicata",
+    "value": "3182306",
+    "lat": 40.5041,
+    "lon": 16.11396,
+    "poi_name": "Basilicata",
+    "parent_id": "3175395",
+    "long": 16.11396
+  },
+  {
+    "id": "2525468",
+    "label": "Calabria",
+    "value": "2525468",
+    "lat": 39,
+    "lon": 16.5,
+    "poi_name": "Calabria",
+    "parent_id": "3175395",
+    "long": 16.5
+  },
+  {
+    "id": "3181042",
+    "label": "Campania",
+    "value": "3181042",
+    "lat": 40.91056,
+    "lon": 14.92053,
+    "poi_name": "Campania",
+    "parent_id": "3175395",
+    "long": 14.92053
+  },
+  {
+    "id": "3177401",
+    "label": "Emilia-Romagna",
+    "value": "3177401",
+    "lat": 44.5444,
+    "lon": 10.98361,
+    "poi_name": "Emilia-Romagna",
+    "parent_id": "3175395",
+    "long": 10.98361
+  },
+  {
+    "id": "3176525",
+    "label": "Friuli Venezia Giulia",
+    "value": "3176525",
+    "lat": 46,
+    "lon": 13,
+    "poi_name": "Friuli Venezia Giulia",
+    "parent_id": "3175395",
+    "long": 13
+  },
+  {
+    "id": "3174976",
+    "label": "Lazio",
+    "value": "3174976",
+    "lat": 42.07762,
+    "lon": 12.77878,
+    "poi_name": "Lazio",
+    "parent_id": "3175395",
+    "long": 12.77878
+  },
+  {
+    "id": "3174725",
+    "label": "Liguria",
+    "value": "3174725",
+    "lat": 44.5,
+    "lon": 8.83333,
+    "poi_name": "Liguria",
+    "parent_id": "3175395",
+    "long": 8.83333
+  },
+  {
+    "id": "3174618",
+    "label": "Lombardia",
+    "value": "3174618",
+    "lat": 45.66667,
+    "lon": 9.5,
+    "poi_name": "Lombardia",
+    "parent_id": "3175395",
+    "long": 9.5
+  },
+  {
+    "id": "3174004",
+    "label": "Marche",
+    "value": "3174004",
+    "lat": 43.5,
+    "lon": 13.25,
+    "poi_name": "Marche",
+    "parent_id": "3175395",
+    "long": 13.25
+  },
+  {
+    "id": "3173222",
+    "label": "Molise",
+    "value": "3173222",
+    "lat": 41.66667,
+    "lon": 14.5,
+    "poi_name": "Molise",
+    "parent_id": "3175395",
+    "long": 14.5
+  },
+  {
+    "id": "3170831",
+    "label": "Piemonte",
+    "value": "3170831",
+    "lat": 45,
+    "lon": 8,
+    "poi_name": "Piemonte",
+    "parent_id": "3175395",
+    "long": 8
+  },
+  {
+    "id": "3169778",
+    "label": "Puglia",
+    "value": "3169778",
+    "lat": 41.00164,
+    "lon": 16.73378,
+    "poi_name": "Puglia",
+    "parent_id": "3175395",
+    "long": 16.73378
+  },
+  {
+    "id": "3164857",
+    "label": "Regione Autonoma Valle d'Aosta",
+    "value": "3164857",
+    "lat": 45.75,
+    "lon": 7.25,
+    "poi_name": "Regione Autonoma Valle d'Aosta",
+    "parent_id": "3175395",
+    "long": 7.25
+  },
+  {
+    "id": "2523228",
+    "label": "Sardegna",
+    "value": "2523228",
+    "lat": 40,
+    "lon": 9,
+    "poi_name": "Sardegna",
+    "parent_id": "3175395",
+    "long": 9
+  },
+  {
+    "id": "2523119",
+    "label": "Sicilia",
+    "value": "2523119",
+    "lat": 37.75,
+    "lon": 14.25,
+    "poi_name": "Sicilia",
+    "parent_id": "3175395",
+    "long": 14.25
+  },
+  {
+    "id": "3165361",
+    "label": "Toscana",
+    "value": "3165361",
+    "lat": 43.41667,
+    "lon": 11,
+    "poi_name": "Toscana",
+    "parent_id": "3175395",
+    "long": 11
+  },
+  {
+    "id": "3165244",
+    "label": "Trentino-Alto Adige",
+    "value": "3165244",
+    "lat": 46.5,
+    "lon": 11.33333,
+    "poi_name": "Trentino-Alto Adige",
+    "parent_id": "3175395",
+    "long": 11.33333
+  },
+  {
+    "id": "3165048",
+    "label": "Umbria",
+    "value": "3165048",
+    "lat": 43,
+    "lon": 12.5,
+    "poi_name": "Umbria",
+    "parent_id": "3175395",
+    "long": 12.5
+  },
+  {
+    "id": "3164604",
+    "label": "Veneto",
+    "value": "3164604",
+    "lat": 45.5,
+    "lon": 11.75,
+    "poi_name": "Veneto",
+    "parent_id": "3175395",
+    "long": 11.75
+  }
+]

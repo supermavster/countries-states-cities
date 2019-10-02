@@ -1,0 +1,122 @@
+[
+  {
+    "id": "448254",
+    "label": "Agalega Islands",
+    "value": "448254",
+    "lat": -10.4,
+    "lon": 56.61667,
+    "poi_name": "Agalega Islands",
+    "parent_id": "934292",
+    "long": 56.61667
+  },
+  {
+    "id": "934718",
+    "label": "Black River District",
+    "value": "934718",
+    "lat": -20.33333,
+    "lon": 57.41667,
+    "poi_name": "Black River District",
+    "parent_id": "934292",
+    "long": 57.41667
+  },
+  {
+    "id": "1106583",
+    "label": "Cargados Carajos",
+    "value": "1106583",
+    "lat": -16.63333,
+    "lon": 59.63333,
+    "poi_name": "Cargados Carajos",
+    "parent_id": "934292",
+    "long": 59.63333
+  },
+  {
+    "id": "934522",
+    "label": "Flacq District",
+    "value": "934522",
+    "lat": -20.23333,
+    "lon": 57.71667,
+    "poi_name": "Flacq District",
+    "parent_id": "934292",
+    "long": 57.71667
+  },
+  {
+    "id": "934466",
+    "label": "Grand Port District",
+    "value": "934466",
+    "lat": -20.41667,
+    "lon": 57.63333,
+    "poi_name": "Grand Port District",
+    "parent_id": "934292",
+    "long": 57.63333
+  },
+  {
+    "id": "934275",
+    "label": "Moka District",
+    "value": "934275",
+    "lat": -20.25,
+    "lon": 57.56667,
+    "poi_name": "Moka District",
+    "parent_id": "934292",
+    "long": 57.56667
+  },
+  {
+    "id": "934212",
+    "label": "Pamplemousses District",
+    "value": "934212",
+    "lat": -20.09583,
+    "lon": 57.55972,
+    "poi_name": "Pamplemousses District",
+    "parent_id": "934292",
+    "long": 57.55972
+  },
+  {
+    "id": "934166",
+    "label": "Plaines Wilhems District",
+    "value": "934166",
+    "lat": -20.3,
+    "lon": 57.48333,
+    "poi_name": "Plaines Wilhems District",
+    "parent_id": "934292",
+    "long": 57.48333
+  },
+  {
+    "id": "934153",
+    "label": "Port Louis District",
+    "value": "934153",
+    "lat": -20.16667,
+    "lon": 57.525,
+    "poi_name": "Port Louis District",
+    "parent_id": "934292",
+    "long": 57.525
+  },
+  {
+    "id": "934090",
+    "label": "Rivi\u00e8re du Rempart District",
+    "value": "934090",
+    "lat": -20.05833,
+    "lon": 57.64167,
+    "poi_name": "Rivi\u00e8re du Rempart District",
+    "parent_id": "934292",
+    "long": 57.64167
+  },
+  {
+    "id": "1547449",
+    "label": "Rodrigues",
+    "value": "1547449",
+    "lat": -19.701,
+    "lon": 63.416,
+    "poi_name": "Rodrigues",
+    "parent_id": "934292",
+    "long": 63.416
+  },
+  {
+    "id": "934017",
+    "label": "Savanne District",
+    "value": "934017",
+    "lat": -20.46667,
+    "lon": 57.5,
+    "poi_name": "Savanne District",
+    "parent_id": "934292",
+    "long": 57.5
+  }
+]

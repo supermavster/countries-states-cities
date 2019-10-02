@@ -1,0 +1,172 @@
+[
+  {
+    "id": "2193734",
+    "label": "Auckland",
+    "value": "2193734",
+    "lat": -36.85,
+    "lon": 174.78333,
+    "poi_name": "Auckland",
+    "parent_id": "2186224",
+    "long": 174.78333
+  },
+  {
+    "id": "2182560",
+    "label": "Bay of Plenty",
+    "value": "2182560",
+    "lat": -38.1648,
+    "lon": 176.91284,
+    "poi_name": "Bay of Plenty",
+    "parent_id": "2186224",
+    "long": 176.91284
+  },
+  {
+    "id": "2192628",
+    "label": "Canterbury",
+    "value": "2192628",
+    "lat": -43.5,
+    "lon": 171.5,
+    "poi_name": "Canterbury",
+    "parent_id": "2186224",
+    "long": 171.5
+  },
+  {
+    "id": "4033013",
+    "label": "Chatham Islands",
+    "value": "4033013",
+    "lat": -44,
+    "lon": -176.5,
+    "poi_name": "Chatham Islands",
+    "parent_id": "2186224",
+    "long": -176.5
+  },
+  {
+    "id": "2190767",
+    "label": "Gisborne",
+    "value": "2190767",
+    "lat": -38.65,
+    "lon": 178,
+    "poi_name": "Gisborne",
+    "parent_id": "2186224",
+    "long": 178
+  },
+  {
+    "id": "2190146",
+    "label": "Hawke's Bay",
+    "value": "2190146",
+    "lat": -39.66667,
+    "lon": 176.5,
+    "poi_name": "Hawke's Bay",
+    "parent_id": "2186224",
+    "long": 176.5
+  },
+  {
+    "id": "2179671",
+    "label": "Manawatu-Wanganui",
+    "value": "2179671",
+    "lat": -39.95,
+    "lon": 175.01667,
+    "poi_name": "Manawatu-Wanganui",
+    "parent_id": "2186224",
+    "long": 175.01667
+  },
+  {
+    "id": "2187304",
+    "label": "Marlborough",
+    "value": "2187304",
+    "lat": -41.66667,
+    "lon": 173.5,
+    "poi_name": "Marlborough",
+    "parent_id": "2186224",
+    "long": 173.5
+  },
+  {
+    "id": "6612108",
+    "label": "Nelson",
+    "value": "6612108",
+    "lat": -41.27089,
+    "lon": 173.28401,
+    "poi_name": "Nelson",
+    "parent_id": "2186224",
+    "long": 173.28401
+  },
+  {
+    "id": "2185978",
+    "label": "Northland",
+    "value": "2185978",
+    "lat": -35.5,
+    "lon": 174,
+    "poi_name": "Northland",
+    "parent_id": "2186224",
+    "long": 174
+  },
+  {
+    "id": "6612109",
+    "label": "Otago",
+    "value": "6612109",
+    "lat": -45.26392,
+    "lon": 169.53501,
+    "poi_name": "Otago",
+    "parent_id": "2186224",
+    "long": 169.53501
+  },
+  {
+    "id": "2182501",
+    "label": "Southland",
+    "value": "2182501",
+    "lat": -45.66667,
+    "lon": 168,
+    "poi_name": "Southland",
+    "parent_id": "2186224",
+    "long": 168
+  },
+  {
+    "id": "2181872",
+    "label": "Taranaki",
+    "value": "2181872",
+    "lat": -39.16667,
+    "lon": 174.66667,
+    "poi_name": "Taranaki",
+    "parent_id": "2186224",
+    "long": 174.66667
+  },
+  {
+    "id": "2181818",
+    "label": "Tasman",
+    "value": "2181818",
+    "lat": -41.2,
+    "lon": 173.05,
+    "poi_name": "Tasman",
+    "parent_id": "2186224",
+    "long": 173.05
+  },
+  {
+    "id": "2180293",
+    "label": "Waikato",
+    "value": "2180293",
+    "lat": -37.5,
+    "lon": 175.33333,
+    "poi_name": "Waikato",
+    "parent_id": "2186224",
+    "long": 175.33333
+  },
+  {
+    "id": "2179538",
+    "label": "Wellington",
+    "value": "2179538",
+    "lat": -41.28333,
+    "lon": 174.76667,
+    "poi_name": "Wellington",
+    "parent_id": "2186224",
+    "long": 174.76667
+  },
+  {
+    "id": "6612113",
+    "label": "West Coast",
+    "value": "6612113",
+    "lat": -42.45658,
+    "lon": 171.22081,
+    "poi_name": "West Coast",
+    "parent_id": "2186224",
+    "long": 171.22081
+  }
+]

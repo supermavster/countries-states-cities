@@ -1,0 +1,102 @@
+[
+  {
+    "id": "3575632",
+    "label": "Saint Andrew",
+    "value": "3575632",
+    "lat": 15.56667,
+    "lon": -61.36667,
+    "poi_name": "Saint Andrew",
+    "parent_id": "3575830",
+    "long": -61.36667
+  },
+  {
+    "id": "3575630",
+    "label": "Saint David",
+    "value": "3575630",
+    "lat": 15.46667,
+    "lon": -61.28333,
+    "poi_name": "Saint David",
+    "parent_id": "3575830",
+    "long": -61.28333
+  },
+  {
+    "id": "3575628",
+    "label": "Saint George",
+    "value": "3575628",
+    "lat": 15.3,
+    "lon": -61.36667,
+    "poi_name": "Saint George",
+    "parent_id": "3575830",
+    "long": -61.36667
+  },
+  {
+    "id": "3575626",
+    "label": "Saint John",
+    "value": "3575626",
+    "lat": 15.58333,
+    "lon": -61.45,
+    "poi_name": "Saint John",
+    "parent_id": "3575830",
+    "long": -61.45
+  },
+  {
+    "id": "3575625",
+    "label": "Saint Joseph",
+    "value": "3575625",
+    "lat": 15.43333,
+    "lon": -61.43333,
+    "poi_name": "Saint Joseph",
+    "parent_id": "3575830",
+    "long": -61.43333
+  },
+  {
+    "id": "3575622",
+    "label": "Saint Luke",
+    "value": "3575622",
+    "lat": 15.26667,
+    "lon": -61.38333,
+    "poi_name": "Saint Luke",
+    "parent_id": "3575830",
+    "long": -61.38333
+  },
+  {
+    "id": "3575621",
+    "label": "Saint Mark",
+    "value": "3575621",
+    "lat": 15.21667,
+    "lon": -61.36667,
+    "poi_name": "Saint Mark",
+    "parent_id": "3575830",
+    "long": -61.36667
+  },
+  {
+    "id": "3575620",
+    "label": "Saint Patrick",
+    "value": "3575620",
+    "lat": 15.28333,
+    "lon": -61.3,
+    "poi_name": "Saint Patrick",
+    "parent_id": "3575830",
+    "long": -61.3
+  },
+  {
+    "id": "3575619",
+    "label": "Saint Paul",
+    "value": "3575619",
+    "lat": 15.35,
+    "lon": -61.38333,
+    "poi_name": "Saint Paul",
+    "parent_id": "3575830",
+    "long": -61.38333
+  },
+  {
+    "id": "3575618",
+    "label": "Saint Peter",
+    "value": "3575618",
+    "lat": 15.51667,
+    "lon": -61.45,
+    "poi_name": "Saint Peter",
+    "parent_id": "3575830",
+    "long": -61.45
+  }
+]

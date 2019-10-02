@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1051823",
+    "label": "Cabo Delgado Province",
+    "value": "1051823",
+    "lat": -12.5,
+    "lon": 39.4,
+    "poi_name": "Cabo Delgado Province",
+    "parent_id": "1036973",
+    "long": 39.4
+  },
+  {
+    "id": "1105845",
+    "label": "Cidade de Maputo",
+    "value": "1105845",
+    "lat": -25.96528,
+    "lon": 32.58917,
+    "poi_name": "Cidade de Maputo",
+    "parent_id": "1036973",
+    "long": 32.58917
+  },
+  {
+    "id": "1046058",
+    "label": "Gaza Province",
+    "value": "1046058",
+    "lat": -23.5,
+    "lon": 33,
+    "poi_name": "Gaza Province",
+    "parent_id": "1036973",
+    "long": 33
+  },
+  {
+    "id": "1045110",
+    "label": "Inhambane Province",
+    "value": "1045110",
+    "lat": -23,
+    "lon": 34.5,
+    "poi_name": "Inhambane Province",
+    "parent_id": "1036973",
+    "long": 34.5
+  },
+  {
+    "id": "1040947",
+    "label": "Manica Province",
+    "value": "1040947",
+    "lat": -19,
+    "lon": 33.5,
+    "poi_name": "Manica Province",
+    "parent_id": "1036973",
+    "long": 33.5
+  },
+  {
+    "id": "1040649",
+    "label": "Maputo Province",
+    "value": "1040649",
+    "lat": -25.5,
+    "lon": 32.33333,
+    "poi_name": "Maputo Province",
+    "parent_id": "1036973",
+    "long": 32.33333
+  },
+  {
+    "id": "1033354",
+    "label": "Nampula",
+    "value": "1033354",
+    "lat": -15,
+    "lon": 39,
+    "poi_name": "Nampula",
+    "parent_id": "1036973",
+    "long": 39
+  },
+  {
+    "id": "1030006",
+    "label": "Niassa Province",
+    "value": "1030006",
+    "lat": -13,
+    "lon": 36.7,
+    "poi_name": "Niassa Province",
+    "parent_id": "1036973",
+    "long": 36.7
+  },
+  {
+    "id": "1024312",
+    "label": "Prov\u00edncia de Zamb\u00e9zia",
+    "value": "1024312",
+    "lat": -17,
+    "lon": 37,
+    "poi_name": "Prov\u00edncia de Zamb\u00e9zia",
+    "parent_id": "1036973",
+    "long": 37
+  },
+  {
+    "id": "1026804",
+    "label": "Sofala Province",
+    "value": "1026804",
+    "lat": -19.2,
+    "lon": 34.8,
+    "poi_name": "Sofala Province",
+    "parent_id": "1036973",
+    "long": 34.8
+  },
+  {
+    "id": "1026010",
+    "label": "Tete",
+    "value": "1026010",
+    "lat": -15.5,
+    "lon": 33,
+    "poi_name": "Tete",
+    "parent_id": "1036973",
+    "long": 33
+  }
+]

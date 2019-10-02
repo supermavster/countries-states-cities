@@ -1,0 +1,102 @@
+[
+  {
+    "id": "3728069",
+    "label": "Centre",
+    "value": "3728069",
+    "lat": 19,
+    "lon": -72,
+    "poi_name": "Centre",
+    "parent_id": "3723988",
+    "long": -72
+  },
+  {
+    "id": "7115999",
+    "label": "D\u00e9partement de Nippes",
+    "value": "7115999",
+    "lat": 18.44835,
+    "lon": -73.4285,
+    "poi_name": "D\u00e9partement de Nippes",
+    "parent_id": "3723988",
+    "long": -73.4285
+  },
+  {
+    "id": "3731053",
+    "label": "D\u00e9partement de l'Artibonite",
+    "value": "3731053",
+    "lat": 19.33333,
+    "lon": -72.5,
+    "poi_name": "D\u00e9partement de l'Artibonite",
+    "parent_id": "3723988",
+    "long": -72.5
+  },
+  {
+    "id": "3719432",
+    "label": "D\u00e9partement de l'Ouest",
+    "value": "3719432",
+    "lat": 18.66381,
+    "lon": -72.29141,
+    "poi_name": "D\u00e9partement de l'Ouest",
+    "parent_id": "3723988",
+    "long": -72.29141
+  },
+  {
+    "id": "3719540",
+    "label": "D\u00e9partement du Nord-Est",
+    "value": "3719540",
+    "lat": 19.48897,
+    "lon": -71.85713,
+    "poi_name": "D\u00e9partement du Nord-Est",
+    "parent_id": "3723988",
+    "long": -71.85713
+  },
+  {
+    "id": "3724613",
+    "label": "Grandans",
+    "value": "3724613",
+    "lat": 18.5,
+    "lon": -74.08333,
+    "poi_name": "Grandans",
+    "parent_id": "3723988",
+    "long": -74.08333
+  },
+  {
+    "id": "3719543",
+    "label": "Nord",
+    "value": "3719543",
+    "lat": 19.6,
+    "lon": -72.3,
+    "poi_name": "Nord",
+    "parent_id": "3723988",
+    "long": -72.3
+  },
+  {
+    "id": "3719536",
+    "label": "Nord-Ouest",
+    "value": "3719536",
+    "lat": 19.83333,
+    "lon": -73,
+    "poi_name": "Nord-Ouest",
+    "parent_id": "3723988",
+    "long": -73
+  },
+  {
+    "id": "3716952",
+    "label": "Sud",
+    "value": "3716952",
+    "lat": 18.3,
+    "lon": -73.73333,
+    "poi_name": "Sud",
+    "parent_id": "3723988",
+    "long": -73.73333
+  },
+  {
+    "id": "3716950",
+    "label": "Sud-Est",
+    "value": "3716950",
+    "lat": 18.3,
+    "lon": -72.4,
+    "poi_name": "Sud-Est",
+    "parent_id": "3723988",
+    "long": -72.4
+  }
+]

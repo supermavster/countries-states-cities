@@ -1,0 +1,172 @@
+[
+  {
+    "id": "6268943",
+    "label": "Gobolka Awdal",
+    "value": "6268943",
+    "lat": 10.5,
+    "lon": 43.5,
+    "poi_name": "Gobolka Awdal",
+    "parent_id": "51537",
+    "long": 43.5
+  },
+  {
+    "id": "64982",
+    "label": "Gobolka Bakool",
+    "value": "64982",
+    "lat": 4,
+    "lon": 44,
+    "poi_name": "Gobolka Bakool",
+    "parent_id": "51537",
+    "long": 44
+  },
+  {
+    "id": "64833",
+    "label": "Gobolka Banaadir",
+    "value": "64833",
+    "lat": 2.11667,
+    "lon": 45.4,
+    "poi_name": "Gobolka Banaadir",
+    "parent_id": "51537",
+    "long": 45.4
+  },
+  {
+    "id": "64661",
+    "label": "Gobolka Bari",
+    "value": "64661",
+    "lat": 10,
+    "lon": 50,
+    "poi_name": "Gobolka Bari",
+    "parent_id": "51537",
+    "long": 50
+  },
+  {
+    "id": "64538",
+    "label": "Gobolka Bay",
+    "value": "64538",
+    "lat": 3,
+    "lon": 43.5,
+    "poi_name": "Gobolka Bay",
+    "parent_id": "51537",
+    "long": 43.5
+  },
+  {
+    "id": "59362",
+    "label": "Gobolka Galguduud",
+    "value": "59362",
+    "lat": 5,
+    "lon": 47,
+    "poi_name": "Gobolka Galguduud",
+    "parent_id": "51537",
+    "long": 47
+  },
+  {
+    "id": "58802",
+    "label": "Gobolka Gedo",
+    "value": "58802",
+    "lat": 3,
+    "lon": 42,
+    "poi_name": "Gobolka Gedo",
+    "parent_id": "51537",
+    "long": 42
+  },
+  {
+    "id": "57060",
+    "label": "Gobolka Hiiraan",
+    "value": "57060",
+    "lat": 4,
+    "lon": 45.5,
+    "poi_name": "Gobolka Hiiraan",
+    "parent_id": "51537",
+    "long": 45.5
+  },
+  {
+    "id": "56084",
+    "label": "Gobolka Jubbada Dhexe",
+    "value": "56084",
+    "lat": 1.33333,
+    "lon": 42.66667,
+    "poi_name": "Gobolka Jubbada Dhexe",
+    "parent_id": "51537",
+    "long": 42.66667
+  },
+  {
+    "id": "53707",
+    "label": "Gobolka Mudug",
+    "value": "53707",
+    "lat": 7,
+    "lon": 48,
+    "poi_name": "Gobolka Mudug",
+    "parent_id": "51537",
+    "long": 48
+  },
+  {
+    "id": "53477",
+    "label": "Gobolka Nugaal",
+    "value": "53477",
+    "lat": 8.16667,
+    "lon": 49,
+    "poi_name": "Gobolka Nugaal",
+    "parent_id": "51537",
+    "long": 49
+  },
+  {
+    "id": "52187",
+    "label": "Gobolka Sanaag",
+    "value": "52187",
+    "lat": 10.5,
+    "lon": 48,
+    "poi_name": "Gobolka Sanaag",
+    "parent_id": "51537",
+    "long": 48
+  },
+  {
+    "id": "51967",
+    "label": "Gobolka Shabeellaha Dhexe",
+    "value": "51967",
+    "lat": 3,
+    "lon": 46,
+    "poi_name": "Gobolka Shabeellaha Dhexe",
+    "parent_id": "51537",
+    "long": 46
+  },
+  {
+    "id": "51966",
+    "label": "Gobolka Shabeellaha Hoose",
+    "value": "51966",
+    "lat": 1.83333,
+    "lon": 44.41667,
+    "poi_name": "Gobolka Shabeellaha Hoose",
+    "parent_id": "51537",
+    "long": 44.41667
+  },
+  {
+    "id": "6268947",
+    "label": "Gobolka Sool",
+    "value": "6268947",
+    "lat": 8.66667,
+    "lon": 47.5,
+    "poi_name": "Gobolka Sool",
+    "parent_id": "51537",
+    "long": 47.5
+  },
+  {
+    "id": "51230",
+    "label": "Gobolka Togdheer",
+    "value": "51230",
+    "lat": 9.33333,
+    "lon": 45.41667,
+    "poi_name": "Gobolka Togdheer",
+    "parent_id": "51537",
+    "long": 45.41667
+  },
+  {
+    "id": "50360",
+    "label": "Gobolka Woqooyi Galbeed",
+    "value": "50360",
+    "lat": 10,
+    "lon": 44.5,
+    "poi_name": "Gobolka Woqooyi Galbeed",
+    "parent_id": "51537",
+    "long": 44.5
+  }
+]

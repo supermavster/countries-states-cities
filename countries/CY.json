@@ -1,0 +1,62 @@
+[
+  {
+    "id": "146615",
+    "label": "Eparch\u00eda Ammoch\u00f3stou",
+    "value": "146615",
+    "lat": 35.33333,
+    "lon": 33.86667,
+    "poi_name": "Eparch\u00eda Ammoch\u00f3stou",
+    "parent_id": "146669",
+    "long": 33.86667
+  },
+  {
+    "id": "146411",
+    "label": "Eparch\u00eda Ker\u00fdneias",
+    "value": "146411",
+    "lat": 35.28333,
+    "lon": 33.25,
+    "poi_name": "Eparch\u00eda Ker\u00fdneias",
+    "parent_id": "146669",
+    "long": 33.25
+  },
+  {
+    "id": "146267",
+    "label": "Eparch\u00eda Lefkos\u00edas",
+    "value": "146267",
+    "lat": 35.06667,
+    "lon": 33.1,
+    "poi_name": "Eparch\u00eda Lefkos\u00edas",
+    "parent_id": "146669",
+    "long": 33.1
+  },
+  {
+    "id": "146383",
+    "label": "Eparch\u00eda Lemeso\u00fa",
+    "value": "146383",
+    "lat": 34.76667,
+    "lon": 32.93333,
+    "poi_name": "Eparch\u00eda Lemeso\u00fa",
+    "parent_id": "146669",
+    "long": 32.93333
+  },
+  {
+    "id": "146398",
+    "label": "Eparch\u00eda L\u00e1rnakas",
+    "value": "146398",
+    "lat": 34.91521,
+    "lon": 33.52615,
+    "poi_name": "Eparch\u00eda L\u00e1rnakas",
+    "parent_id": "146669",
+    "long": 33.52615
+  },
+  {
+    "id": "146213",
+    "label": "Eparch\u00eda P\u00e1fou",
+    "value": "146213",
+    "lat": 34.9,
+    "lon": 32.51667,
+    "poi_name": "Eparch\u00eda P\u00e1fou",
+    "parent_id": "146669",
+    "long": 32.51667
+  }
+]

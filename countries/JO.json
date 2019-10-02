@@ -1,0 +1,122 @@
+[
+  {
+    "id": "443120",
+    "label": "Ajloun",
+    "value": "443120",
+    "lat": 32.33333,
+    "lon": 35.75,
+    "poi_name": "Ajloun",
+    "parent_id": "248816",
+    "long": 35.75
+  },
+  {
+    "id": "250625",
+    "label": "Al Karak",
+    "value": "250625",
+    "lat": 31.16667,
+    "lon": 35.75,
+    "poi_name": "Al Karak",
+    "parent_id": "248816",
+    "long": 35.75
+  },
+  {
+    "id": "250583",
+    "label": "Al Mafraq",
+    "value": "250583",
+    "lat": 32.33333,
+    "lon": 37.91667,
+    "poi_name": "Al Mafraq",
+    "parent_id": "248816",
+    "long": 37.91667
+  },
+  {
+    "id": "250439",
+    "label": "Amman Governorate",
+    "value": "250439",
+    "lat": 31.58369,
+    "lon": 36.33335,
+    "poi_name": "Amman Governorate",
+    "parent_id": "248816",
+    "long": 36.33335
+  },
+  {
+    "id": "248944",
+    "label": "Irbid",
+    "value": "248944",
+    "lat": 32.5,
+    "lon": 35.83333,
+    "poi_name": "Irbid",
+    "parent_id": "248816",
+    "long": 35.83333
+  },
+  {
+    "id": "443121",
+    "label": "Jerash",
+    "value": "443121",
+    "lat": 32.25,
+    "lon": 35.91667,
+    "poi_name": "Jerash",
+    "parent_id": "248816",
+    "long": 35.91667
+  },
+  {
+    "id": "248380",
+    "label": "Mu\u1e29\u0101faz\u0327at Ma\u2018\u0101n",
+    "value": "248380",
+    "lat": 30.33333,
+    "lon": 36.58333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Ma\u2018\u0101n",
+    "parent_id": "248816",
+    "long": 36.58333
+  },
+  {
+    "id": "443123",
+    "label": "Mu\u1e29\u0101faz\u0327at M\u0101dab\u0101",
+    "value": "443123",
+    "lat": 31.58333,
+    "lon": 35.66667,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at M\u0101dab\u0101",
+    "parent_id": "248816",
+    "long": 35.66667
+  },
+  {
+    "id": "250751",
+    "label": "Mu\u1e29\u0101faz\u0327at al Balq\u0101\u2019",
+    "value": "250751",
+    "lat": 32,
+    "lon": 35.66667,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at al Balq\u0101\u2019",
+    "parent_id": "248816",
+    "long": 35.66667
+  },
+  {
+    "id": "443122",
+    "label": "Mu\u1e29\u0101faz\u0327at al \u2018Aqabah",
+    "value": "443122",
+    "lat": 29.75,
+    "lon": 35.33333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at al \u2018Aqabah",
+    "parent_id": "248816",
+    "long": 35.33333
+  },
+  {
+    "id": "250092",
+    "label": "Mu\u1e29\u0101faz\u0327at az Zarq\u0101\u2019",
+    "value": "250092",
+    "lat": 32.08374,
+    "lon": 36.07773,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at az Zarq\u0101\u2019",
+    "parent_id": "248816",
+    "long": 36.07773
+  },
+  {
+    "id": "250199",
+    "label": "Mu\u1e29\u0101faz\u0327at a\u0163 \u0162af\u012blah",
+    "value": "250199",
+    "lat": 30.75,
+    "lon": 35.58333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at a\u0163 \u0162af\u012blah",
+    "parent_id": "248816",
+    "long": 35.58333
+  }
+]

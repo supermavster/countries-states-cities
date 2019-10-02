@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7733156",
+    "label": "Northern Islands Municipality",
+    "value": "7733156",
+    "lat": 18.11,
+    "lon": 145.771,
+    "poi_name": "Northern Islands Municipality",
+    "parent_id": "4041468",
+    "long": 145.771
+  },
+  {
+    "id": "4041530",
+    "label": "Rota Municipality",
+    "value": "4041530",
+    "lat": 14.154,
+    "lon": 145.201,
+    "poi_name": "Rota Municipality",
+    "parent_id": "4041468",
+    "long": 145.201
+  },
+  {
+    "id": "4041552",
+    "label": "Saipan Municipality",
+    "value": "4041552",
+    "lat": 15.16847,
+    "lon": 145.74081,
+    "poi_name": "Saipan Municipality",
+    "parent_id": "4041468",
+    "long": 145.74081
+  },
+  {
+    "id": "4041650",
+    "label": "Tinian Municipality",
+    "value": "4041650",
+    "lat": 15.029,
+    "lon": 145.616,
+    "poi_name": "Tinian Municipality",
+    "parent_id": "4041468",
+    "long": 145.616
+  }
+]

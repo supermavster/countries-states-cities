@@ -1,0 +1,22 @@
+[
+  {
+    "id": "3041964",
+    "label": "Jan Mayen",
+    "value": "3041964",
+    "lat": 70.98333,
+    "lon": -8.5,
+    "poi_name": "Jan Mayen",
+    "parent_id": "0",
+    "long": -8.5
+  },
+  {
+    "id": "7521757",
+    "label": "Svalbard",
+    "value": "7521757",
+    "lat": 78.15706,
+    "lon": 15.86426,
+    "poi_name": "Svalbard",
+    "parent_id": "0",
+    "long": 15.86426
+  }
+]

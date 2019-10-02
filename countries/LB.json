@@ -1,0 +1,82 @@
+[
+  {
+    "id": "276780",
+    "label": "Beyrouth",
+    "value": "276780",
+    "lat": 33.88333,
+    "lon": 35.5,
+    "poi_name": "Beyrouth",
+    "parent_id": "272103",
+    "long": 35.5
+  },
+  {
+    "id": "6201370",
+    "label": "Mohafazat Aakk\u00e2r",
+    "value": "6201370",
+    "lat": 34.53333,
+    "lon": 36.16667,
+    "poi_name": "Mohafazat Aakk\u00e2r",
+    "parent_id": "272103",
+    "long": 36.16667
+  },
+  {
+    "id": "6201371",
+    "label": "Mohafazat Baalbek-Hermel",
+    "value": "6201371",
+    "lat": 34.20833,
+    "lon": 36.3,
+    "poi_name": "Mohafazat Baalbek-Hermel",
+    "parent_id": "272103",
+    "long": 36.3
+  },
+  {
+    "id": "280282",
+    "label": "Mohafazat B\u00e9qaa",
+    "value": "280282",
+    "lat": 33.66667,
+    "lon": 35.83333,
+    "poi_name": "Mohafazat B\u00e9qaa",
+    "parent_id": "272103",
+    "long": 35.83333
+  },
+  {
+    "id": "278297",
+    "label": "Mohafazat Liban-Nord",
+    "value": "278297",
+    "lat": 34.33333,
+    "lon": 35.91667,
+    "poi_name": "Mohafazat Liban-Nord",
+    "parent_id": "272103",
+    "long": 35.91667
+  },
+  {
+    "id": "279894",
+    "label": "Mohafazat Liban-Sud",
+    "value": "279894",
+    "lat": 33.41667,
+    "lon": 35.33333,
+    "poi_name": "Mohafazat Liban-Sud",
+    "parent_id": "272103",
+    "long": 35.33333
+  },
+  {
+    "id": "273607",
+    "label": "Mohafazat Mont-Liban",
+    "value": "273607",
+    "lat": 33.91667,
+    "lon": 35.66667,
+    "poi_name": "Mohafazat Mont-Liban",
+    "parent_id": "272103",
+    "long": 35.66667
+  },
+  {
+    "id": "444191",
+    "label": "Mohafazat Nabat\u00eey\u00e9",
+    "value": "444191",
+    "lat": 33.25,
+    "lon": 35.5,
+    "poi_name": "Mohafazat Nabat\u00eey\u00e9",
+    "parent_id": "272103",
+    "long": 35.5
+  }
+]

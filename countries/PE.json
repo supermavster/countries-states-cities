@@ -1,0 +1,262 @@
+[
+  {
+    "id": "3699699",
+    "label": "Amazonas",
+    "value": "3699699",
+    "lat": -5,
+    "lon": -78.23333,
+    "poi_name": "Amazonas",
+    "parent_id": "3932488",
+    "long": -78.23333
+  },
+  {
+    "id": "3699674",
+    "label": "Ancash",
+    "value": "3699674",
+    "lat": -9.5,
+    "lon": -77.75,
+    "poi_name": "Ancash",
+    "parent_id": "3932488",
+    "long": -77.75
+  },
+  {
+    "id": "3947421",
+    "label": "Apurimac",
+    "value": "3947421",
+    "lat": -14,
+    "lon": -73,
+    "poi_name": "Apurimac",
+    "parent_id": "3932488",
+    "long": -73
+  },
+  {
+    "id": "3947319",
+    "label": "Arequipa",
+    "value": "3947319",
+    "lat": -16,
+    "lon": -72.25,
+    "poi_name": "Arequipa",
+    "parent_id": "3932488",
+    "long": -72.25
+  },
+  {
+    "id": "3947018",
+    "label": "Ayacucho",
+    "value": "3947018",
+    "lat": -14,
+    "lon": -74.25,
+    "poi_name": "Ayacucho",
+    "parent_id": "3932488",
+    "long": -74.25
+  },
+  {
+    "id": "3699087",
+    "label": "Cajamarca",
+    "value": "3699087",
+    "lat": -6.25,
+    "lon": -78.83333,
+    "poi_name": "Cajamarca",
+    "parent_id": "3932488",
+    "long": -78.83333
+  },
+  {
+    "id": "3946080",
+    "label": "Callao",
+    "value": "3946080",
+    "lat": -12.05139,
+    "lon": -77.125,
+    "poi_name": "Callao",
+    "parent_id": "3932488",
+    "long": -77.125
+  },
+  {
+    "id": "3941583",
+    "label": "Cusco",
+    "value": "3941583",
+    "lat": -13,
+    "lon": -72.25,
+    "poi_name": "Cusco",
+    "parent_id": "3932488",
+    "long": -72.25
+  },
+  {
+    "id": "3934607",
+    "label": "Departamento de Moquegua",
+    "value": "3934607",
+    "lat": -16.83662,
+    "lon": -70.91992,
+    "poi_name": "Departamento de Moquegua",
+    "parent_id": "3932488",
+    "long": -70.91992
+  },
+  {
+    "id": "3939467",
+    "label": "Huancavelica",
+    "value": "3939467",
+    "lat": -13,
+    "lon": -75,
+    "poi_name": "Huancavelica",
+    "parent_id": "3932488",
+    "long": -75
+  },
+  {
+    "id": "3938526",
+    "label": "Ica",
+    "value": "3938526",
+    "lat": -14.3325,
+    "lon": -75.49972,
+    "poi_name": "Ica",
+    "parent_id": "3932488",
+    "long": -75.49972
+  },
+  {
+    "id": "3937485",
+    "label": "Jun\u00edn",
+    "value": "3937485",
+    "lat": -11.5,
+    "lon": -75,
+    "poi_name": "Jun\u00edn",
+    "parent_id": "3932488",
+    "long": -75
+  },
+  {
+    "id": "3695781",
+    "label": "La Libertad",
+    "value": "3695781",
+    "lat": -8,
+    "lon": -78.5,
+    "poi_name": "La Libertad",
+    "parent_id": "3932488",
+    "long": -78.5
+  },
+  {
+    "id": "3695753",
+    "label": "Lambayeque",
+    "value": "3695753",
+    "lat": -6.33333,
+    "lon": -80,
+    "poi_name": "Lambayeque",
+    "parent_id": "3932488",
+    "long": -80
+  },
+  {
+    "id": "3936452",
+    "label": "Lima",
+    "value": "3936452",
+    "lat": -11.85,
+    "lon": -76.45,
+    "poi_name": "Lima",
+    "parent_id": "3932488",
+    "long": -76.45
+  },
+  {
+    "id": "3695238",
+    "label": "Loreto",
+    "value": "3695238",
+    "lat": -4,
+    "lon": -74.5,
+    "poi_name": "Loreto",
+    "parent_id": "3932488",
+    "long": -74.5
+  },
+  {
+    "id": "3935619",
+    "label": "Madre de Dios",
+    "value": "3935619",
+    "lat": -12,
+    "lon": -70.25,
+    "poi_name": "Madre de Dios",
+    "parent_id": "3932488",
+    "long": -70.25
+  },
+  {
+    "id": "3932834",
+    "label": "Pasco",
+    "value": "3932834",
+    "lat": -10.5,
+    "lon": -75.25,
+    "poi_name": "Pasco",
+    "parent_id": "3932488",
+    "long": -75.25
+  },
+  {
+    "id": "3693525",
+    "label": "Piura",
+    "value": "3693525",
+    "lat": -5,
+    "lon": -80.33333,
+    "poi_name": "Piura",
+    "parent_id": "3932488",
+    "long": -80.33333
+  },
+  {
+    "id": "3936451",
+    "label": "Provincia de Lima",
+    "value": "3936451",
+    "lat": -12,
+    "lon": -76.83333,
+    "poi_name": "Provincia de Lima",
+    "parent_id": "3932488",
+    "long": -76.83333
+  },
+  {
+    "id": "3931275",
+    "label": "Puno",
+    "value": "3931275",
+    "lat": -15,
+    "lon": -70,
+    "poi_name": "Puno",
+    "parent_id": "3932488",
+    "long": -70
+  },
+  {
+    "id": "3696416",
+    "label": "Regi\u00f3n de Hu\u00e1nuco",
+    "value": "3696416",
+    "lat": -9.5,
+    "lon": -76,
+    "poi_name": "Regi\u00f3n de Hu\u00e1nuco",
+    "parent_id": "3932488",
+    "long": -76
+  },
+  {
+    "id": "3692385",
+    "label": "Regi\u00f3n de San Mart\u00edn",
+    "value": "3692385",
+    "lat": -7,
+    "lon": -76.83333,
+    "poi_name": "Regi\u00f3n de San Mart\u00edn",
+    "parent_id": "3932488",
+    "long": -76.83333
+  },
+  {
+    "id": "3928127",
+    "label": "Tacna",
+    "value": "3928127",
+    "lat": -17.66667,
+    "lon": -70.33333,
+    "poi_name": "Tacna",
+    "parent_id": "3932488",
+    "long": -70.33333
+  },
+  {
+    "id": "3691146",
+    "label": "Tumbes",
+    "value": "3691146",
+    "lat": -3.83333,
+    "lon": -80.5,
+    "poi_name": "Tumbes",
+    "parent_id": "3932488",
+    "long": -80.5
+  },
+  {
+    "id": "3691099",
+    "label": "Ucayali",
+    "value": "3691099",
+    "lat": -9.75,
+    "lon": -73.5,
+    "poi_name": "Ucayali",
+    "parent_id": "3932488",
+    "long": -73.5
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "id": "3055399",
+    "label": "Baranya county",
+    "value": "3055399",
+    "lat": 46.08333,
+    "lon": 18.25,
+    "poi_name": "Baranya county",
+    "parent_id": "719819",
+    "long": 18.25
+  },
+  {
+    "id": "722433",
+    "label": "Bekes County",
+    "value": "722433",
+    "lat": 46.75,
+    "lon": 21,
+    "poi_name": "Bekes County",
+    "parent_id": "719819",
+    "long": 21
+  },
+  {
+    "id": "722064",
+    "label": "Borsod-Abauj Zemplen county",
+    "value": "722064",
+    "lat": 48.25,
+    "lon": 21,
+    "poi_name": "Borsod-Abauj Zemplen county",
+    "parent_id": "719819",
+    "long": 21
+  },
+  {
+    "id": "3054638",
+    "label": "Budapest",
+    "value": "3054638",
+    "lat": 47.5,
+    "lon": 19.08333,
+    "poi_name": "Budapest",
+    "parent_id": "719819",
+    "long": 19.08333
+  },
+  {
+    "id": "3055744",
+    "label": "B\u00e1cs-Kiskun county",
+    "value": "3055744",
+    "lat": 46.5,
+    "lon": 19.41667,
+    "poi_name": "B\u00e1cs-Kiskun county",
+    "parent_id": "719819",
+    "long": 19.41667
+  },
+  {
+    "id": "721589",
+    "label": "Csongr\u00e1d megye",
+    "value": "721589",
+    "lat": 46.41667,
+    "lon": 20.25,
+    "poi_name": "Csongr\u00e1d megye",
+    "parent_id": "719819",
+    "long": 20.25
+  },
+  {
+    "id": "3053028",
+    "label": "Fej\u00e9r megye",
+    "value": "3053028",
+    "lat": 47.16667,
+    "lon": 18.58333,
+    "poi_name": "Fej\u00e9r megye",
+    "parent_id": "719819",
+    "long": 18.58333
+  },
+  {
+    "id": "3051977",
+    "label": "Gy\u0151r-Moson-Sopron megye",
+    "value": "3051977",
+    "lat": 47.66667,
+    "lon": 17.25,
+    "poi_name": "Gy\u0151r-Moson-Sopron megye",
+    "parent_id": "719819",
+    "long": 17.25
+  },
+  {
+    "id": "720293",
+    "label": "Hajd\u00fa-Bihar",
+    "value": "720293",
+    "lat": 47.41667,
+    "lon": 21.5,
+    "poi_name": "Hajd\u00fa-Bihar",
+    "parent_id": "719819",
+    "long": 21.5
+  },
+  {
+    "id": "720002",
+    "label": "Heves megye",
+    "value": "720002",
+    "lat": 47.83333,
+    "lon": 20.25,
+    "poi_name": "Heves megye",
+    "parent_id": "719819",
+    "long": 20.25
+  },
+  {
+    "id": "719637",
+    "label": "J\u00e1sz-Nagykun-Szolnok",
+    "value": "719637",
+    "lat": 47.25,
+    "lon": 20.5,
+    "poi_name": "J\u00e1sz-Nagykun-Szolnok",
+    "parent_id": "719819",
+    "long": 20.5
+  },
+  {
+    "id": "3049518",
+    "label": "Kom\u00e1rom-Esztergom",
+    "value": "3049518",
+    "lat": 47.58333,
+    "lon": 18.33333,
+    "poi_name": "Kom\u00e1rom-Esztergom",
+    "parent_id": "719819",
+    "long": 18.33333
+  },
+  {
+    "id": "3047348",
+    "label": "N\u00f3gr\u00e1d megye",
+    "value": "3047348",
+    "lat": 48,
+    "lon": 19.58333,
+    "poi_name": "N\u00f3gr\u00e1d megye",
+    "parent_id": "719819",
+    "long": 19.58333
+  },
+  {
+    "id": "3046431",
+    "label": "Pest megye",
+    "value": "3046431",
+    "lat": 47.41667,
+    "lon": 19.33333,
+    "poi_name": "Pest megye",
+    "parent_id": "719819",
+    "long": 19.33333
+  },
+  {
+    "id": "3045226",
+    "label": "Somogy megye",
+    "value": "3045226",
+    "lat": 46.41667,
+    "lon": 17.58333,
+    "poi_name": "Somogy megye",
+    "parent_id": "719819",
+    "long": 17.58333
+  },
+  {
+    "id": "715593",
+    "label": "Szabolcs-Szatm\u00e1r-Bereg",
+    "value": "715593",
+    "lat": 48,
+    "lon": 22.16667,
+    "poi_name": "Szabolcs-Szatm\u00e1r-Bereg",
+    "parent_id": "719819",
+    "long": 22.16667
+  },
+  {
+    "id": "3043845",
+    "label": "Tolna megye",
+    "value": "3043845",
+    "lat": 46.5,
+    "lon": 18.58333,
+    "poi_name": "Tolna megye",
+    "parent_id": "719819",
+    "long": 18.58333
+  },
+  {
+    "id": "3043047",
+    "label": "Vas megye",
+    "value": "3043047",
+    "lat": 47.16667,
+    "lon": 16.75,
+    "poi_name": "Vas megye",
+    "parent_id": "719819",
+    "long": 16.75
+  },
+  {
+    "id": "3042925",
+    "label": "Veszpr\u00e9m megye",
+    "value": "3042925",
+    "lat": 47.16667,
+    "lon": 17.66667,
+    "poi_name": "Veszpr\u00e9m megye",
+    "parent_id": "719819",
+    "long": 17.66667
+  },
+  {
+    "id": "3042613",
+    "label": "Zala megye",
+    "value": "3042613",
+    "lat": 46.66667,
+    "lon": 16.83333,
+    "poi_name": "Zala megye",
+    "parent_id": "719819",
+    "long": 16.83333
+  }
+]

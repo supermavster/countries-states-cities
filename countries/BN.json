@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1820869",
+    "label": "Belait District",
+    "value": "1820869",
+    "lat": 4.41667,
+    "lon": 114.58333,
+    "poi_name": "Belait District",
+    "parent_id": "1820814",
+    "long": 114.58333
+  },
+  {
+    "id": "1820818",
+    "label": "Brunei and Muara District",
+    "value": "1820818",
+    "lat": 4.83333,
+    "lon": 114.91667,
+    "poi_name": "Brunei and Muara District",
+    "parent_id": "1820814",
+    "long": 114.91667
+  },
+  {
+    "id": "1820106",
+    "label": "Temburong District",
+    "value": "1820106",
+    "lat": 4.58333,
+    "lon": 115.16667,
+    "poi_name": "Temburong District",
+    "parent_id": "1820814",
+    "long": 115.16667
+  },
+  {
+    "id": "1820068",
+    "label": "Tutong District",
+    "value": "1820068",
+    "lat": 4.58333,
+    "lon": 114.66667,
+    "poi_name": "Tutong District",
+    "parent_id": "1820814",
+    "long": 114.66667
+  }
+]

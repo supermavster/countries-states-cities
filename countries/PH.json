@@ -1,0 +1,172 @@
+[
+  {
+    "id": "7115989",
+    "label": "Autonomous Region in Muslim Mindanao",
+    "value": "7115989",
+    "lat": 7.53676,
+    "lon": 124.27734,
+    "poi_name": "Autonomous Region in Muslim Mindanao",
+    "parent_id": "1694008",
+    "long": 124.27734
+  },
+  {
+    "id": "7521310",
+    "label": "Bicol",
+    "value": "7521310",
+    "lat": 13.31389,
+    "lon": 123.56389,
+    "poi_name": "Bicol",
+    "parent_id": "1694008",
+    "long": 123.56389
+  },
+  {
+    "id": "7521297",
+    "label": "Cagayan Valley",
+    "value": "7521297",
+    "lat": 17.65667,
+    "lon": 121.73333,
+    "poi_name": "Cagayan Valley",
+    "parent_id": "1694008",
+    "long": 121.73333
+  },
+  {
+    "id": "7521303",
+    "label": "Calabarzon",
+    "value": "7521303",
+    "lat": 14.31,
+    "lon": 121.09,
+    "poi_name": "Calabarzon",
+    "parent_id": "1694008",
+    "long": 121.09
+  },
+  {
+    "id": "7521299",
+    "label": "Caraga",
+    "value": "7521299",
+    "lat": 9,
+    "lon": 125.74167,
+    "poi_name": "Caraga",
+    "parent_id": "1694008",
+    "long": 125.74167
+  },
+  {
+    "id": "7521305",
+    "label": "Central Luzon",
+    "value": "7521305",
+    "lat": 15.30714,
+    "lon": 120.79762,
+    "poi_name": "Central Luzon",
+    "parent_id": "1694008",
+    "long": 120.79762
+  },
+  {
+    "id": "7521306",
+    "label": "Central Visayas",
+    "value": "7521306",
+    "lat": 10.35815,
+    "lon": 123.87085,
+    "poi_name": "Central Visayas",
+    "parent_id": "1694008",
+    "long": 123.87085
+  },
+  {
+    "id": "7521300",
+    "label": "Cordillera Administrative Region",
+    "value": "7521300",
+    "lat": 17.0852,
+    "lon": 121.03322,
+    "poi_name": "Cordillera Administrative Region",
+    "parent_id": "1694008",
+    "long": 121.03322
+  },
+  {
+    "id": "7521309",
+    "label": "Davao",
+    "value": "7521309",
+    "lat": 7.54734,
+    "lon": 125.92499,
+    "poi_name": "Davao",
+    "parent_id": "1694008",
+    "long": 125.92499
+  },
+  {
+    "id": "7521307",
+    "label": "Eastern Visayas",
+    "value": "7521307",
+    "lat": 11.51649,
+    "lon": 124.96204,
+    "poi_name": "Eastern Visayas",
+    "parent_id": "1694008",
+    "long": 124.96204
+  },
+  {
+    "id": "7521301",
+    "label": "Ilocos",
+    "value": "7521301",
+    "lat": 16.97917,
+    "lon": 120.52083,
+    "poi_name": "Ilocos",
+    "parent_id": "1694008",
+    "long": 120.52083
+  },
+  {
+    "id": "7521296",
+    "label": "Mimaropa",
+    "value": "7521296",
+    "lat": 12.87014,
+    "lon": 121.13403,
+    "poi_name": "Mimaropa",
+    "parent_id": "1694008",
+    "long": 121.13403
+  },
+  {
+    "id": "7521311",
+    "label": "National Capital Region",
+    "value": "7521311",
+    "lat": 14.57775,
+    "lon": 121.04599,
+    "poi_name": "National Capital Region",
+    "parent_id": "1694008",
+    "long": 121.04599
+  },
+  {
+    "id": "7521295",
+    "label": "Northern Mindanao",
+    "value": "7521295",
+    "lat": 8.5262,
+    "lon": 125.22669,
+    "poi_name": "Northern Mindanao",
+    "parent_id": "1694008",
+    "long": 125.22669
+  },
+  {
+    "id": "7521298",
+    "label": "Soccsksargen",
+    "value": "7521298",
+    "lat": 6.47361,
+    "lon": 124.90356,
+    "poi_name": "Soccsksargen",
+    "parent_id": "1694008",
+    "long": 124.90356
+  },
+  {
+    "id": "7521304",
+    "label": "Western Visayas",
+    "value": "7521304",
+    "lat": 11.13,
+    "lon": 122.53,
+    "poi_name": "Western Visayas",
+    "parent_id": "1694008",
+    "long": 122.53
+  },
+  {
+    "id": "7521308",
+    "label": "Zamboanga Peninsula",
+    "value": "7521308",
+    "lat": 7.89603,
+    "lon": 123.13477,
+    "poi_name": "Zamboanga Peninsula",
+    "parent_id": "1694008",
+    "long": 123.13477
+  }
+]

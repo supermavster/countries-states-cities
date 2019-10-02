@@ -1,0 +1,62 @@
+[
+  {
+    "id": "3577892",
+    "label": "Grenadines",
+    "value": "3577892",
+    "lat": 12.83333,
+    "lon": -61.25,
+    "poi_name": "Grenadines",
+    "parent_id": "3577815",
+    "long": -61.25
+  },
+  {
+    "id": "3577934",
+    "label": "Parish of Charlotte",
+    "value": "3577934",
+    "lat": 13.25064,
+    "lon": -61.15196,
+    "poi_name": "Parish of Charlotte",
+    "parent_id": "3577815",
+    "long": -61.15196
+  },
+  {
+    "id": "3577822",
+    "label": "Parish of Saint Andrew",
+    "value": "3577822",
+    "lat": 13.20393,
+    "lon": -61.23015,
+    "poi_name": "Parish of Saint Andrew",
+    "parent_id": "3577815",
+    "long": -61.23015
+  },
+  {
+    "id": "3577821",
+    "label": "Parish of Saint David",
+    "value": "3577821",
+    "lat": 13.3,
+    "lon": -61.2,
+    "poi_name": "Parish of Saint David",
+    "parent_id": "3577815",
+    "long": -61.2
+  },
+  {
+    "id": "3577819",
+    "label": "Parish of Saint George",
+    "value": "3577819",
+    "lat": 13.16524,
+    "lon": -61.19282,
+    "poi_name": "Parish of Saint George",
+    "parent_id": "3577815",
+    "long": -61.19282
+  },
+  {
+    "id": "3577818",
+    "label": "Parish of Saint Patrick",
+    "value": "3577818",
+    "lat": 13.2399,
+    "lon": -61.23449,
+    "poi_name": "Parish of Saint Patrick",
+    "parent_id": "3577815",
+    "long": -61.23449
+  }
+]

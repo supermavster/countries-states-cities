@@ -1,0 +1,322 @@
+[
+  {
+    "id": "3496024",
+    "label": "Distrito Nacional",
+    "value": "3496024",
+    "lat": 18.48333,
+    "lon": -69.93333,
+    "poi_name": "Distrito Nacional",
+    "parent_id": "3508796",
+    "long": -69.93333
+  },
+  {
+    "id": "3508718",
+    "label": "Provincia Duarte",
+    "value": "3508718",
+    "lat": 19.25,
+    "lon": -70.08333,
+    "poi_name": "Provincia Duarte",
+    "parent_id": "3508796",
+    "long": -70.08333
+  },
+  {
+    "id": "3505867",
+    "label": "Provincia Espaillat",
+    "value": "3505867",
+    "lat": 19.58333,
+    "lon": -70.41667,
+    "poi_name": "Provincia Espaillat",
+    "parent_id": "3508796",
+    "long": -70.41667
+  },
+  {
+    "id": "3496772",
+    "label": "Provincia Mar\u00eda Trinidad S\u00e1nchez",
+    "value": "3496772",
+    "lat": 19.41667,
+    "lon": -70,
+    "poi_name": "Provincia Mar\u00eda Trinidad S\u00e1nchez",
+    "parent_id": "3508796",
+    "long": -70
+  },
+  {
+    "id": "3493192",
+    "label": "Provincia S\u00e1nchez Ram\u00edrez",
+    "value": "3493192",
+    "lat": 19,
+    "lon": -70.16667,
+    "poi_name": "Provincia S\u00e1nchez Ram\u00edrez",
+    "parent_id": "3508796",
+    "long": -70.16667
+  },
+  {
+    "id": "3512209",
+    "label": "Provincia de Azua",
+    "value": "3512209",
+    "lat": 18.58333,
+    "lon": -70.8,
+    "poi_name": "Provincia de Azua",
+    "parent_id": "3508796",
+    "long": -70.8
+  },
+  {
+    "id": "3512050",
+    "label": "Provincia de Baoruco",
+    "value": "3512050",
+    "lat": 18.5,
+    "lon": -71.35,
+    "poi_name": "Provincia de Baoruco",
+    "parent_id": "3508796",
+    "long": -71.35
+  },
+  {
+    "id": "3512042",
+    "label": "Provincia de Barahona",
+    "value": "3512042",
+    "lat": 18.16667,
+    "lon": -71.25,
+    "poi_name": "Provincia de Barahona",
+    "parent_id": "3508796",
+    "long": -71.25
+  },
+  {
+    "id": "3508951",
+    "label": "Provincia de Dajab\u00f3n",
+    "value": "3508951",
+    "lat": 19.43333,
+    "lon": -71.58333,
+    "poi_name": "Provincia de Dajab\u00f3n",
+    "parent_id": "3508796",
+    "long": -71.58333
+  },
+  {
+    "id": "3506189",
+    "label": "Provincia de El Seibo",
+    "value": "3506189",
+    "lat": 18.8,
+    "lon": -69.05,
+    "poi_name": "Provincia de El Seibo",
+    "parent_id": "3508796",
+    "long": -69.05
+  },
+  {
+    "id": "3507269",
+    "label": "Provincia de El\u00edas Pi\u00f1a",
+    "value": "3507269",
+    "lat": 19,
+    "lon": -71.63333,
+    "poi_name": "Provincia de El\u00edas Pi\u00f1a",
+    "parent_id": "3508796",
+    "long": -71.63333
+  },
+  {
+    "id": "3504766",
+    "label": "Provincia de Hato Mayor",
+    "value": "3504766",
+    "lat": 18.83333,
+    "lon": -69.33333,
+    "poi_name": "Provincia de Hato Mayor",
+    "parent_id": "3508796",
+    "long": -69.33333
+  },
+  {
+    "id": "3493282",
+    "label": "Provincia de Hermanas Mirabal",
+    "value": "3493282",
+    "lat": 19.41667,
+    "lon": -70.33333,
+    "poi_name": "Provincia de Hermanas Mirabal",
+    "parent_id": "3508796",
+    "long": -70.33333
+  },
+  {
+    "id": "3504326",
+    "label": "Provincia de Independencia",
+    "value": "3504326",
+    "lat": 18.4,
+    "lon": -71.63333,
+    "poi_name": "Provincia de Independencia",
+    "parent_id": "3508796",
+    "long": -71.63333
+  },
+  {
+    "id": "3503706",
+    "label": "Provincia de La Altagracia",
+    "value": "3503706",
+    "lat": 18.58333,
+    "lon": -68.63333,
+    "poi_name": "Provincia de La Altagracia",
+    "parent_id": "3508796",
+    "long": -68.63333
+  },
+  {
+    "id": "3500955",
+    "label": "Provincia de La Romana",
+    "value": "3500955",
+    "lat": 18.5,
+    "lon": -68.96667,
+    "poi_name": "Provincia de La Romana",
+    "parent_id": "3508796",
+    "long": -68.96667
+  },
+  {
+    "id": "3499977",
+    "label": "Provincia de La Vega",
+    "value": "3499977",
+    "lat": 19.05,
+    "lon": -70.65,
+    "poi_name": "Provincia de La Vega",
+    "parent_id": "3508796",
+    "long": -70.65
+  },
+  {
+    "id": "3496274",
+    "label": "Provincia de Monse\u00f1or Nouel",
+    "value": "3496274",
+    "lat": 18.91667,
+    "lon": -70.41667,
+    "poi_name": "Provincia de Monse\u00f1or Nouel",
+    "parent_id": "3508796",
+    "long": -70.41667
+  },
+  {
+    "id": "3496200",
+    "label": "Provincia de Monte Cristi",
+    "value": "3496200",
+    "lat": 19.71667,
+    "lon": -71.46667,
+    "poi_name": "Provincia de Monte Cristi",
+    "parent_id": "3508796",
+    "long": -71.46667
+  },
+  {
+    "id": "3496132",
+    "label": "Provincia de Monte Plata",
+    "value": "3496132",
+    "lat": 18.83333,
+    "lon": -69.83333,
+    "poi_name": "Provincia de Monte Plata",
+    "parent_id": "3508796",
+    "long": -69.83333
+  },
+  {
+    "id": "3495136",
+    "label": "Provincia de Pedernales",
+    "value": "3495136",
+    "lat": 18,
+    "lon": -71.56667,
+    "poi_name": "Provincia de Pedernales",
+    "parent_id": "3508796",
+    "long": -71.56667
+  },
+  {
+    "id": "3495015",
+    "label": "Provincia de Peravia",
+    "value": "3495015",
+    "lat": 18.33333,
+    "lon": -70.36667,
+    "poi_name": "Provincia de Peravia",
+    "parent_id": "3508796",
+    "long": -70.36667
+  },
+  {
+    "id": "3494267",
+    "label": "Provincia de Puerto Plata",
+    "value": "3494267",
+    "lat": 19.75,
+    "lon": -70.75,
+    "poi_name": "Provincia de Puerto Plata",
+    "parent_id": "3508796",
+    "long": -70.75
+  },
+  {
+    "id": "3493186",
+    "label": "Provincia de San Crist\u00f3bal",
+    "value": "3493186",
+    "lat": 18.55,
+    "lon": -70.2,
+    "poi_name": "Provincia de San Crist\u00f3bal",
+    "parent_id": "3508796",
+    "long": -70.2
+  },
+  {
+    "id": "6201372",
+    "label": "Provincia de San Jos\u00e9 de Ocoa",
+    "value": "6201372",
+    "lat": 18.54882,
+    "lon": -70.50877,
+    "poi_name": "Provincia de San Jos\u00e9 de Ocoa",
+    "parent_id": "3508796",
+    "long": -70.50877
+  },
+  {
+    "id": "3493091",
+    "label": "Provincia de San Juan",
+    "value": "3493091",
+    "lat": 18.83333,
+    "lon": -71.25,
+    "poi_name": "Provincia de San Juan",
+    "parent_id": "3508796",
+    "long": -71.25
+  },
+  {
+    "id": "3493031",
+    "label": "Provincia de San Pedro de Macor\u00eds",
+    "value": "3493031",
+    "lat": 18.5,
+    "lon": -69.33333,
+    "poi_name": "Provincia de San Pedro de Macor\u00eds",
+    "parent_id": "3508796",
+    "long": -69.33333
+  },
+  {
+    "id": "3492918",
+    "label": "Provincia de Santiago",
+    "value": "3492918",
+    "lat": 19.31667,
+    "lon": -70.88333,
+    "poi_name": "Provincia de Santiago",
+    "parent_id": "3508796",
+    "long": -70.88333
+  },
+  {
+    "id": "3492912",
+    "label": "Provincia de Santiago Rodr\u00edguez",
+    "value": "3492912",
+    "lat": 19.41667,
+    "lon": -71.33333,
+    "poi_name": "Provincia de Santiago Rodr\u00edguez",
+    "parent_id": "3508796",
+    "long": -71.33333
+  },
+  {
+    "id": "6201373",
+    "label": "Provincia de Santo Domingo",
+    "value": "6201373",
+    "lat": 18.56678,
+    "lon": -69.84874,
+    "poi_name": "Provincia de Santo Domingo",
+    "parent_id": "3508796",
+    "long": -69.84874
+  },
+  {
+    "id": "3492112",
+    "label": "Provincia de Valverde",
+    "value": "3492112",
+    "lat": 19.58333,
+    "lon": -71.05,
+    "poi_name": "Provincia de Valverde",
+    "parent_id": "3508796",
+    "long": -71.05
+  },
+  {
+    "id": "3493232",
+    "label": "Saman\u00e1 Province",
+    "value": "3493232",
+    "lat": 19.25,
+    "lon": -69.45,
+    "poi_name": "Saman\u00e1 Province",
+    "parent_id": "3508796",
+    "long": -69.45
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "id": "7535954",
+    "label": "Central Singapore Community Development Council",
+    "value": "7535954",
+    "lat": 1.29868,
+    "lon": 103.85367,
+    "poi_name": "Central Singapore Community Development Council",
+    "parent_id": "1880251",
+    "long": 103.85367
+  },
+  {
+    "id": "7535955",
+    "label": "North East Community Development Region",
+    "value": "7535955",
+    "lat": 1.31421,
+    "lon": 103.85822,
+    "poi_name": "North East Community Development Region",
+    "parent_id": "1880251",
+    "long": 103.85822
+  },
+  {
+    "id": "7535958",
+    "label": "North West Community Development Council",
+    "value": "7535958",
+    "lat": 1.29868,
+    "lon": 103.81986,
+    "poi_name": "North West Community Development Council",
+    "parent_id": "1880251",
+    "long": 103.81986
+  },
+  {
+    "id": "7535956",
+    "label": "South East Community Development Council",
+    "value": "7535956",
+    "lat": 1.30683,
+    "lon": 103.88698,
+    "poi_name": "South East Community Development Council",
+    "parent_id": "1880251",
+    "long": 103.88698
+  },
+  {
+    "id": "7535957",
+    "label": "South West Community Development Council",
+    "value": "7535957",
+    "lat": 1.31464,
+    "lon": 103.83007,
+    "poi_name": "South West Community Development Council",
+    "parent_id": "1880251",
+    "long": 103.83007
+  }
+]

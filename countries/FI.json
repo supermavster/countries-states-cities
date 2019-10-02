@@ -1,0 +1,182 @@
+[
+  {
+    "id": "830699",
+    "label": "Etel\u00e4-Karjala",
+    "value": "830699",
+    "lat": 60.96667,
+    "lon": 28.16667,
+    "poi_name": "Etel\u00e4-Karjala",
+    "parent_id": "660013",
+    "long": 28.16667
+  },
+  {
+    "id": "830682",
+    "label": "Etel\u00e4-Pohjanmaa",
+    "value": "830682",
+    "lat": 62.75,
+    "lon": 23,
+    "poi_name": "Etel\u00e4-Pohjanmaa",
+    "parent_id": "660013",
+    "long": 23
+  },
+  {
+    "id": "830664",
+    "label": "Kainuu",
+    "value": "830664",
+    "lat": 64.5,
+    "lon": 28.5,
+    "poi_name": "Kainuu",
+    "parent_id": "660013",
+    "long": 28.5
+  },
+  {
+    "id": "830705",
+    "label": "Kanta-H\u00e4me",
+    "value": "830705",
+    "lat": 60.91667,
+    "lon": 24.33333,
+    "poi_name": "Kanta-H\u00e4me",
+    "parent_id": "660013",
+    "long": 24.33333
+  },
+  {
+    "id": "830675",
+    "label": "Keski-Pohjanmaa",
+    "value": "830675",
+    "lat": 63.58333,
+    "lon": 24.08333,
+    "poi_name": "Keski-Pohjanmaa",
+    "parent_id": "660013",
+    "long": 24.08333
+  },
+  {
+    "id": "830685",
+    "label": "Keski-Suomi",
+    "value": "830685",
+    "lat": 62.5,
+    "lon": 25.5,
+    "poi_name": "Keski-Suomi",
+    "parent_id": "660013",
+    "long": 25.5
+  },
+  {
+    "id": "830703",
+    "label": "Kymenlaakso",
+    "value": "830703",
+    "lat": 60.83333,
+    "lon": 26.91667,
+    "poi_name": "Kymenlaakso",
+    "parent_id": "660013",
+    "long": 26.91667
+  },
+  {
+    "id": "830603",
+    "label": "Lapland",
+    "value": "830603",
+    "lat": 67.75,
+    "lon": 26.5,
+    "poi_name": "Lapland",
+    "parent_id": "660013",
+    "long": 26.5
+  },
+  {
+    "id": "830704",
+    "label": "Pirkanmaa",
+    "value": "830704",
+    "lat": 61.7,
+    "lon": 23.71667,
+    "poi_name": "Pirkanmaa",
+    "parent_id": "660013",
+    "long": 23.71667
+  },
+  {
+    "id": "830676",
+    "label": "Pohjanmaa",
+    "value": "830676",
+    "lat": 63.08333,
+    "lon": 22.16667,
+    "poi_name": "Pohjanmaa",
+    "parent_id": "660013",
+    "long": 22.16667
+  },
+  {
+    "id": "830686",
+    "label": "Pohjois-Karjala",
+    "value": "830686",
+    "lat": 62.83333,
+    "lon": 29.91667,
+    "poi_name": "Pohjois-Karjala",
+    "parent_id": "660013",
+    "long": 29.91667
+  },
+  {
+    "id": "830667",
+    "label": "Pohjois-Pohjanmaa",
+    "value": "830667",
+    "lat": 65,
+    "lon": 26.41667,
+    "poi_name": "Pohjois-Pohjanmaa",
+    "parent_id": "660013",
+    "long": 26.41667
+  },
+  {
+    "id": "830690",
+    "label": "Pohjois-Savo",
+    "value": "830690",
+    "lat": 63.16667,
+    "lon": 27.5,
+    "poi_name": "Pohjois-Savo",
+    "parent_id": "660013",
+    "long": 27.5
+  },
+  {
+    "id": "831040",
+    "label": "P\u00e4ij\u00e4nne-Tavastland",
+    "value": "831040",
+    "lat": 61.25,
+    "lon": 25.83333,
+    "poi_name": "P\u00e4ij\u00e4nne-Tavastland",
+    "parent_id": "660013",
+    "long": 25.83333
+  },
+  {
+    "id": "831041",
+    "label": "Satakunta",
+    "value": "831041",
+    "lat": 61.5,
+    "lon": 22.16667,
+    "poi_name": "Satakunta",
+    "parent_id": "660013",
+    "long": 22.16667
+  },
+  {
+    "id": "830695",
+    "label": "Southern Savonia",
+    "value": "830695",
+    "lat": 61.75,
+    "lon": 27.83333,
+    "poi_name": "Southern Savonia",
+    "parent_id": "660013",
+    "long": 27.83333
+  },
+  {
+    "id": "830709",
+    "label": "Uusimaa",
+    "value": "830709",
+    "lat": 60.41667,
+    "lon": 24.75,
+    "poi_name": "Uusimaa",
+    "parent_id": "660013",
+    "long": 24.75
+  },
+  {
+    "id": "830708",
+    "label": "Varsinais-Suomi",
+    "value": "830708",
+    "lat": 60.5,
+    "lon": 22.25,
+    "poi_name": "Varsinais-Suomi",
+    "parent_id": "660013",
+    "long": 22.25
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "3490952",
+    "label": "Clarendon",
+    "value": "3490952",
+    "lat": 17.98333,
+    "lon": -77.3,
+    "poi_name": "Clarendon",
+    "parent_id": "3489940",
+    "long": -77.3
+  },
+  {
+    "id": "3489853",
+    "label": "Kingston",
+    "value": "3489853",
+    "lat": 17.96667,
+    "lon": -76.8,
+    "poi_name": "Kingston",
+    "parent_id": "3489940",
+    "long": -76.8
+  },
+  {
+    "id": "3489586",
+    "label": "Manchester",
+    "value": "3489586",
+    "lat": 18.05,
+    "lon": -77.53333,
+    "poi_name": "Manchester",
+    "parent_id": "3489940",
+    "long": -77.53333
+  },
+  {
+    "id": "3490145",
+    "label": "Parish of Hanover",
+    "value": "3490145",
+    "lat": 18.41667,
+    "lon": -78.13333,
+    "poi_name": "Parish of Hanover",
+    "parent_id": "3489940",
+    "long": -78.13333
+  },
+  {
+    "id": "3488715",
+    "label": "Parish of Saint Ann",
+    "value": "3488715",
+    "lat": 18.35,
+    "lon": -77.26667,
+    "poi_name": "Parish of Saint Ann",
+    "parent_id": "3489940",
+    "long": -77.26667
+  },
+  {
+    "id": "3488997",
+    "label": "Portland",
+    "value": "3488997",
+    "lat": 18.13333,
+    "lon": -76.53333,
+    "poi_name": "Portland",
+    "parent_id": "3489940",
+    "long": -76.53333
+  },
+  {
+    "id": "3488716",
+    "label": "Saint Andrew",
+    "value": "3488716",
+    "lat": 18.06667,
+    "lon": -76.75,
+    "poi_name": "Saint Andrew",
+    "parent_id": "3489940",
+    "long": -76.75
+  },
+  {
+    "id": "3488711",
+    "label": "Saint Catherine",
+    "value": "3488711",
+    "lat": 18.06667,
+    "lon": -77.01667,
+    "poi_name": "Saint Catherine",
+    "parent_id": "3489940",
+    "long": -77.01667
+  },
+  {
+    "id": "3488708",
+    "label": "Saint Elizabeth",
+    "value": "3488708",
+    "lat": 18.05,
+    "lon": -77.78333,
+    "poi_name": "Saint Elizabeth",
+    "parent_id": "3489940",
+    "long": -77.78333
+  },
+  {
+    "id": "3488700",
+    "label": "Saint James",
+    "value": "3488700",
+    "lat": 18.38333,
+    "lon": -77.88333,
+    "poi_name": "Saint James",
+    "parent_id": "3489940",
+    "long": -77.88333
+  },
+  {
+    "id": "3488693",
+    "label": "Saint Mary",
+    "value": "3488693",
+    "lat": 18.31667,
+    "lon": -76.9,
+    "poi_name": "Saint Mary",
+    "parent_id": "3489940",
+    "long": -76.9
+  },
+  {
+    "id": "3488688",
+    "label": "Saint Thomas",
+    "value": "3488688",
+    "lat": 17.9,
+    "lon": -76.43333,
+    "poi_name": "Saint Thomas",
+    "parent_id": "3489940",
+    "long": -76.43333
+  },
+  {
+    "id": "3488222",
+    "label": "Trelawny",
+    "value": "3488222",
+    "lat": 18.38333,
+    "lon": -77.63333,
+    "poi_name": "Trelawny",
+    "parent_id": "3489940",
+    "long": -77.63333
+  },
+  {
+    "id": "3488081",
+    "label": "Westmoreland",
+    "value": "3488081",
+    "lat": 18.23333,
+    "lon": -78.15,
+    "poi_name": "Westmoreland",
+    "parent_id": "3489940",
+    "long": -78.15
+  }
+]

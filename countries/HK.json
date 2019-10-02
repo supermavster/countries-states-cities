@@ -1,0 +1,182 @@
+[
+  {
+    "id": "7533598",
+    "label": "Central and Western District",
+    "value": "7533598",
+    "lat": 22.28219,
+    "lon": 114.14486,
+    "poi_name": "Central and Western District",
+    "parent_id": "1819730",
+    "long": 114.14486
+  },
+  {
+    "id": "7533608",
+    "label": "Eastern",
+    "value": "7533608",
+    "lat": 22.27722,
+    "lon": 114.22519,
+    "poi_name": "Eastern",
+    "parent_id": "1819730",
+    "long": 114.22519
+  },
+  {
+    "id": "1819708",
+    "label": "Islands District",
+    "value": "1819708",
+    "lat": 22.26382,
+    "lon": 113.96038,
+    "poi_name": "Islands District",
+    "parent_id": "1819730",
+    "long": 113.96038
+  },
+  {
+    "id": "7533612",
+    "label": "Kowloon City",
+    "value": "7533612",
+    "lat": 22.32866,
+    "lon": 114.19121,
+    "poi_name": "Kowloon City",
+    "parent_id": "1819730",
+    "long": 114.19121
+  },
+  {
+    "id": "7533615",
+    "label": "Kwai Tsing",
+    "value": "7533615",
+    "lat": 22.35288,
+    "lon": 114.10004,
+    "poi_name": "Kwai Tsing",
+    "parent_id": "1819730",
+    "long": 114.10004
+  },
+  {
+    "id": "7533614",
+    "label": "Kwun Tong",
+    "value": "7533614",
+    "lat": 22.31326,
+    "lon": 114.22581,
+    "poi_name": "Kwun Tong",
+    "parent_id": "1819730",
+    "long": 114.22581
+  },
+  {
+    "id": "7533617",
+    "label": "North",
+    "value": "7533617",
+    "lat": 22.49471,
+    "lon": 114.13812,
+    "poi_name": "North",
+    "parent_id": "1819730",
+    "long": 114.13812
+  },
+  {
+    "id": "1819049",
+    "label": "Sai Kung District",
+    "value": "1819049",
+    "lat": 22.38198,
+    "lon": 114.27017,
+    "poi_name": "Sai Kung District",
+    "parent_id": "1819730",
+    "long": 114.27017
+  },
+  {
+    "id": "7533618",
+    "label": "Sha Tin",
+    "value": "7533618",
+    "lat": 22.38715,
+    "lon": 114.19534,
+    "poi_name": "Sha Tin",
+    "parent_id": "1819730",
+    "long": 114.19534
+  },
+  {
+    "id": "7533611",
+    "label": "Sham Shui Po",
+    "value": "7533611",
+    "lat": 22.32989,
+    "lon": 114.1625,
+    "poi_name": "Sham Shui Po",
+    "parent_id": "1819730",
+    "long": 114.1625
+  },
+  {
+    "id": "7533609",
+    "label": "Southern",
+    "value": "7533609",
+    "lat": 22.24112,
+    "lon": 114.20769,
+    "poi_name": "Southern",
+    "parent_id": "1819730",
+    "long": 114.20769
+  },
+  {
+    "id": "1818672",
+    "label": "Tai Po District",
+    "value": "1818672",
+    "lat": 22.43995,
+    "lon": 114.1654,
+    "poi_name": "Tai Po District",
+    "parent_id": "1819730",
+    "long": 114.1654
+  },
+  {
+    "id": "1818458",
+    "label": "Tsuen Wan District",
+    "value": "1818458",
+    "lat": 22.37908,
+    "lon": 114.10598,
+    "poi_name": "Tsuen Wan District",
+    "parent_id": "1819730",
+    "long": 114.10598
+  },
+  {
+    "id": "7533616",
+    "label": "Tuen Mun",
+    "value": "7533616",
+    "lat": 22.39161,
+    "lon": 113.96792,
+    "poi_name": "Tuen Mun",
+    "parent_id": "1819730",
+    "long": 113.96792
+  },
+  {
+    "id": "7533607",
+    "label": "Wan Chai",
+    "value": "7533607",
+    "lat": 22.27702,
+    "lon": 114.17232,
+    "poi_name": "Wan Chai",
+    "parent_id": "1819730",
+    "long": 114.17232
+  },
+  {
+    "id": "7533613",
+    "label": "Wong Tai Sin",
+    "value": "7533613",
+    "lat": 22.34299,
+    "lon": 114.19302,
+    "poi_name": "Wong Tai Sin",
+    "parent_id": "1819730",
+    "long": 114.19302
+  },
+  {
+    "id": "7533610",
+    "label": "Yau Tsim Mong",
+    "value": "7533610",
+    "lat": 22.32105,
+    "lon": 114.17261,
+    "poi_name": "Yau Tsim Mong",
+    "parent_id": "1819730",
+    "long": 114.17261
+  },
+  {
+    "id": "1818224",
+    "label": "Yuen Long District",
+    "value": "1818224",
+    "lat": 22.41667,
+    "lon": 114.05,
+    "poi_name": "Yuen Long District",
+    "parent_id": "1819730",
+    "long": 114.05
+  }
+]

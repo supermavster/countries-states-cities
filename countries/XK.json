@@ -1,0 +1,72 @@
+[
+  {
+    "id": "10096138",
+    "label": "Ferizaj District",
+    "value": "10096138",
+    "lat": 42.36931,
+    "lon": 21.14735,
+    "poi_name": "Ferizaj District",
+    "parent_id": "831053",
+    "long": 21.14735
+  },
+  {
+    "id": "10096859",
+    "label": "Gjakova District",
+    "value": "10096859",
+    "lat": 42.38775,
+    "lon": 20.4235,
+    "poi_name": "Gjakova District",
+    "parent_id": "831053",
+    "long": 20.4235
+  },
+  {
+    "id": "10097357",
+    "label": "Gjilan District",
+    "value": "10097357",
+    "lat": 42.46078,
+    "lon": 21.46716,
+    "poi_name": "Gjilan District",
+    "parent_id": "831053",
+    "long": 21.46716
+  },
+  {
+    "id": "10097358",
+    "label": "Mitrovica District",
+    "value": "10097358",
+    "lat": 42.89574,
+    "lon": 20.876,
+    "poi_name": "Mitrovica District",
+    "parent_id": "831053",
+    "long": 20.876
+  },
+  {
+    "id": "10097359",
+    "label": "Pec District",
+    "value": "10097359",
+    "lat": 42.6632,
+    "lon": 20.30072,
+    "poi_name": "Pec District",
+    "parent_id": "831053",
+    "long": 20.30072
+  },
+  {
+    "id": "10097360",
+    "label": "Pristina District",
+    "value": "10097360",
+    "lat": 42.66308,
+    "lon": 21.16486,
+    "poi_name": "Pristina District",
+    "parent_id": "831053",
+    "long": 21.16486
+  },
+  {
+    "id": "10097361",
+    "label": "Prizren District",
+    "value": "10097361",
+    "lat": 42.21566,
+    "lon": 20.74232,
+    "poi_name": "Prizren District",
+    "parent_id": "831053",
+    "long": 20.74232
+  }
+]

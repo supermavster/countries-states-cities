@@ -1,0 +1,92 @@
+[
+  {
+    "id": "3345303",
+    "label": "Castello di Acquaviva",
+    "value": "3345303",
+    "lat": 43.95,
+    "lon": 12.41667,
+    "poi_name": "Castello di Acquaviva",
+    "parent_id": "3168068",
+    "long": 12.41667
+  },
+  {
+    "id": "3345304",
+    "label": "Castello di Borgo Maggiore",
+    "value": "3345304",
+    "lat": 43.94092,
+    "lon": 12.44562,
+    "poi_name": "Castello di Borgo Maggiore",
+    "parent_id": "3168068",
+    "long": 12.44562
+  },
+  {
+    "id": "3345305",
+    "label": "Castello di Domagnano",
+    "value": "3345305",
+    "lat": 43.95417,
+    "lon": 12.48333,
+    "poi_name": "Castello di Domagnano",
+    "parent_id": "3168068",
+    "long": 12.48333
+  },
+  {
+    "id": "3345306",
+    "label": "Castello di Faetano",
+    "value": "3345306",
+    "lat": 43.9251,
+    "lon": 12.49849,
+    "poi_name": "Castello di Faetano",
+    "parent_id": "3168068",
+    "long": 12.49849
+  },
+  {
+    "id": "3345307",
+    "label": "Castello di Fiorentino",
+    "value": "3345307",
+    "lat": 43.91144,
+    "lon": 12.45652,
+    "poi_name": "Castello di Fiorentino",
+    "parent_id": "3168068",
+    "long": 12.45652
+  },
+  {
+    "id": "3345308",
+    "label": "Castello di Montegiardino",
+    "value": "3345308",
+    "lat": 43.91131,
+    "lon": 12.48442,
+    "poi_name": "Castello di Montegiardino",
+    "parent_id": "3168068",
+    "long": 12.48442
+  },
+  {
+    "id": "3345302",
+    "label": "Castello di San Marino Citt\u00e0",
+    "value": "3345302",
+    "lat": 43.93333,
+    "lon": 12.45,
+    "poi_name": "Castello di San Marino Citt\u00e0",
+    "parent_id": "3168068",
+    "long": 12.45
+  },
+  {
+    "id": "3178807",
+    "label": "Chiesanuova",
+    "value": "3178807",
+    "lat": 43.91667,
+    "lon": 12.41667,
+    "poi_name": "Chiesanuova",
+    "parent_id": "3168068",
+    "long": 12.41667
+  },
+  {
+    "id": "3166650",
+    "label": "Serravalle",
+    "value": "3166650",
+    "lat": 43.96667,
+    "lon": 12.46667,
+    "poi_name": "Serravalle",
+    "parent_id": "3168068",
+    "long": 12.46667
+  }
+]

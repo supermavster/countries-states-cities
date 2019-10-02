@@ -1,0 +1,222 @@
+[
+  {
+    "id": "79838",
+    "label": "Al Bayda Governorate",
+    "value": "79838",
+    "lat": 14.34166,
+    "lon": 45.39442,
+    "poi_name": "Al Bayda Governorate",
+    "parent_id": "69543",
+    "long": 45.39442
+  },
+  {
+    "id": "78985",
+    "label": "Al Mahrah",
+    "value": "78985",
+    "lat": 17,
+    "lon": 51.5,
+    "poi_name": "Al Mahrah",
+    "parent_id": "69543",
+    "long": 51.5
+  },
+  {
+    "id": "73200",
+    "label": "Al Ma\u1e29w\u012bt",
+    "value": "73200",
+    "lat": 15.39198,
+    "lon": 43.53616,
+    "poi_name": "Al Ma\u1e29w\u012bt",
+    "parent_id": "69543",
+    "long": 43.53616
+  },
+  {
+    "id": "6940571",
+    "label": "Amanat Al Asimah",
+    "value": "6940571",
+    "lat": 15.45037,
+    "lon": 44.221,
+    "poi_name": "Amanat Al Asimah",
+    "parent_id": "69543",
+    "long": 44.221
+  },
+  {
+    "id": "6201196",
+    "label": "Ibb",
+    "value": "6201196",
+    "lat": 14,
+    "lon": 44.16667,
+    "poi_name": "Ibb",
+    "parent_id": "69543",
+    "long": 44.16667
+  },
+  {
+    "id": "80425",
+    "label": "Mu\u1e29\u0101faz\u0327at Abyan",
+    "value": "80425",
+    "lat": 13.6291,
+    "lon": 46.126,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Abyan",
+    "parent_id": "69543",
+    "long": 46.126
+  },
+  {
+    "id": "76183",
+    "label": "Mu\u1e29\u0101faz\u0327at Dham\u0101r",
+    "value": "76183",
+    "lat": 14.68296,
+    "lon": 44.27294,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Dham\u0101r",
+    "parent_id": "69543",
+    "long": 44.27294
+  },
+  {
+    "id": "6201197",
+    "label": "Mu\u1e29\u0101faz\u0327at La\u1e29ij",
+    "value": "6201197",
+    "lat": 13.16667,
+    "lon": 44.58333,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at La\u1e29ij",
+    "parent_id": "69543",
+    "long": 44.58333
+  },
+  {
+    "id": "72966",
+    "label": "Mu\u1e29\u0101faz\u0327at Ma\u2019rib",
+    "value": "72966",
+    "lat": 15.4591,
+    "lon": 45.32534,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Ma\u2019rib",
+    "parent_id": "69543",
+    "long": 45.32534
+  },
+  {
+    "id": "71532",
+    "label": "Mu\u1e29\u0101faz\u0327at Raymah",
+    "value": "71532",
+    "lat": 14.63333,
+    "lon": 43.66667,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Raymah",
+    "parent_id": "69543",
+    "long": 43.66667
+  },
+  {
+    "id": "70222",
+    "label": "Mu\u1e29\u0101faz\u0327at Ta\u2018izz",
+    "value": "70222",
+    "lat": 13.5,
+    "lon": 44,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at Ta\u2018izz",
+    "parent_id": "69543",
+    "long": 44
+  },
+  {
+    "id": "74222",
+    "label": "Mu\u1e29\u0101faz\u0327at al Jawf",
+    "value": "74222",
+    "lat": 16.5974,
+    "lon": 45.5243,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at al Jawf",
+    "parent_id": "69543",
+    "long": 45.5243
+  },
+  {
+    "id": "79416",
+    "label": "Mu\u1e29\u0101faz\u0327at al \u1e28udaydah",
+    "value": "79416",
+    "lat": 14.91732,
+    "lon": 43.19279,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at al \u1e28udaydah",
+    "parent_id": "69543",
+    "long": 43.19279
+  },
+  {
+    "id": "6201193",
+    "label": "Mu\u1e29\u0101faz\u0327at a\u1e11 \u1e10\u0101li\u2018",
+    "value": "6201193",
+    "lat": 13.8924,
+    "lon": 44.7625,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at a\u1e11 \u1e10\u0101li\u2018",
+    "parent_id": "69543",
+    "long": 44.7625
+  },
+  {
+    "id": "71333",
+    "label": "Mu\u1e29\u0101faz\u0327at \u015ea\u2018dah",
+    "value": "71333",
+    "lat": 17.0634,
+    "lon": 43.91488,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at \u015ea\u2018dah",
+    "parent_id": "69543",
+    "long": 43.91488
+  },
+  {
+    "id": "6201195",
+    "label": "Mu\u1e29\u0101faz\u0327at \u1e28ajjah",
+    "value": "6201195",
+    "lat": 16,
+    "lon": 43.25,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at \u1e28ajjah",
+    "parent_id": "69543",
+    "long": 43.25
+  },
+  {
+    "id": "75411",
+    "label": "Mu\u1e29\u0101faz\u0327at \u1e28a\u1e11ramawt",
+    "value": "75411",
+    "lat": 16,
+    "lon": 49,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at \u1e28a\u1e11ramawt",
+    "parent_id": "69543",
+    "long": 49
+  },
+  {
+    "id": "80412",
+    "label": "Mu\u1e29\u0101faz\u0327at \u2018Adan",
+    "value": "80412",
+    "lat": 12.83333,
+    "lon": 44.91667,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at \u2018Adan",
+    "parent_id": "69543",
+    "long": 44.91667
+  },
+  {
+    "id": "6201194",
+    "label": "Mu\u1e29\u0101faz\u0327at \u2018Amr\u0101n",
+    "value": "6201194",
+    "lat": 16.23022,
+    "lon": 43.90983,
+    "poi_name": "Mu\u1e29\u0101faz\u0327at \u2018Amr\u0101n",
+    "parent_id": "69543",
+    "long": 43.90983
+  },
+  {
+    "id": "71132",
+    "label": "Sanaa",
+    "value": "71132",
+    "lat": 15.26069,
+    "lon": 44.42489,
+    "poi_name": "Sanaa",
+    "parent_id": "69543",
+    "long": 44.42489
+  },
+  {
+    "id": "70935",
+    "label": "Shabwah",
+    "value": "70935",
+    "lat": 15,
+    "lon": 47,
+    "poi_name": "Shabwah",
+    "parent_id": "69543",
+    "long": 47
+  },
+  {
+    "id": "9645387",
+    "label": "Socotra",
+    "value": "9645387",
+    "lat": 12.50228,
+    "lon": 53.82065,
+    "poi_name": "Socotra",
+    "parent_id": "69543",
+    "long": 53.82065
+  }
+]

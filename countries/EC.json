@@ -1,0 +1,242 @@
+[
+  {
+    "id": "3660130",
+    "label": "Provincia de Bol\u00edvar",
+    "value": "3660130",
+    "lat": -1.58333,
+    "lon": -79.08333,
+    "poi_name": "Provincia de Bol\u00edvar",
+    "parent_id": "3658394",
+    "long": -79.08333
+  },
+  {
+    "id": "3658766",
+    "label": "Provincia de Cotopaxi",
+    "value": "3658766",
+    "lat": -0.83333,
+    "lon": -78.83333,
+    "poi_name": "Provincia de Cotopaxi",
+    "parent_id": "3658394",
+    "long": -78.83333
+  },
+  {
+    "id": "3658195",
+    "label": "Provincia de El Oro",
+    "value": "3658195",
+    "lat": -3.5,
+    "lon": -79.83333,
+    "poi_name": "Provincia de El Oro",
+    "parent_id": "3658394",
+    "long": -79.83333
+  },
+  {
+    "id": "3657986",
+    "label": "Provincia de Esmeraldas",
+    "value": "3657986",
+    "lat": 0.83333,
+    "lon": -79.25,
+    "poi_name": "Provincia de Esmeraldas",
+    "parent_id": "3658394",
+    "long": -79.25
+  },
+  {
+    "id": "3830306",
+    "label": "Provincia de Francisco de Orellana",
+    "value": "3830306",
+    "lat": -0.75,
+    "lon": -76.41667,
+    "poi_name": "Provincia de Francisco de Orellana",
+    "parent_id": "3658394",
+    "long": -76.41667
+  },
+  {
+    "id": "3657879",
+    "label": "Provincia de Gal\u00e1pagos",
+    "value": "3657879",
+    "lat": -0.67015,
+    "lon": -90.87341,
+    "poi_name": "Provincia de Gal\u00e1pagos",
+    "parent_id": "3658394",
+    "long": -90.87341
+  },
+  {
+    "id": "3655635",
+    "label": "Provincia de Imbabura",
+    "value": "3655635",
+    "lat": 0.37631,
+    "lon": -78.32371,
+    "poi_name": "Provincia de Imbabura",
+    "parent_id": "3658394",
+    "long": -78.32371
+  },
+  {
+    "id": "3654665",
+    "label": "Provincia de Loja",
+    "value": "3654665",
+    "lat": -4.16667,
+    "lon": -79.5,
+    "poi_name": "Provincia de Loja",
+    "parent_id": "3658394",
+    "long": -79.5
+  },
+  {
+    "id": "3654592",
+    "label": "Provincia de Los R\u00edos",
+    "value": "3654592",
+    "lat": -1.41667,
+    "lon": -79.58333,
+    "poi_name": "Provincia de Los R\u00edos",
+    "parent_id": "3658394",
+    "long": -79.58333
+  },
+  {
+    "id": "3654451",
+    "label": "Provincia de Manab\u00ed",
+    "value": "3654451",
+    "lat": -0.66667,
+    "lon": -80.08333,
+    "poi_name": "Provincia de Manab\u00ed",
+    "parent_id": "3658394",
+    "long": -80.08333
+  },
+  {
+    "id": "3654005",
+    "label": "Provincia de Morona-Santiago",
+    "value": "3654005",
+    "lat": -2.5,
+    "lon": -77.91667,
+    "poi_name": "Provincia de Morona-Santiago",
+    "parent_id": "3658394",
+    "long": -77.91667
+  },
+  {
+    "id": "3653890",
+    "label": "Provincia de Napo",
+    "value": "3653890",
+    "lat": -0.62915,
+    "lon": -77.83164,
+    "poi_name": "Provincia de Napo",
+    "parent_id": "3658394",
+    "long": -77.83164
+  },
+  {
+    "id": "3653224",
+    "label": "Provincia de Pichincha",
+    "value": "3653224",
+    "lat": -0.08333,
+    "lon": -78.5,
+    "poi_name": "Provincia de Pichincha",
+    "parent_id": "3658394",
+    "long": -78.5
+  },
+  {
+    "id": "7062138",
+    "label": "Provincia de Santa Elena",
+    "value": "7062138",
+    "lat": -2.08333,
+    "lon": -80.58333,
+    "poi_name": "Provincia de Santa Elena",
+    "parent_id": "3658394",
+    "long": -80.58333
+  },
+  {
+    "id": "7062136",
+    "label": "Provincia de Santo Domingo de los Ts\u00e1chilas",
+    "value": "7062136",
+    "lat": -0.28945,
+    "lon": -79.18577,
+    "poi_name": "Provincia de Santo Domingo de los Ts\u00e1chilas",
+    "parent_id": "3658394",
+    "long": -79.18577
+  },
+  {
+    "id": "3830305",
+    "label": "Provincia de Sucumb\u00edos",
+    "value": "3830305",
+    "lat": 0.1,
+    "lon": -76.86667,
+    "poi_name": "Provincia de Sucumb\u00edos",
+    "parent_id": "3658394",
+    "long": -76.86667
+  },
+  {
+    "id": "3649953",
+    "label": "Provincia de Zamora-Chinchipe",
+    "value": "3649953",
+    "lat": -4.25,
+    "lon": -78.83333,
+    "poi_name": "Provincia de Zamora-Chinchipe",
+    "parent_id": "3658394",
+    "long": -78.83333
+  },
+  {
+    "id": "3660431",
+    "label": "Provincia del Azuay",
+    "value": "3660431",
+    "lat": -3.08333,
+    "lon": -79.33333,
+    "poi_name": "Provincia del Azuay",
+    "parent_id": "3658394",
+    "long": -79.33333
+  },
+  {
+    "id": "3659718",
+    "label": "Provincia del Carchi",
+    "value": "3659718",
+    "lat": 0.75,
+    "lon": -78.08333,
+    "poi_name": "Provincia del Carchi",
+    "parent_id": "3658394",
+    "long": -78.08333
+  },
+  {
+    "id": "3659849",
+    "label": "Provincia del Ca\u00f1ar",
+    "value": "3659849",
+    "lat": -2.5,
+    "lon": -79,
+    "poi_name": "Provincia del Ca\u00f1ar",
+    "parent_id": "3658394",
+    "long": -79
+  },
+  {
+    "id": "3659237",
+    "label": "Provincia del Chimborazo",
+    "value": "3659237",
+    "lat": -1.91667,
+    "lon": -78.75,
+    "poi_name": "Provincia del Chimborazo",
+    "parent_id": "3658394",
+    "long": -78.75
+  },
+  {
+    "id": "3657505",
+    "label": "Provincia del Guayas",
+    "value": "3657505",
+    "lat": -2,
+    "lon": -79.83333,
+    "poi_name": "Provincia del Guayas",
+    "parent_id": "3658394",
+    "long": -79.83333
+  },
+  {
+    "id": "3653392",
+    "label": "Provincia del Pastaza",
+    "value": "3653392",
+    "lat": -1.66667,
+    "lon": -76.83333,
+    "poi_name": "Provincia del Pastaza",
+    "parent_id": "3658394",
+    "long": -76.83333
+  },
+  {
+    "id": "3650445",
+    "label": "Provincia del Tungurahua",
+    "value": "3650445",
+    "lat": -1.25,
+    "lon": -78.5,
+    "poi_name": "Provincia del Tungurahua",
+    "parent_id": "3658394",
+    "long": -78.5
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "3237203",
+    "label": "Grouville",
+    "value": "3237203",
+    "lat": 49.18472,
+    "lon": -2.04917,
+    "poi_name": "Grouville",
+    "parent_id": "3042142",
+    "long": -2.04917
+  },
+  {
+    "id": "3237200",
+    "label": "Saint Brelade",
+    "value": "3237200",
+    "lat": 49.19056,
+    "lon": -2.20056,
+    "poi_name": "Saint Brelade",
+    "parent_id": "3042142",
+    "long": -2.20056
+  },
+  {
+    "id": "3237072",
+    "label": "Saint Clement",
+    "value": "3237072",
+    "lat": 49.16565,
+    "lon": -2.07659,
+    "poi_name": "Saint Clement",
+    "parent_id": "3042142",
+    "long": -2.07659
+  },
+  {
+    "id": "3237864",
+    "label": "Saint Helier",
+    "value": "3237864",
+    "lat": 49.18333,
+    "lon": -2.1,
+    "poi_name": "Saint Helier",
+    "parent_id": "3042142",
+    "long": -2.1
+  },
+  {
+    "id": "3237497",
+    "label": "Saint John",
+    "value": "3237497",
+    "lat": 49.24694,
+    "lon": -2.1375,
+    "poi_name": "Saint John",
+    "parent_id": "3042142",
+    "long": -2.1375
+  },
+  {
+    "id": "3237214",
+    "label": "Saint Lawrence",
+    "value": "3237214",
+    "lat": 49.21528,
+    "lon": -2.14,
+    "poi_name": "Saint Lawrence",
+    "parent_id": "3042142",
+    "long": -2.14
+  },
+  {
+    "id": "3237716",
+    "label": "Saint Martin",
+    "value": "3237716",
+    "lat": 49.21944,
+    "lon": -2.04972,
+    "poi_name": "Saint Martin",
+    "parent_id": "3042142",
+    "long": -2.04972
+  },
+  {
+    "id": "3237212",
+    "label": "Saint Mary",
+    "value": "3237212",
+    "lat": 49.23583,
+    "lon": -2.17222,
+    "poi_name": "Saint Mary",
+    "parent_id": "3042142",
+    "long": -2.17222
+  },
+  {
+    "id": "3237229",
+    "label": "Saint Ouen",
+    "value": "3237229",
+    "lat": 49.22667,
+    "lon": -2.20556,
+    "poi_name": "Saint Ouen",
+    "parent_id": "3042142",
+    "long": -2.20556
+  },
+  {
+    "id": "3237221",
+    "label": "Saint Peter",
+    "value": "3237221",
+    "lat": 49.21333,
+    "lon": -2.18194,
+    "poi_name": "Saint Peter",
+    "parent_id": "3042142",
+    "long": -2.18194
+  },
+  {
+    "id": "3237073",
+    "label": "Saint Saviour",
+    "value": "3237073",
+    "lat": 49.19517,
+    "lon": -2.09238,
+    "poi_name": "Saint Saviour",
+    "parent_id": "3042142",
+    "long": -2.09238
+  },
+  {
+    "id": "3237530",
+    "label": "Trinity",
+    "value": "3237530",
+    "lat": 49.23472,
+    "lon": -2.09,
+    "poi_name": "Trinity",
+    "parent_id": "3042142",
+    "long": -2.09
+  }
+]

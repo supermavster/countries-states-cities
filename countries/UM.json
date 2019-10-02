@@ -1,0 +1,92 @@
+[
+  {
+    "id": "5854907",
+    "label": "Baker Island",
+    "value": "5854907",
+    "lat": 0.19472,
+    "lon": -176.47944,
+    "poi_name": "Baker Island",
+    "parent_id": "5854968",
+    "long": -176.47944
+  },
+  {
+    "id": "5854922",
+    "label": "Howland Island",
+    "value": "5854922",
+    "lat": 0.81021,
+    "lon": -176.61733,
+    "poi_name": "Howland Island",
+    "parent_id": "5854968",
+    "long": -176.61733
+  },
+  {
+    "id": "5854926",
+    "label": "Jarvis Island",
+    "value": "5854926",
+    "lat": -0.37215,
+    "lon": -159.99702,
+    "poi_name": "Jarvis Island",
+    "parent_id": "5854968",
+    "long": -159.99702
+  },
+  {
+    "id": "5854929",
+    "label": "Johnston Atoll",
+    "value": "5854929",
+    "lat": 16.72,
+    "lon": -169.506,
+    "poi_name": "Johnston Atoll",
+    "parent_id": "5854968",
+    "long": -169.506
+  },
+  {
+    "id": "5854936",
+    "label": "Kingman Reef",
+    "value": "5854936",
+    "lat": 6.4,
+    "lon": -162.4,
+    "poi_name": "Kingman Reef",
+    "parent_id": "5854968",
+    "long": -162.4
+  },
+  {
+    "id": "5854943",
+    "label": "Midway Islands",
+    "value": "5854943",
+    "lat": 28.20935,
+    "lon": -177.37813,
+    "poi_name": "Midway Islands",
+    "parent_id": "5854968",
+    "long": -177.37813
+  },
+  {
+    "id": "4743755",
+    "label": "Navassa Island",
+    "value": "4743755",
+    "lat": 18.403,
+    "lon": -75.012,
+    "poi_name": "Navassa Island",
+    "parent_id": "5854968",
+    "long": -75.012
+  },
+  {
+    "id": "5854952",
+    "label": "Palmyra Atoll",
+    "value": "5854952",
+    "lat": 5.875,
+    "lon": -162.056,
+    "poi_name": "Palmyra Atoll",
+    "parent_id": "5854968",
+    "long": -162.056
+  },
+  {
+    "id": "4041685",
+    "label": "Wake Island",
+    "value": "4041685",
+    "lat": 19.30005,
+    "lon": 166.62269,
+    "poi_name": "Wake Island",
+    "parent_id": "5854968",
+    "long": 166.62269
+  }
+]

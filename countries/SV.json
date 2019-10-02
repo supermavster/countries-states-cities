@@ -1,0 +1,142 @@
+[
+  {
+    "id": "3587425",
+    "label": "Departamento de Ahuachap\u00e1n",
+    "value": "3587425",
+    "lat": 13.86667,
+    "lon": -89.91667,
+    "poi_name": "Departamento de Ahuachap\u00e1n",
+    "parent_id": "3585968",
+    "long": -89.91667
+  },
+  {
+    "id": "3587217",
+    "label": "Departamento de Caba\u00f1as",
+    "value": "3587217",
+    "lat": 13.86667,
+    "lon": -88.75,
+    "poi_name": "Departamento de Caba\u00f1as",
+    "parent_id": "3585968",
+    "long": -88.75
+  },
+  {
+    "id": "3587090",
+    "label": "Departamento de Chalatenango",
+    "value": "3587090",
+    "lat": 14.13333,
+    "lon": -89.01667,
+    "poi_name": "Departamento de Chalatenango",
+    "parent_id": "3585968",
+    "long": -89.01667
+  },
+  {
+    "id": "3586831",
+    "label": "Departamento de Cuscatl\u00e1n",
+    "value": "3586831",
+    "lat": 13.83333,
+    "lon": -89.03333,
+    "poi_name": "Departamento de Cuscatl\u00e1n",
+    "parent_id": "3585968",
+    "long": -89.03333
+  },
+  {
+    "id": "3585155",
+    "label": "Departamento de La Libertad",
+    "value": "3585155",
+    "lat": 13.75,
+    "lon": -89.38333,
+    "poi_name": "Departamento de La Libertad",
+    "parent_id": "3585968",
+    "long": -89.38333
+  },
+  {
+    "id": "3585087",
+    "label": "Departamento de La Paz",
+    "value": "3585087",
+    "lat": 13.46667,
+    "lon": -88.98333,
+    "poi_name": "Departamento de La Paz",
+    "parent_id": "3585968",
+    "long": -88.98333
+  },
+  {
+    "id": "3584767",
+    "label": "Departamento de La Uni\u00f3n",
+    "value": "3584767",
+    "lat": 13.55,
+    "lon": -87.9,
+    "poi_name": "Departamento de La Uni\u00f3n",
+    "parent_id": "3585968",
+    "long": -87.9
+  },
+  {
+    "id": "3584317",
+    "label": "Departamento de Moraz\u00e1n",
+    "value": "3584317",
+    "lat": 13.8,
+    "lon": -88.1,
+    "poi_name": "Departamento de Moraz\u00e1n",
+    "parent_id": "3585968",
+    "long": -88.1
+  },
+  {
+    "id": "3583462",
+    "label": "Departamento de San Miguel",
+    "value": "3583462",
+    "lat": 13.53333,
+    "lon": -88.28333,
+    "poi_name": "Departamento de San Miguel",
+    "parent_id": "3585968",
+    "long": -88.28333
+  },
+  {
+    "id": "3583360",
+    "label": "Departamento de San Salvador",
+    "value": "3583360",
+    "lat": 13.78333,
+    "lon": -89.18333,
+    "poi_name": "Departamento de San Salvador",
+    "parent_id": "3585968",
+    "long": -89.18333
+  },
+  {
+    "id": "3583176",
+    "label": "Departamento de San Vicente",
+    "value": "3583176",
+    "lat": 13.51667,
+    "lon": -88.75,
+    "poi_name": "Departamento de San Vicente",
+    "parent_id": "3585968",
+    "long": -88.75
+  },
+  {
+    "id": "3583332",
+    "label": "Departamento de Santa Ana",
+    "value": "3583332",
+    "lat": 14.1,
+    "lon": -89.58333,
+    "poi_name": "Departamento de Santa Ana",
+    "parent_id": "3585968",
+    "long": -89.58333
+  },
+  {
+    "id": "3583101",
+    "label": "Departamento de Sonsonate",
+    "value": "3583101",
+    "lat": 13.7,
+    "lon": -89.7,
+    "poi_name": "Departamento de Sonsonate",
+    "parent_id": "3585968",
+    "long": -89.7
+  },
+  {
+    "id": "3582882",
+    "label": "Departamento de Usulut\u00e1n",
+    "value": "3582882",
+    "lat": 13.43333,
+    "lon": -88.53333,
+    "poi_name": "Departamento de Usulut\u00e1n",
+    "parent_id": "3585968",
+    "long": -88.53333
+  }
+]

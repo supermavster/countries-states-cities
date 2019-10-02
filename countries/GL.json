@@ -1,0 +1,42 @@
+[
+  {
+    "id": "7602005",
+    "label": "Kujalleq",
+    "value": "7602005",
+    "lat": 60.71905,
+    "lon": -46.03683,
+    "poi_name": "Kujalleq",
+    "parent_id": "3425505",
+    "long": -46.03683
+  },
+  {
+    "id": "7602003",
+    "label": "Qaasuitsup",
+    "value": "7602003",
+    "lat": 69.21662,
+    "lon": -51.10351,
+    "poi_name": "Qaasuitsup",
+    "parent_id": "3425505",
+    "long": -51.10351
+  },
+  {
+    "id": "7602006",
+    "label": "Qeqqata",
+    "value": "7602006",
+    "lat": 66.93305,
+    "lon": -53.67517,
+    "poi_name": "Qeqqata",
+    "parent_id": "3425505",
+    "long": -53.67517
+  },
+  {
+    "id": "7602007",
+    "label": "Sermersooq",
+    "value": "7602007",
+    "lat": 64.18284,
+    "lon": -51.71831,
+    "poi_name": "Sermersooq",
+    "parent_id": "3425505",
+    "long": -51.71831
+  }
+]

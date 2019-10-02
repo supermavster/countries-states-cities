@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4031116",
+    "label": "Atafu",
+    "value": "4031116",
+    "lat": -8.558,
+    "lon": -172.497,
+    "poi_name": "Atafu",
+    "parent_id": "4031074",
+    "long": -172.497
+  },
+  {
+    "id": "4031112",
+    "label": "Fakaofo",
+    "value": "4031112",
+    "lat": -9.376,
+    "lon": -171.233,
+    "poi_name": "Fakaofo",
+    "parent_id": "4031074",
+    "long": -171.233
+  },
+  {
+    "id": "4031091",
+    "label": "Nukunonu",
+    "value": "4031091",
+    "lat": -9.169,
+    "lon": -171.83,
+    "poi_name": "Nukunonu",
+    "parent_id": "4031074",
+    "long": -171.83
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "225282",
+    "label": "Ali Sabieh Region",
+    "value": "225282",
+    "lat": 11.2,
+    "lon": 42.94,
+    "poi_name": "Ali Sabieh Region",
+    "parent_id": "223816",
+    "long": 42.94
+  },
+  {
+    "id": "449265",
+    "label": "Arta Region",
+    "value": "449265",
+    "lat": 11.5,
+    "lon": 42.75,
+    "poi_name": "Arta Region",
+    "parent_id": "223816",
+    "long": 42.75
+  },
+  {
+    "id": "223889",
+    "label": "Dikhil",
+    "value": "223889",
+    "lat": 11.5,
+    "lon": 42.16667,
+    "poi_name": "Dikhil",
+    "parent_id": "223816",
+    "long": 42.16667
+  },
+  {
+    "id": "223818",
+    "label": "Djibouti Region",
+    "value": "223818",
+    "lat": 11.56,
+    "lon": 43.06,
+    "poi_name": "Djibouti Region",
+    "parent_id": "223816",
+    "long": 43.06
+  },
+  {
+    "id": "221525",
+    "label": "Obock",
+    "value": "221525",
+    "lat": 12.25007,
+    "lon": 43.08369,
+    "poi_name": "Obock",
+    "parent_id": "223816",
+    "long": 43.08369
+  },
+  {
+    "id": "220781",
+    "label": "Tadjourah",
+    "value": "220781",
+    "lat": 12,
+    "lon": 42.5,
+    "poi_name": "Tadjourah",
+    "parent_id": "223816",
+    "long": 42.5
+  }
+]

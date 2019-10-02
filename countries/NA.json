@@ -1,0 +1,142 @@
+[
+  {
+    "id": "3371199",
+    "label": "Erongo",
+    "value": "3371199",
+    "lat": -22.08333,
+    "lon": 15.33333,
+    "poi_name": "Erongo",
+    "parent_id": "3355338",
+    "long": 15.33333
+  },
+  {
+    "id": "3371200",
+    "label": "Hardap",
+    "value": "3371200",
+    "lat": -24.5,
+    "lon": 17.25,
+    "poi_name": "Hardap",
+    "parent_id": "3355338",
+    "long": 17.25
+  },
+  {
+    "id": "3371201",
+    "label": "Karas",
+    "value": "3371201",
+    "lat": -27,
+    "lon": 17.5,
+    "poi_name": "Karas",
+    "parent_id": "3355338",
+    "long": 17.5
+  },
+  {
+    "id": "8693188",
+    "label": "Kavango East Region",
+    "value": "8693188",
+    "lat": -18.33333,
+    "lon": 20.58333,
+    "poi_name": "Kavango East Region",
+    "parent_id": "3355338",
+    "long": 20.58333
+  },
+  {
+    "id": "8693189",
+    "label": "Kavango West Region",
+    "value": "8693189",
+    "lat": -18.25,
+    "lon": 18.91667,
+    "poi_name": "Kavango West Region",
+    "parent_id": "3355338",
+    "long": 18.91667
+  },
+  {
+    "id": "3352137",
+    "label": "Khomas",
+    "value": "3352137",
+    "lat": -22.75,
+    "lon": 17.08333,
+    "poi_name": "Khomas",
+    "parent_id": "3355338",
+    "long": 17.08333
+  },
+  {
+    "id": "3371202",
+    "label": "Kunene",
+    "value": "3371202",
+    "lat": -19.41667,
+    "lon": 13.75,
+    "poi_name": "Kunene",
+    "parent_id": "3355338",
+    "long": 13.75
+  },
+  {
+    "id": "3371203",
+    "label": "Ohangwena",
+    "value": "3371203",
+    "lat": -17.58333,
+    "lon": 16.75,
+    "poi_name": "Ohangwena",
+    "parent_id": "3355338",
+    "long": 16.75
+  },
+  {
+    "id": "3371205",
+    "label": "Omaheke",
+    "value": "3371205",
+    "lat": -21.75,
+    "lon": 19.41667,
+    "poi_name": "Omaheke",
+    "parent_id": "3355338",
+    "long": 19.41667
+  },
+  {
+    "id": "3371206",
+    "label": "Omusati",
+    "value": "3371206",
+    "lat": -18.33333,
+    "lon": 14.83333,
+    "poi_name": "Omusati",
+    "parent_id": "3355338",
+    "long": 14.83333
+  },
+  {
+    "id": "3371207",
+    "label": "Oshana",
+    "value": "3371207",
+    "lat": -18.5,
+    "lon": 15.75,
+    "poi_name": "Oshana",
+    "parent_id": "3355338",
+    "long": 15.75
+  },
+  {
+    "id": "3371208",
+    "label": "Oshikoto",
+    "value": "3371208",
+    "lat": -18.5,
+    "lon": 17.08333,
+    "poi_name": "Oshikoto",
+    "parent_id": "3355338",
+    "long": 17.08333
+  },
+  {
+    "id": "3371209",
+    "label": "Otjozondjupa",
+    "value": "3371209",
+    "lat": -20.33333,
+    "lon": 18,
+    "poi_name": "Otjozondjupa",
+    "parent_id": "3355338",
+    "long": 18
+  },
+  {
+    "id": "1090052",
+    "label": "Zambezi Region",
+    "value": "1090052",
+    "lat": -17.83333,
+    "lon": 23.75,
+    "poi_name": "Zambezi Region",
+    "parent_id": "3355338",
+    "long": 23.75
+  }
+]

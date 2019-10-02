@@ -1,0 +1,162 @@
+[
+  {
+    "id": "7668824",
+    "label": "Artemisa",
+    "value": "7668824",
+    "lat": 22.814,
+    "lon": -82.75606,
+    "poi_name": "Artemisa",
+    "parent_id": "3562981",
+    "long": -82.75606
+  },
+  {
+    "id": "3564073",
+    "label": "La Habana",
+    "value": "3564073",
+    "lat": 23.08333,
+    "lon": -82.3,
+    "poi_name": "La Habana",
+    "parent_id": "3562981",
+    "long": -82.3
+  },
+  {
+    "id": "3550595",
+    "label": "Las Tunas",
+    "value": "3550595",
+    "lat": 21.1,
+    "lon": -76.9,
+    "poi_name": "Las Tunas",
+    "parent_id": "3562981",
+    "long": -76.9
+  },
+  {
+    "id": "3556608",
+    "label": "Municipio Especial Isla de la Juventud",
+    "value": "3556608",
+    "lat": 21.7,
+    "lon": -82.81667,
+    "poi_name": "Municipio Especial Isla de la Juventud",
+    "parent_id": "3562981",
+    "long": -82.81667
+  },
+  {
+    "id": "3558052",
+    "label": "Provincia Granma",
+    "value": "3558052",
+    "lat": 20.28333,
+    "lon": -76.86667,
+    "poi_name": "Provincia Granma",
+    "parent_id": "3562981",
+    "long": -76.86667
+  },
+  {
+    "id": "7668827",
+    "label": "Provincia Mayabeque",
+    "value": "7668827",
+    "lat": 22.96155,
+    "lon": -82.14718,
+    "poi_name": "Provincia Mayabeque",
+    "parent_id": "3562981",
+    "long": -82.14718
+  },
+  {
+    "id": "3566062",
+    "label": "Provincia de Camag\u00fcey",
+    "value": "3566062",
+    "lat": 21.35,
+    "lon": -77.85,
+    "poi_name": "Provincia de Camag\u00fcey",
+    "parent_id": "3562981",
+    "long": -77.85
+  },
+  {
+    "id": "3564175",
+    "label": "Provincia de Ciego de \u00c1vila",
+    "value": "3564175",
+    "lat": 21.96667,
+    "lon": -78.63333,
+    "poi_name": "Provincia de Ciego de \u00c1vila",
+    "parent_id": "3562981",
+    "long": -78.63333
+  },
+  {
+    "id": "3564120",
+    "label": "Provincia de Cienfuegos",
+    "value": "3564120",
+    "lat": 22.26667,
+    "lon": -80.45,
+    "poi_name": "Provincia de Cienfuegos",
+    "parent_id": "3562981",
+    "long": -80.45
+  },
+  {
+    "id": "3557685",
+    "label": "Provincia de Guant\u00e1namo",
+    "value": "3557685",
+    "lat": 20.21667,
+    "lon": -74.86667,
+    "poi_name": "Provincia de Guant\u00e1namo",
+    "parent_id": "3562981",
+    "long": -74.86667
+  },
+  {
+    "id": "3556965",
+    "label": "Provincia de Holgu\u00edn",
+    "value": "3556965",
+    "lat": 20.75,
+    "lon": -75.91667,
+    "poi_name": "Provincia de Holgu\u00edn",
+    "parent_id": "3562981",
+    "long": -75.91667
+  },
+  {
+    "id": "3547394",
+    "label": "Provincia de Matanzas",
+    "value": "3547394",
+    "lat": 22.66667,
+    "lon": -81.16667,
+    "poi_name": "Provincia de Matanzas",
+    "parent_id": "3562981",
+    "long": -81.16667
+  },
+  {
+    "id": "3544088",
+    "label": "Provincia de Pinar del R\u00edo",
+    "value": "3544088",
+    "lat": 22.41667,
+    "lon": -83.83333,
+    "poi_name": "Provincia de Pinar del R\u00edo",
+    "parent_id": "3562981",
+    "long": -83.83333
+  },
+  {
+    "id": "3540665",
+    "label": "Provincia de Sancti Sp\u00edritus",
+    "value": "3540665",
+    "lat": 21.91667,
+    "lon": -79.41667,
+    "poi_name": "Provincia de Sancti Sp\u00edritus",
+    "parent_id": "3562981",
+    "long": -79.41667
+  },
+  {
+    "id": "3536725",
+    "label": "Provincia de Santiago de Cuba",
+    "value": "3536725",
+    "lat": 20.2,
+    "lon": -75.93333,
+    "poi_name": "Provincia de Santiago de Cuba",
+    "parent_id": "3562981",
+    "long": -75.93333
+  },
+  {
+    "id": "3534168",
+    "label": "Provincia de Villa Clara",
+    "value": "3534168",
+    "lat": 22.56667,
+    "lon": -80,
+    "poi_name": "Provincia de Villa Clara",
+    "parent_id": "3562981",
+    "long": -80
+  }
+]

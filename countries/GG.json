@@ -1,0 +1,112 @@
+[
+  {
+    "id": "8989934",
+    "label": "Alderney",
+    "value": "8989934",
+    "lat": 49.71677,
+    "lon": -2.19851,
+    "poi_name": "Alderney",
+    "parent_id": "3042362",
+    "long": -2.19851
+  },
+  {
+    "id": "6417229",
+    "label": "Castel",
+    "value": "6417229",
+    "lat": 49.465,
+    "lon": -2.59361,
+    "poi_name": "Castel",
+    "parent_id": "3042362",
+    "long": -2.59361
+  },
+  {
+    "id": "6417223",
+    "label": "Forest",
+    "value": "6417223",
+    "lat": 49.42583,
+    "lon": -2.59194,
+    "poi_name": "Forest",
+    "parent_id": "3042362",
+    "long": -2.59194
+  },
+  {
+    "id": "6417226",
+    "label": "Saint Andrew",
+    "value": "6417226",
+    "lat": 49.44778,
+    "lon": -2.57361,
+    "poi_name": "Saint Andrew",
+    "parent_id": "3042362",
+    "long": -2.57361
+  },
+  {
+    "id": "6417224",
+    "label": "Saint Martin",
+    "value": "6417224",
+    "lat": 49.43333,
+    "lon": -2.55722,
+    "poi_name": "Saint Martin",
+    "parent_id": "3042362",
+    "long": -2.55722
+  },
+  {
+    "id": "6417228",
+    "label": "Saint Peter Port",
+    "value": "6417228",
+    "lat": 49.46,
+    "lon": -2.55194,
+    "poi_name": "Saint Peter Port",
+    "parent_id": "3042362",
+    "long": -2.55194
+  },
+  {
+    "id": "6417213",
+    "label": "Saint Pierre du Bois",
+    "value": "6417213",
+    "lat": 49.44556,
+    "lon": -2.64361,
+    "poi_name": "Saint Pierre du Bois",
+    "parent_id": "3042362",
+    "long": -2.64361
+  },
+  {
+    "id": "6417233",
+    "label": "Saint Sampson",
+    "value": "6417233",
+    "lat": 49.48194,
+    "lon": -2.53722,
+    "poi_name": "Saint Sampson",
+    "parent_id": "3042362",
+    "long": -2.53722
+  },
+  {
+    "id": "6417215",
+    "label": "Saint Saviour",
+    "value": "6417215",
+    "lat": 49.44972,
+    "lon": -2.62389,
+    "poi_name": "Saint Saviour",
+    "parent_id": "3042362",
+    "long": -2.62389
+  },
+  {
+    "id": "6417214",
+    "label": "Torteval",
+    "value": "6417214",
+    "lat": 49.43,
+    "lon": -2.64889,
+    "poi_name": "Torteval",
+    "parent_id": "3042362",
+    "long": -2.64889
+  },
+  {
+    "id": "6417230",
+    "label": "Vale",
+    "value": "6417230",
+    "lat": 49.49361,
+    "lon": -2.52833,
+    "poi_name": "Vale",
+    "parent_id": "3042362",
+    "long": -2.52833
+  }
+]

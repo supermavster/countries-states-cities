@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1899273",
+    "label": "Banteay Meanchey",
+    "value": "1899273",
+    "lat": 13.75,
+    "lon": 103,
+    "poi_name": "Banteay Meanchey",
+    "parent_id": "1831722",
+    "long": 103
+  },
+  {
+    "id": "1821310",
+    "label": "Battambang",
+    "value": "1821310",
+    "lat": 12.91667,
+    "lon": 103.08333,
+    "poi_name": "Battambang",
+    "parent_id": "1831722",
+    "long": 103.08333
+  },
+  {
+    "id": "1831172",
+    "label": "Kampong Cham",
+    "value": "1831172",
+    "lat": 12.05,
+    "lon": 105.25,
+    "poi_name": "Kampong Cham",
+    "parent_id": "1831722",
+    "long": 105.25
+  },
+  {
+    "id": "1831166",
+    "label": "Kampong Chhnang",
+    "value": "1831166",
+    "lat": 12.16667,
+    "lon": 104.55,
+    "poi_name": "Kampong Chhnang",
+    "parent_id": "1831722",
+    "long": 104.55
+  },
+  {
+    "id": "1831132",
+    "label": "Kampong Speu",
+    "value": "1831132",
+    "lat": 11.5,
+    "lon": 104.33333,
+    "poi_name": "Kampong Speu",
+    "parent_id": "1831722",
+    "long": 104.33333
+  },
+  {
+    "id": "1831124",
+    "label": "Kampong Thom",
+    "value": "1831124",
+    "lat": 12.83333,
+    "lon": 105,
+    "poi_name": "Kampong Thom",
+    "parent_id": "1831722",
+    "long": 105
+  },
+  {
+    "id": "1831111",
+    "label": "Kampot",
+    "value": "1831111",
+    "lat": 10.83333,
+    "lon": 104.33333,
+    "poi_name": "Kampot",
+    "parent_id": "1831722",
+    "long": 104.33333
+  },
+  {
+    "id": "1831095",
+    "label": "Kandal",
+    "value": "1831095",
+    "lat": 11.41667,
+    "lon": 105,
+    "poi_name": "Kandal",
+    "parent_id": "1831722",
+    "long": 105
+  },
+  {
+    "id": "1830937",
+    "label": "Kep",
+    "value": "1830937",
+    "lat": 10.5125,
+    "lon": 104.31667,
+    "poi_name": "Kep",
+    "parent_id": "1831722",
+    "long": 104.31667
+  },
+  {
+    "id": "1831037",
+    "label": "Koh Kong",
+    "value": "1831037",
+    "lat": 11.5,
+    "lon": 103.5,
+    "poi_name": "Koh Kong",
+    "parent_id": "1831722",
+    "long": 103.5
+  },
+  {
+    "id": "1830563",
+    "label": "Kratie",
+    "value": "1830563",
+    "lat": 12.66667,
+    "lon": 106.08333,
+    "poi_name": "Kratie",
+    "parent_id": "1831722",
+    "long": 106.08333
+  },
+  {
+    "id": "1830306",
+    "label": "Mondolkiri",
+    "value": "1830306",
+    "lat": 12.75,
+    "lon": 107,
+    "poi_name": "Mondolkiri",
+    "parent_id": "1831722",
+    "long": 107
+  },
+  {
+    "id": "1830206",
+    "label": "Pailin",
+    "value": "1830206",
+    "lat": 12.86667,
+    "lon": 102.6,
+    "poi_name": "Pailin",
+    "parent_id": "1831722",
+    "long": 102.6
+  },
+  {
+    "id": "1830103",
+    "label": "Phnom Penh",
+    "value": "1830103",
+    "lat": 11.57489,
+    "lon": 104.91394,
+    "poi_name": "Phnom Penh",
+    "parent_id": "1831722",
+    "long": 104.91394
+  },
+  {
+    "id": "1822676",
+    "label": "Preah Vihear",
+    "value": "1822676",
+    "lat": 13.75,
+    "lon": 105,
+    "poi_name": "Preah Vihear",
+    "parent_id": "1831722",
+    "long": 105
+  },
+  {
+    "id": "1822609",
+    "label": "Prey Veng",
+    "value": "1822609",
+    "lat": 11.36667,
+    "lon": 105.46667,
+    "poi_name": "Prey Veng",
+    "parent_id": "1831722",
+    "long": 105.46667
+  },
+  {
+    "id": "1821301",
+    "label": "Pursat",
+    "value": "1821301",
+    "lat": 12.33333,
+    "lon": 103.66667,
+    "poi_name": "Pursat",
+    "parent_id": "1831722",
+    "long": 103.66667
+  },
+  {
+    "id": "1822449",
+    "label": "Ratanakiri",
+    "value": "1822449",
+    "lat": 13.83333,
+    "lon": 107.11667,
+    "poi_name": "Ratanakiri",
+    "parent_id": "1831722",
+    "long": 107.11667
+  },
+  {
+    "id": "1822213",
+    "label": "Siem Reap",
+    "value": "1822213",
+    "lat": 13.5,
+    "lon": 104,
+    "poi_name": "Siem Reap",
+    "parent_id": "1831722",
+    "long": 104
+  },
+  {
+    "id": "1899262",
+    "label": "Sihanoukville",
+    "value": "1899262",
+    "lat": 10.66667,
+    "lon": 103.75,
+    "poi_name": "Sihanoukville",
+    "parent_id": "1831722",
+    "long": 103.75
+  },
+  {
+    "id": "1822028",
+    "label": "Stung Treng",
+    "value": "1822028",
+    "lat": 13.75,
+    "lon": 106.25,
+    "poi_name": "Stung Treng",
+    "parent_id": "1831722",
+    "long": 106.25
+  },
+  {
+    "id": "1821992",
+    "label": "Svay Rieng",
+    "value": "1821992",
+    "lat": 11.16667,
+    "lon": 105.83333,
+    "poi_name": "Svay Rieng",
+    "parent_id": "1831722",
+    "long": 105.83333
+  },
+  {
+    "id": "1821939",
+    "label": "Takeo",
+    "value": "1821939",
+    "lat": 10.91667,
+    "lon": 104.83333,
+    "poi_name": "Takeo",
+    "parent_id": "1831722",
+    "long": 104.83333
+  },
+  {
+    "id": "7647525",
+    "label": "Tboung Khmum",
+    "value": "7647525",
+    "lat": 11.98,
+    "lon": 105.65,
+    "poi_name": "Tboung Khmum",
+    "parent_id": "1831722",
+    "long": 105.65
+  },
+  {
+    "id": "1822210",
+    "label": "\u014et\u00e2r M\u00e9anchey",
+    "value": "1822210",
+    "lat": 14.16667,
+    "lon": 103.5,
+    "poi_name": "\u014et\u00e2r M\u00e9anchey",
+    "parent_id": "1831722",
+    "long": 103.5
+  }
+]

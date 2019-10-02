@@ -1,0 +1,202 @@
+[
+  {
+    "id": "1282497",
+    "label": "Alifu Atholhu",
+    "value": "1282497",
+    "lat": 4.265,
+    "lon": 72.96933,
+    "poi_name": "Alifu Atholhu",
+    "parent_id": "1282028",
+    "long": 72.96933
+  },
+  {
+    "id": "1282478",
+    "label": "Baa Atholhu",
+    "value": "1282478",
+    "lat": 4.89104,
+    "lon": 72.97312,
+    "poi_name": "Baa Atholhu",
+    "parent_id": "1282028",
+    "long": 72.97312
+  },
+  {
+    "id": "1282447",
+    "label": "Dhaalu Atholhu",
+    "value": "1282447",
+    "lat": 2.94875,
+    "lon": 73.012,
+    "poi_name": "Dhaalu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.012
+  },
+  {
+    "id": "1282393",
+    "label": "Faafu Atholhu",
+    "value": "1282393",
+    "lat": 3.10609,
+    "lon": 72.97933,
+    "poi_name": "Faafu Atholhu",
+    "parent_id": "1282028",
+    "long": 72.97933
+  },
+  {
+    "id": "1282329",
+    "label": "Gaafu Alifu Atholhu",
+    "value": "1282329",
+    "lat": 0.38569,
+    "lon": 73.50921,
+    "poi_name": "Gaafu Alifu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.50921
+  },
+  {
+    "id": "1282328",
+    "label": "Gaafu Dhaalu Atholhu",
+    "value": "1282328",
+    "lat": 0.22028,
+    "lon": 73.10162,
+    "poi_name": "Gaafu Dhaalu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.10162
+  },
+  {
+    "id": "1281945",
+    "label": "Gnaviyani Atoll",
+    "value": "1281945",
+    "lat": -0.29693,
+    "lon": 73.42491,
+    "poi_name": "Gnaviyani Atoll",
+    "parent_id": "1282028",
+    "long": 73.42491
+  },
+  {
+    "id": "1282294",
+    "label": "Haa Alifu Atholhu",
+    "value": "1282294",
+    "lat": 7.0218,
+    "lon": 72.97981,
+    "poi_name": "Haa Alifu Atholhu",
+    "parent_id": "1282028",
+    "long": 72.97981
+  },
+  {
+    "id": "1282293",
+    "label": "Haa Dhaalu Atholhu",
+    "value": "1282293",
+    "lat": 6.82625,
+    "lon": 73.18859,
+    "poi_name": "Haa Dhaalu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.18859
+  },
+  {
+    "id": "1282208",
+    "label": "Kaafu Atoll",
+    "value": "1282208",
+    "lat": 4.16958,
+    "lon": 73.49918,
+    "poi_name": "Kaafu Atoll",
+    "parent_id": "1282028",
+    "long": 73.49918
+  },
+  {
+    "id": "1282101",
+    "label": "Laamu Atholhu",
+    "value": "1282101",
+    "lat": 2.10347,
+    "lon": 73.57291,
+    "poi_name": "Laamu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.57291
+  },
+  {
+    "id": "1282096",
+    "label": "Lhaviyani Atholhu",
+    "value": "1282096",
+    "lat": 5.28055,
+    "lon": 73.58416,
+    "poi_name": "Lhaviyani Atholhu",
+    "parent_id": "1282028",
+    "long": 73.58416
+  },
+  {
+    "id": "1281985",
+    "label": "Meemu Atholhu",
+    "value": "1281985",
+    "lat": 2.77528,
+    "lon": 73.35194,
+    "poi_name": "Meemu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.35194
+  },
+  {
+    "id": "1281937",
+    "label": "Noonu Atoll",
+    "value": "1281937",
+    "lat": 5.96486,
+    "lon": 73.38873,
+    "poi_name": "Noonu Atoll",
+    "parent_id": "1282028",
+    "long": 73.38873
+  },
+  {
+    "id": "1281918",
+    "label": "Raa Atholhu",
+    "value": "1281918",
+    "lat": 5.76347,
+    "lon": 72.98495,
+    "poi_name": "Raa Atholhu",
+    "parent_id": "1282028",
+    "long": 72.98495
+  },
+  {
+    "id": "1281893",
+    "label": "Seenu Atholhu",
+    "value": "1281893",
+    "lat": -0.68694,
+    "lon": 73.16841,
+    "poi_name": "Seenu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.16841
+  },
+  {
+    "id": "1281892",
+    "label": "Shaviyani Atholhu",
+    "value": "1281892",
+    "lat": 6.32125,
+    "lon": 73.19763,
+    "poi_name": "Shaviyani Atholhu",
+    "parent_id": "1282028",
+    "long": 73.19763
+  },
+  {
+    "id": "10346475",
+    "label": "Southern Ari Atoll",
+    "value": "10346475",
+    "lat": 3.65,
+    "lon": 72.83,
+    "poi_name": "Southern Ari Atoll",
+    "parent_id": "1282028",
+    "long": 72.83
+  },
+  {
+    "id": "1281881",
+    "label": "Thaa Atholhu",
+    "value": "1281881",
+    "lat": 2.1943,
+    "lon": 73.11791,
+    "poi_name": "Thaa Atholhu",
+    "parent_id": "1282028",
+    "long": 73.11791
+  },
+  {
+    "id": "1281843",
+    "label": "Vaavu Atholhu",
+    "value": "1281843",
+    "lat": 3.37014,
+    "lon": 73.58535,
+    "poi_name": "Vaavu Atholhu",
+    "parent_id": "1282028",
+    "long": 73.58535
+  }
+]
